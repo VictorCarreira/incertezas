@@ -382,6 +382,32 @@ def dlogr(res,x,m):
         
     return DlogR
 
+
+def dlogr90(res,resb,x,xb):
+    
+    
+    if np.size(res) > 1:
+        dado  = len(res)
+        DlogR = np.zeros(dado)
+        res   = np.array(res)
+        x     = np.array(x)
+        resb  = np.min(res)
+        xb    = np.median(x)
+        for i in range(dado):
+            DlogR[i]=math.log10(res[i]/(resb))+(0.02*(x[i]-xb))
+            if x[i]/xb < 0:
+                print(x[i]-xb)
+                if res[i]/resb < 0:
+                    print("Cuidado! Log negativo!",res[i]-resb)
+    else:
+        res = float(res)
+        resb = float(resb)
+        x = float(x)
+        xb = float(xb)
+        DlogR=math.log10(res/(resb))+(0.02*(x-xb))
+        
+    return DlogR
+
 def passey16(drlog,alfa,beta,delta,eta,Tmax,gr):
     '''Função que determina COT via delta log R
         Entradas:
