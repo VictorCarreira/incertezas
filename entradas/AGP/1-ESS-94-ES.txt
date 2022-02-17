@@ -1,0 +1,32 @@
+ POCO           :   1ESS 0094  ES       
+                                                                                                                                     
+ IDENTIFICADOR  :   SF24C43SO63D19D                         BACIA          :   ESP. SANTO (M)                                        
+ CAMPO          :                                           DATUM          :   ARATU                                                 
+ LATITUDE       :   -20.95038 (  -20  57  1.4)              LONGITUDE      :   -39.45255 (  -39  27  9.2)                            
+ MERID.CENTRAL  :   - 39                                    COORD.UTM FUNDO:    7683247.9S  452949.1W                                
+ DISTRITO       :   E&P-ES                                  ESTADO         :   ES                                                    
+ MUNICIPIO      :                                           CODIGO POCO    :   019461                                                
+ QUADRICULA     :   29768345                                MESA ROTATIVA  :     25.0                                                
+ B.A.P          :   -2110.0                                 P.F.SONDADOR   :   3110.0                                                
+ PROF.MX.PERF.  :                                           METROS PERF.   :   3110.0                                                
+ MAIOR PROF.    :   3110.0                                  INICIO         :   18/12/99                                              
+ TERMINO        :                                           DATA LIB.SONDA :                                                         
+ ULT.RECLASSIF. :                                           ULT.RECLASSIF. :   LOCACAO                                               
+ SITUACAO LOC.  :   PERFURAND                               DATA APROV.LOC :   29/11/99                                              
+ CADASTRO       :   00527                                   SEDOC          :                                                         
+ SONDA          :   SS53                                    FORMACAO P.F.  :                                                         
+ TERRA / MAR    :   MAR                                     ACS RISCO      :                                                         
+ CONTR. RISCO   :                                           DOC.APROV.LOC. :   E&P/GEREX 000116/1999                                 
+ NOME           :   ES SUBMARINO.94                         CLASSIFICACAO  :   PIONEIRO                                              
+ RECLASSIFICACAO:   INDEFINIDO.                                                                                                      
+ MC C.UTM BASE  :   - 39                                    COORD.UTM BASE :     7683247.9S    452949.1W                             
+ DADOS  LOCACAO :                                                                                                                    
+ MC LOCACAO     :   - 39                                    COORD.UTM LOC. :     7683250.0S   452950.0W                              
+ DATUM LOCACAO  :   ARATU                                   EMPR. OPER.1/2 :    INF. NAO EXISTENTE                                   
+ DIRECIONAL?    :   VERTICAL                                                                                                         
+------------------------                                                        
+ OBJETIVOS E RESULTADOS - SEQ.   COD./NOME UNIDADE   STATUS INICIAL DO OBJETIVO           RESULTADO DO OBJETIVO                      
+------------------------                                                        
+                           01    176023 / F URUCUT   PRINCIPAL                         FASE LOCACAO/PERFURACAO                       
+                           02    176023 / F URUCUT   SECUNDARIO                        FASE LOCACAO/PERFURACAO                       
+ * POCO 1ESS 0094  ES  -NAO FOI LEVANTADO REGISTRO DE PERFIS (30) -                                                                  

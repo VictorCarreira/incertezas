@@ -1,0 +1,459 @@
+  TOPO      BASE          ROCHA                 COR                       TONALIDADE     GRANULOMETRIA  ARREDONDAMENTO
+ 2026.00    2525.00       FOLHELHO
+ 2525.00    2768.00       ARENITO                                         HIALINO        MEDIO          SUBANGULAR
+ 2768.00    2773.00       MARGA                 CINZA                     CLARO
+ 2773.00    2814.50       FOLHELHO              CINZA                     ESVERDEADO
+ 2814.50    2815.50       CALCILUTITO           BRANCO
+ 2815.50    2816.50       FOLHELHO              CINZA                     ESVERDEADO
+ 2816.50    2817.50       CALCILUTITO           BRANCO
+ 2817.50    2820.00       ARENITO                                         HIALINO        MEDIO          SUBARREDONDADO
+ 2820.00    2851.00       FOLHELHO              CINZA                     ESVERDEADO
+ 2851.00    2853.50       ARENITO                                         HIALINO        MEDIO          SUBARREDONDADO
+ 2853.50    2855.50       CALCILUTITO           BRANCO
+ 2855.50    2859.00       MARGA                 CINZA                     CLARO
+ 2859.00    2865.00       ARENITO                                         HIALINO        MEDIO          SUBARREDONDADO
+ 2865.00    2867.00       MARGA                 CINZA                     CLARO
+ 2867.00    2870.50       ARENITO                                         HIALINO        MEDIO          SUBARREDONDADO
+ 2870.50    2872.00       FOLHELHO              CINZA                     ESVERDEADO
+ 2872.00    2880.00       ARENITO                                         HIALINO        MEDIO          SUBARREDONDADO
+ 2880.00    2882.50       CALCILUTITO           BRANCO
+ 2882.50    2885.50       ARENITO                                         HIALINO        MEDIO          SUBARREDONDADO
+ 2885.50    2886.50       FOLHELHO              CINZA                     ESVERDEADO
+ 2886.50    2890.00       ARENITO                                         HIALINO        MEDIO          SUBARREDONDADO
+ 2890.00    2965.00       MARGA                 CINZA                     CLARO
+ 2965.00    2970.00       FOLHELHO              CINZA                     ESVERDEADO
+ 2970.00    2989.00       MARGA                 CINZA                     CLARO
+ 2989.00    2990.50       CALCILUTITO           BRANCO
+ 2990.50    3011.50       MARGA                 CINZA                     CLARO
+ 3011.50    3014.50       FOLHELHO              CINZA                     ESVERDEADO
+ 3014.50    3031.50       ARENITO                                         HIALINO        MEDIO          SUBARREDONDADO
+ 3031.50    3034.00       CALCILUTITO           CREME                     CLARO
+ 3034.00    3038.00       ARENITO                                         HIALINO        MEDIO          SUBARREDONDADO
+ 3038.00    3045.00       FOLHELHO              CINZA                     ESVERDEADO
+ 3045.00    3046.50       CALCILUTITO           CREME                     CLARO
+ 3046.50    3048.00       FOLHELHO              CINZA                     ESVERDEADO
+ 3048.00    3049.50       CALCILUTITO           CREME                     CLARO
+ 3049.50    3055.50       FOLHELHO              CINZA                     ESVERDEADO
+ 3055.50    3057.00       CALCILUTITO           CREME                     CLARO
+ 3057.00    3064.00       MARGA                 CINZA                     CLARO
+ 3064.00    3075.00       ARENITO                                         HIALINO        MEDIO          SUBARREDONDADO
+ 3075.00    3077.00       FOLHELHO              CINZA                     ESVERDEADO
+ 3077.00    3078.00       CALCILUTITO           CREME                     CLARO
+ 3078.00    3087.00       ARENITO                                         HIALINO        MEDIO          SUBARREDONDADO
+ 3087.00    3091.00       FOLHELHO              CINZA                     ESVERDEADO
+ 3091.00    3094.00       ARENITO                                         HIALINO        MEDIO          SUBARREDONDADO
+ 3094.00    3095.00       CALCILUTITO           CREME                     CLARO
+ 3095.00    3101.00       ARENITO                                         HIALINO        MEDIO          SUBARREDONDADO
+ 3101.00    3104.50       FOLHELHO              CINZA                     ESVERDEADO
+ 3104.50    3109.00       ARENITO                                         HIALINO        MEDIO          SUBARREDONDADO
+ 3109.00    3111.00       CALCILUTITO           CINZA                     ESBRANQUICADO
+ 3111.00    3113.00       ARENITO                                         HIALINO        MEDIO          SUBARREDONDADO
+ 3113.00    3115.00       CALCILUTITO           CINZA                     ESBRANQUICADO
+ 3115.00    3118.50       ARENITO                                         HIALINO        MEDIO          SUBARREDONDADO
+ 3118.50    3119.50       FOLHELHO              CINZA                     ESVERDEADO
+ 3119.50    3121.50       CALCILUTITO           CINZA                     ESBRANQUICADO
+ 3121.50    3126.00       MARGA                 CINZA                     CLARO
+ 3126.00    3126.50       ARENITO                                         HIALINO        MEDIO          SUBARREDONDADO
+ 3126.50    3127.50       CALCILUTITO           CINZA                     ESBRANQUICADO
+ 3127.50    3128.50       ARENITO                                         HIALINO        MEDIO          SUBARREDONDADO
+ 3128.50    3130.00       CALCILUTITO           CINZA                     ESBRANQUICADO
+ 3130.00    3131.50       FOLHELHO              CINZA                     ESVERDEADO
+ 3131.50    3133.00       CALCILUTITO           CINZA                     ESBRANQUICADO
+ 3133.00    3134.00       FOLHELHO              CINZA                     ESVERDEADO
+ 3134.00    3135.50       CALCILUTITO           CINZA                     ESBRANQUICADO
+ 3135.50    3136.50       MARGA                 CINZA                     CLARO
+ 3136.50    3138.50       CALCILUTITO           CINZA                     ESBRANQUICADO
+ 3138.50    3145.00       FOLHELHO              CINZA                     ESVERDEADO
+ 3145.00    3146.00       CALCILUTITO           CINZA                     ESBRANQUICADO
+ 3146.00    3152.00       FOLHELHO              CINZA                     ESVERDEADO
+ 3152.00    3153.00       CALCILUTITO           CINZA                     ESBRANQUICADO
+ 3153.00    3155.00       FOLHELHO              CINZA                     ESVERDEADO
+ 3155.00    3156.00       ARENITO                                         HIALINO        MEDIO          SUBARREDONDADO
+ 3156.00    3160.00       FOLHELHO              CINZA                     ESVERDEADO
+ 3160.00    3162.00       CALCILUTITO           CINZA                     ESBRANQUICADO
+ 3162.00    3166.00       FOLHELHO              CINZA                     ESVERDEADO
+ 3166.00    3167.00       CALCILUTITO           CINZA                     ESBRANQUICADO
+ 3167.00    3168.00       ARENITO                                         HIALINO        MEDIO          SUBARREDONDADO
+ 3168.00    3170.00       FOLHELHO              CINZA                     ESVERDEADO
+ 3170.00    3171.00       CALCILUTITO           CINZA                     ESBRANQUICADO
+ 3171.00    3172.00       FOLHELHO              CINZA                     ESVERDEADO
+ 3172.00    3173.50       CALCILUTITO           CINZA                     ESBRANQUICADO
+ 3173.50    3175.50       FOLHELHO              CINZA                     ESVERDEADO
+ 3175.50    3178.00       MARGA                 CINZA                     CLARO
+ 3178.00    3179.00       CALCILUTITO           CINZA                     ESBRANQUICADO
+ 3179.00    3185.00       MARGA                 CINZA                     CLARO
+ 3185.00    3190.00       FOLHELHO              CINZA                     ESVERDEADO
+ 3190.00    3192.00       CALCILUTITO           CINZA                     ESBRANQUICADO
+ 3192.00    3198.00       FOLHELHO              CINZA                     ESVERDEADO
+ 3198.00    3218.00       ARENITO                                         HIALINO        MEDIO          SUBARREDONDADO
+ 3218.00    3220.00       FOLHELHO              CINZA                     ESVERDEADO
+ 3220.00    3236.50       ARENITO                                         HIALINO        MEDIO          SUBARREDONDADO
+ 3236.50    3238.50       FOLHELHO              CINZA                     ESVERDEADO
+ 3238.50    3248.50       ARENITO                                         HIALINO        MEDIO          SUBARREDONDADO
+ 3248.50    3250.50       CALCILUTITO           CINZA                     ESBRANQUICADO
+ 3250.50    3265.00       ARENITO                                         HIALINO        MEDIO          SUBARREDONDADO
+ 3265.00    3267.00       FOLHELHO              CINZA                     ESVERDEADO
+ 3267.00    3273.00       ARENITO                                         HIALINO        MEDIO          SUBARREDONDADO
+ 3273.00    3274.00       FOLHELHO              CINZA                     ESVERDEADO
+ 3274.00    3290.50       ARENITO                                         HIALINO        MEDIO          SUBARREDONDADO
+ 3290.50    3291.50       CALCILUTITO           CINZA                     ESBRANQUICADO
+ 3291.50    3299.00       ARENITO                                         HIALINO        MEDIO          SUBARREDONDADO
+ 3299.00    3300.00       CALCILUTITO           CINZA                     ESBRANQUICADO
+ 3300.00    3308.50       FOLHELHO              CINZA                     ESVERDEADO
+ 3308.50    3312.00       CALCILUTITO           CINZA                     ESBRANQUICADO
+ 3312.00    4179.00       FOLHELHO              CINZA                     ESVERDEADO
+ 4179.00    4181.00       MARGA                 CINZA                     CLARO
+ 4181.00    4422.00       FOLHELHO              CINZA                     ESVERDEADO
+ 4422.00    4424.00       AREIA                 CINZA                     ESBRANQUICADO  MUITO FINO
+ 4424.00    4425.00       FOLHELHO              CINZA                     ESVERDEADO
+ 4425.00    4428.00       AREIA                 CINZA                     ESBRANQUICADO  MUITO FINO
+ 4428.00    4557.50       FOLHELHO              CINZA                     ESVERDEADO
+ 4557.50    4558.50       MARGA                 CINZA                     CLARO
+ 4558.50    4574.00       FOLHELHO              CINZA                     ESVERDEADO
+ 4574.00    4575.00       MARGA                 CINZA                     CLARO
+ 4575.00    4661.50       FOLHELHO              CINZA                     ESVERDEADO
+ 4661.50    4662.00       MARGA                 CINZA                     CLARO
+ 4662.00    4663.00       FOLHELHO              CINZA                     ESVERDEADO
+ 4663.00    4663.50       MARGA                 CINZA                     CLARO
+ 4663.50    4671.50       FOLHELHO              CINZA                     ESVERDEADO
+ 4671.50    4672.50       AREIA                 CINZA                     ESBRANQUICADO  FINO           SUBANGULAR
+ 4672.50    4711.50       FOLHELHO              CINZA                     ESVERDEADO
+ 4711.50    4712.00       CALCILUTITO           CINZA                     ESBRANQUICADO
+ 4712.00    4718.00       FOLHELHO              CINZA                     ESVERDEADO
+ 4718.00    4718.50       AREIA                 CINZA                     ESBRANQUICADO  MEDIO          SUBARREDONDADO
+ 4718.50    4720.50       FOLHELHO              CINZA                     ESVERDEADO
+ 4720.50    4721.50       CALCILUTITO           CINZA                     ESBRANQUICADO
+ 4721.50    4722.00       AREIA                 CINZA                     ESBRANQUICADO  MEDIO          SUBARREDONDADO
+ 4722.00    4726.50       FOLHELHO              CINZA                     ESVERDEADO
+ 4726.50    4727.50       CALCILUTITO           CINZA                     ESBRANQUICADO
+ 4727.50    4750.00       FOLHELHO              CINZA                     ESVERDEADO
+ 4750.00    4750.50       CALCILUTITO           CINZA                     ESBRANQUICADO
+ 4750.50    4777.50       FOLHELHO              CINZA                     ESVERDEADO
+ 4777.50    4779.50       MARGA                 CINZA                     CLARO
+ 4779.50    4792.50       FOLHELHO              CINZA                     ESVERDEADO
+ 4792.50    4793.50       CALCILUTITO           CINZA                     ESBRANQUICADO
+ 4793.50    4806.00       FOLHELHO              CINZA                     ESVERDEADO
+ 4806.00    4808.00       AREIA                 BRANCO                                   MEDIO          SUBARREDONDADO
+ 4808.00    4809.00       FOLHELHO              CINZA                     ESVERDEADO
+ 4809.00    4812.00       AREIA                 BRANCO                                   MEDIO          SUBARREDONDADO
+ 4812.00    4819.00       FOLHELHO              CINZA                     ESVERDEADO
+ 4819.00    4821.00       AREIA                 CINZA                     ESBRANQUICADO  FINO           SUBANGULAR
+ 4821.00    4823.00       FOLHELHO              CINZA                     ESVERDEADO
+ 4823.00    4824.00       AREIA                 CINZA                     ESBRANQUICADO  FINO           SUBANGULAR
+ 4824.00    4825.00       FOLHELHO              CINZA                     ESVERDEADO
+ 4825.00    4825.50       AREIA                 CINZA                     ESBRANQUICADO  FINO           SUBANGULAR
+ 4825.50    4826.50       FOLHELHO              CINZA                     ESVERDEADO
+ 4826.50    4828.00       AREIA                 CINZA                     ESBRANQUICADO  FINO           SUBANGULAR
+ 4828.00    4841.00       FOLHELHO              CINZA                     ESVERDEADO
+ 4841.00    4843.00       AREIA                 CINZA                     ESBRANQUICADO  FINO           SUBANGULAR
+ 4843.00    4845.50       FOLHELHO              CINZA                     ESVERDEADO
+ 4845.50    4852.00       AREIA                                           HIALINO        MEDIO          SUBANGULAR
+ 4852.00    4857.50       FOLHELHO              CINZA                     ESVERDEADO
+ 4857.50    4858.50       AREIA                 CINZA                     ESBRANQUICADO  FINO           SUBANGULAR
+ 4858.50    4865.50       FOLHELHO              CINZA                     ESVERDEADO
+ 4865.50    4866.50       AREIA                 CINZA                     ESBRANQUICADO  MEDIO          SUBANGULAR
+ 4866.50    4869.00       FOLHELHO              CINZA                     ESVERDEADO
+ 4869.00    4870.00       AREIA                 CINZA                     ESBRANQUICADO  MEDIO          SUBANGULAR
+ 4870.00    4881.00       FOLHELHO              CINZA                     ESVERDEADO
+ 4881.00    4882.00       AREIA                                           HIALINO        MEDIO          SUBANGULAR
+ 4882.00    4885.00       FOLHELHO              CINZA                     ESVERDEADO
+ 4885.00    4886.00       AREIA                 CINZA                     ESBRANQUICADO  MEDIO          SUBANGULAR
+ 4886.00    4889.50       FOLHELHO              CINZA                     ESVERDEADO
+ 4889.50    4894.00       AREIA                 CINZA                     ESBRANQUICADO  FINO           SUBANGULAR
+ 4894.00    4921.00       FOLHELHO              CINZA                     ESVERDEADO
+ 4921.00    4922.50       CALCILUTITO           CINZA                     ESBRANQUICADO
+ 4922.50    4924.00       FOLHELHO              CINZA                     ESVERDEADO
+ 4924.00    4926.00       CALCILUTITO           CINZA                     ESBRANQUICADO
+ 4926.00    4927.00       FOLHELHO              CINZA                     ESVERDEADO
+ 4927.00    4928.50       AREIA                 CINZA                     ESBRANQUICADO  FINO           SUBANGULAR
+ 4928.50    4930.00       FOLHELHO              CINZA                     ESVERDEADO
+ 4930.00    4970.00       AREIA                                           HIALINO        MEDIO          SUBANGULAR
+ 4970.00    4971.50       FOLHELHO              CINZA                     ESVERDEADO
+ 4971.50    4972.50       AREIA                                           HIALINO        MEDIO          SUBANGULAR
+ 4972.50    4973.00       FOLHELHO              CINZA                     ESVERDEADO
+ 4973.00    4974.00       AREIA                                           HIALINO        MEDIO          SUBANGULAR
+ 4974.00    4974.50       FOLHELHO              CINZA                     ESVERDEADO
+ 4974.50    4975.00       AREIA                                           HIALINO        MEDIO          SUBANGULAR
+ 4975.00    4976.00       FOLHELHO              CINZA                     ESVERDEADO
+ 4976.00    4976.50       AREIA                                           HIALINO        MEDIO          SUBANGULAR
+ 4976.50    4977.00       FOLHELHO              CINZA                     ESVERDEADO
+ 4977.00    4977.50       AREIA                                           HIALINO        MEDIO          SUBANGULAR
+ 4977.50    4979.00       FOLHELHO              CINZA                     ESVERDEADO
+ 4979.00    4980.00       MARGA                 CINZA                     CLARO
+ 4980.00    4988.00       AREIA                                           HIALINO        MEDIO          SUBANGULAR
+ 4988.00    4990.00       FOLHELHO              CINZA                     ESVERDEADO
+ 4990.00    4997.00       AREIA                                           HIALINO        MEDIO          SUBANGULAR
+ 4997.00    5003.00       MARGA                 CINZA                     CLARO
+ 5003.00    5010.00       AREIA                                           HIALINO        MEDIO          SUBANGULAR
+ 5010.00    5011.00       FOLHELHO              CINZA                     ESVERDEADO
+ 5011.00    5013.00       AREIA                                           HIALINO        MEDIO          SUBANGULAR
+ 5013.00    5018.00       CALCARENITO           CREME                     ACASTANHADO    MEDIO
+ 5018.00    5020.00       FOLHELHO              CINZA                     ESVERDEADO
+ 5020.00    5037.00       CALCARENITO           CREME                     ACASTANHADO    MEDIO
+ 5037.00    5038.00       FOLHELHO              CINZA                     ESVERDEADO
+ 5038.00    5041.50       CALCARENITO           CREME                     ACASTANHADO    MEDIO
+ 5041.50    5042.50       FOLHELHO              CINZA                     ESVERDEADO
+ 5042.50    5044.50       CALCARENITO           CREME                     ACASTANHADO    MEDIO
+ 5044.50    5052.00       AREIA                                           HIALINO        MEDIO          SUBANGULAR
+ 5052.00    5054.00       CALCARENITO           CREME                     ACASTANHADO    MEDIO
+ 5054.00    5061.00       AREIA                                           HIALINO        MEDIO          SUBANGULAR
+ 5061.00    5063.00       MARGA                 CINZA                     CLARO
+ 5063.00    5076.00       AREIA                                           HIALINO        MEDIO          SUBANGULAR
+ 5076.00    5078.00       CALCARENITO           CREME                     ACASTANHADO    MEDIO
+ 5078.00    5084.00       AREIA                                           HIALINO        MEDIO          SUBANGULAR
+ 5084.00    5086.00       CALCARENITO           CREME                     ACASTANHADO    MEDIO
+ 5086.00    5090.00       AREIA                                           HIALINO        MEDIO          SUBANGULAR
+ 5090.00    5092.00       FOLHELHO              CINZA                     CLARO
+ 5092.00    5110.00       AREIA                                           HIALINO        MEDIO          SUBANGULAR
+ 5110.00    5112.00       FOLHELHO              CINZA                     CLARO
+ 5112.00    5115.00       AREIA                                           HIALINO        MEDIO          SUBANGULAR
+ 5115.00    5116.00       FOLHELHO              CINZA                     CLARO
+ 5116.00    5120.00       AREIA                                           HIALINO        MEDIO          SUBANGULAR
+ 5120.00    5121.00       FOLHELHO              CINZA                     CLARO
+ 5121.00    5140.00       AREIA                                           HIALINO        MEDIO          SUBANGULAR
+ 5140.00    5142.00       CALCARENITO           CREME                     ACASTANHADO    MEDIO
+ 5142.00    5163.00       AREIA                                           HIALINO        GROSSEIRO      SUBANGULAR
+ 5163.00    5164.00       CALCARENITO           CREME                     ACASTANHADO    MEDIO
+ 5164.00    5167.00       AREIA                                           HIALINO        MEDIO          SUBANGULAR
+ 5167.00    5172.00       CALCARENITO           CREME                     ACASTANHADO    MEDIO
+ 5172.00    5177.00       AREIA                                           HIALINO        MEDIO          SUBANGULAR
+ 5177.00    5179.00       CALCARENITO           CREME                     ACASTANHADO    MEDIO
+ 5179.00    5183.00       AREIA                                           HIALINO        MEDIO          SUBANGULAR
+ 5183.00    5185.00       CALCARENITO           CREME                     ACASTANHADO    MEDIO
+ 5185.00    5191.00       AREIA                                           HIALINO        MEDIO          SUBANGULAR
+ 5191.00    5194.00       CALCARENITO           CREME                     ACASTANHADO    MEDIO
+ 5194.00    5196.00       FOLHELHO              CINZA                     CLARO
+ 5196.00    5198.00       CALCARENITO           CREME                     ACASTANHADO    MEDIO
+ 5198.00    5204.00       AREIA                                           HIALINO        MEDIO          SUBANGULAR
+ 5204.00    5207.00       CALCARENITO           CREME                     ACASTANHADO    MEDIO
+ 5207.00    5218.00       AREIA                                           HIALINO        MEDIO          SUBANGULAR
+ 5218.00    5220.00       FOLHELHO              CINZA                     CLARO
+ 5220.00    5222.00       CALCARENITO           CREME                     ACASTANHADO    MEDIO
+ 5222.00    5227.00       AREIA                                           HIALINO        MEDIO          SUBANGULAR
+ 5227.00    5230.00       CALCARENITO           CREME                     ACASTANHADO    MEDIO
+ 5230.00    5234.00       FOLHELHO              CINZA                     CLARO
+ 5234.00    5239.00       AREIA                                           HIALINO        MEDIO          SUBANGULAR
+ 5239.00    5241.00       CALCARENITO           CREME                     ACASTANHADO    MEDIO
+ 5241.00    5250.00       AREIA                                           HIALINO        MEDIO          SUBANGULAR
+ 5250.00    5253.00       FOLHELHO              CINZA                     CLARO
+ 5253.00    5263.00       AREIA                                           HIALINO        MEDIO          SUBANGULAR
+ 5263.00    5265.00       FOLHELHO              CINZA                     CLARO
+ 5265.00    5280.00       AREIA                                           HIALINO        MEDIO          SUBANGULAR
+ 5280.00    5281.00       FOLHELHO              CINZA                     CLARO
+ 5281.00    5283.00       AREIA                                           HIALINO        MEDIO          SUBANGULAR
+ 5283.00    5286.00       CALCARENITO           CREME                     ACASTANHADO    MEDIO
+ 5286.00    5291.00       AREIA                                           HIALINO        MEDIO          SUBANGULAR
+ 5291.00    5292.00       FOLHELHO              CINZA                     CLARO
+ 5292.00    5293.00       CALCARENITO           CREME                     ACASTANHADO    MEDIO
+ 5293.00    5297.00       AREIA                                           HIALINO        MEDIO          SUBANGULAR
+ 5297.00    5304.00       CALCARENITO           CREME                     ACASTANHADO    MEDIO
+ 5304.00    5313.00       AREIA                                           HIALINO        MEDIO          SUBANGULAR
+ 5313.00    5316.00       FOLHELHO              CINZA                     CLARO
+ 5316.00    5319.00       CALCARENITO           CREME                     ACASTANHADO    MEDIO
+ 5319.00    5331.00       AREIA                                           HIALINO        MEDIO          SUBANGULAR
+ 5331.00    5333.00       CALCARENITO           CREME                     ACASTANHADO    MEDIO
+ 5333.00    5336.00       FOLHELHO              CINZA                     CLARO
+ 5336.00    5351.50       AREIA                                           HIALINO        MEDIO          SUBANGULAR
+ 5351.50    5355.00       CALCARENITO           CREME                     ACASTANHADO    MEDIO
+ 5355.00    5356.00       FOLHELHO              CINZA                     ESCURO
+ 5356.00    5358.00       CALCARENITO           CREME                     ACASTANHADO    MEDIO
+ 5358.00    5359.00       FOLHELHO              CINZA                     ESCURO
+ 5359.00    5367.00       CALCARENITO           CREME                     ACASTANHADO    MEDIO
+ 5367.00    5370.00       AREIA                                           HIALINO        MEDIO          SUBANGULAR
+ 5370.00    5383.00       CALCARENITO           CREME                     ACASTANHADO    MEDIO
+ 5383.00    5388.00       AREIA                                           HIALINO        MEDIO          SUBANGULAR
+ 5388.00    5395.00       CALCARENITO           CREME                     ACASTANHADO    MEDIO
+ 5395.00    5397.00       MARGA                 CINZA                     CLARO
+ 5397.00    5401.00       AREIA                                           HIALINO        MEDIO          SUBANGULAR
+ 5401.00    5402.00       CALCARENITO           CREME                     ACASTANHADO    MEDIO
+ 5402.00    5403.00       MARGA                 CINZA                     CLARO
+ 5403.00    5415.50       CALCARENITO           CREME                     ACASTANHADO    MEDIO
+ 5415.50    5416.50       FOLHELHO              CINZA                     ESCURO
+ 5416.50    5435.00       CALCARENITO           CREME                     ACASTANHADO    MEDIO
+ 5435.00    5437.00       FOLHELHO              CINZA                     ESCURO
+ 5437.00    5439.00       CALCARENITO           CREME                     ACASTANHADO    MEDIO
+ 5439.00    5440.50       FOLHELHO              CINZA                     ESCURO
+ 5440.50    5441.50       CALCILUTITO           CINZA                     ESBRANQUICADO
+ 5441.50    5442.00       FOLHELHO              PRETO
+ 5442.00    5442.50       CALCILUTITO           CINZA                     ESBRANQUICADO
+ 5442.50    5443.50       FOLHELHO              PRETO
+ 5443.50    5444.00       CALCILUTITO           CINZA                     ESBRANQUICADO
+ 5444.00    5445.00       FOLHELHO              PRETO
+ 5445.00    5446.00       CALCILUTITO           CINZA                     ESBRANQUICADO
+ 5446.00    5446.50       FOLHELHO              PRETO
+ 5446.50    5447.00       CALCILUTITO           CINZA                     ESBRANQUICADO
+ 5447.00    5448.00       FOLHELHO              PRETO
+ 5448.00    5448.50       CALCILUTITO           CINZA                     ESBRANQUICADO
+ 5448.50    5449.00       FOLHELHO              PRETO
+ 5449.00    5449.50       CALCILUTITO           CINZA                     ESBRANQUICADO
+ 5449.50    5453.00       FOLHELHO              PRETO
+ 5453.00    5454.00       CALCILUTITO           CINZA                     ESBRANQUICADO
+ 5454.00    5454.50       FOLHELHO              PRETO
+ 5454.50    5455.00       CALCILUTITO           CINZA                     ESBRANQUICADO
+ 5455.00    5456.00       FOLHELHO              PRETO
+ 5456.00    5457.50       CALCILUTITO           CINZA                     ESBRANQUICADO
+ 5457.50    5461.00       FOLHELHO              PRETO
+ 5461.00    5461.50       CALCILUTITO           CINZA                     ESBRANQUICADO
+ 5461.50    5462.00       FOLHELHO              PRETO
+ 5462.00    5462.50       CALCILUTITO           CINZA                     ESBRANQUICADO
+ 5462.50    5463.50       FOLHELHO              PRETO
+ 5463.50    5464.00       CALCILUTITO           CINZA                     ESBRANQUICADO
+ 5464.00    5465.00       FOLHELHO              PRETO
+ 5465.00    5465.50       CALCILUTITO           CINZA                     ESBRANQUICADO
+ 5465.50    5466.00       FOLHELHO              PRETO
+ 5466.00    5467.00       CALCILUTITO           CINZA                     ESBRANQUICADO
+ 5467.00    5468.00       FOLHELHO              PRETO
+ 5468.00    5469.00       CALCILUTITO           CINZA                     ESBRANQUICADO
+ 5469.00    5470.00       FOLHELHO              PRETO
+ 5470.00    5471.00       CALCILUTITO           CINZA                     ESBRANQUICADO
+ 5471.00    5471.50       FOLHELHO              PRETO
+ 5471.50    5472.00       CALCILUTITO           CINZA                     ESBRANQUICADO
+ 5472.00    5473.00       FOLHELHO              PRETO
+ 5473.00    5474.00       CALCILUTITO           CINZA                     ESBRANQUICADO
+ 5474.00    5475.00       FOLHELHO              PRETO
+ 5475.00    5475.50       CALCARENITO           CREME                     ACASTANHADO    MEDIO
+ 5475.50    5476.00       FOLHELHO              PRETO
+ 5476.00    5476.50       CALCILUTITO           CINZA                     ESBRANQUICADO
+ 5476.50    5477.00       FOLHELHO              PRETO
+ 5477.00    5478.00       CALCARENITO           CASTAN     O              CLARO          MEDIO
+ 5478.00    5478.50       FOLHELHO              PRETO
+ 5478.50    5479.00       CALCARENITO           CASTAN     O              CLARO          MEDIO
+ 5479.00    5479.50       FOLHELHO              PRETO
+ 5479.50    5480.50       CALCARENITO           CASTAN     O              CLARO          MEDIO
+ 5480.50    5481.00       FOLHELHO              PRETO
+ 5481.00    5481.50       CALCARENITO           CASTAN     O              CLARO          MEDIO
+ 5481.50    5482.00       CALCILUTITO           CINZA                     ESBRANQUICADO
+ 5482.00    5482.50       CALCARENITO           CASTAN     O              CLARO          MEDIO
+ 5482.50    5483.00       FOLHELHO              PRETO
+ 5483.00    5483.50       CALCILUTITO           CINZA                     ESBRANQUICADO
+ 5483.50    5484.00       FOLHELHO              PRETO
+ 5484.00    5485.00       CALCARENITO           CASTAN     O              CLARO          MEDIO
+ 5485.00    5485.50       FOLHELHO              PRETO
+ 5485.50    5486.00       CALCILUTITO           CINZA                     ESBRANQUICADO
+ 5486.00    5488.00       CALCARENITO           CASTAN     O              CLARO          MEDIO
+ 5488.00    5488.50       FOLHELHO              PRETO
+ 5488.50    5489.00       CALCARENITO           CASTAN     O              CLARO          MEDIO
+ 5489.00    5489.50       CALCILUTITO           CINZA                     ESBRANQUICADO
+ 5489.50    5491.50       CALCARENITO           CASTAN     O              CLARO          MEDIO
+ 5491.50    5492.00       FOLHELHO              PRETO
+ 5492.00    5492.50       CALCARENITO           CASTAN     O              CLARO          MEDIO
+ 5492.50    5495.50       FOLHELHO              PRETO
+ 5495.50    5497.00       CALCARENITO           CASTAN     O              CLARO          MEDIO
+ 5497.00    5498.00       FOLHELHO              PRETO
+ 5498.00    5503.00       CALCARENITO           CASTAN     O              CLARO          MEDIO
+ 5503.00    5504.50       FOLHELHO              PRETO
+ 5504.50    5506.00       CALCARENITO           CASTAN     O              CLARO          MEDIO
+ 5506.00    5506.50       FOLHELHO              PRETO
+ 5506.50    5508.00       CALCARENITO           CASTAN     O              CLARO          MEDIO
+ 5508.00    5509.00       FOLHELHO              PRETO
+ 5509.00    5510.00       CALCARENITO           CASTAN     O              CLARO          MEDIO
+ 5510.00    5511.00       FOLHELHO              PRETO
+ 5511.00    5513.00       CALCARENITO           CASTAN     O              CLARO          MEDIO
+ 5513.00    5514.00       FOLHELHO              PRETO
+ 5514.00    5515.00       CALCARENITO           CASTAN     O              CLARO          MEDIO
+ 5515.00    5516.00       FOLHELHO              PRETO
+ 5516.00    5517.50       CALCARENITO           CASTAN     O              CLARO          MEDIO
+ 5517.50    5518.00       FOLHELHO              PRETO
+ 5518.00    5520.00       CALCARENITO           CASTAN     O              CLARO          MEDIO
+ 5520.00    5521.00       CALCILUTITO           CINZA                     ESBRANQUICADO
+ 5521.00    5525.00       CALCARENITO           CASTAN     O              CLARO          MEDIO
+ 5525.00    5526.00       FOLHELHO              PRETO
+ 5526.00    5532.50       CALCARENITO           CASTAN     O              CLARO          MEDIO
+ 5532.50    5533.50       CALCILUTITO           CINZA                     ESBRANQUICADO
+ 5533.50    5534.50       CALCARENITO           CASTAN     O              CLARO          MEDIO
+ 5534.50    5536.00       FOLHELHO              PRETO
+ 5536.00    5536.50       CALCILUTITO           CINZA                     ESBRANQUICADO
+ 5536.50    5537.00       FOLHELHO              PRETO
+ 5537.00    5538.50       CALCILUTITO           CINZA                     ESBRANQUICADO
+ 5538.50    5539.50       FOLHELHO              PRETO
+ 5539.50    5547.50       CALCARENITO           CASTAN     O              CLARO          MEDIO
+ 5547.50    5549.50       CALCILUTITO           CINZA                     ESBRANQUICADO
+ 5549.50    5550.50       CALCARENITO           CASTAN     O              CLARO          MEDIO
+ 5550.50    5551.50       CALCILUTITO           CINZA                     ESBRANQUICADO
+ 5551.50    5553.00       CALCARENITO           CASTAN     O              CLARO          MEDIO
+ 5553.00    5554.00       CALCILUTITO           CINZA                     ESBRANQUICADO
+ 5554.00    5557.00       CALCARENITO           CASTAN     O              CLARO          MEDIO
+ 5557.00    5558.00       CALCILUTITO           CINZA                     ESBRANQUICADO
+ 5558.00    5562.00       CALCARENITO           CASTAN     O              CLARO          MEDIO
+ 5562.00    5563.00       FOLHELHO              PRETO
+ 5563.00    5570.00       CALCARENITO           CASTAN     O              CLARO          MEDIO
+ 5570.00    5571.00       FOLHELHO              PRETO
+ 5571.00    5572.50       CALCARENITO           CASTAN     O              CLARO          MEDIO
+ 5572.50    5573.50       FOLHELHO              PRETO
+ 5573.50    5574.00       CALCARENITO           CASTAN     O              CLARO          MEDIO
+ 5574.00    5574.50       CALCILUTITO           CINZA                     ESBRANQUICADO
+ 5574.50    5575.50       CALCARENITO           CASTAN     O              CLARO          MEDIO
+ 5575.50    5578.50       MARGA                 CINZA                     CLARO
+ 5578.50    5586.00       AREIA                                           HIALINO        FINO           SUBANGULAR
+ 5586.00    5593.00       FOLHELHO              PRETO
+ 5593.00    5595.50       CALCARENITO           CASTAN     O              CLARO          MEDIO
+ 5595.50    5597.00       FOLHELHO              PRETO
+ 5597.00    5608.00       CALCARENITO           CASTAN     O              CLARO          MEDIO
+ 5608.00    5661.50       AREIA                                           HIALINO        FINO           SUBANGULAR
+ 5661.50    5664.50       CALCARENITO           CINZA                     ACASTANHADO    MEDIO
+ 5664.50    5666.00       FOLHELHO              PRETO
+ 5666.00    5677.00       CALCARENITO           CINZA                     ACASTANHADO    MEDIO
+ 5677.00    5686.00       AREIA                                           HIALINO        MEDIO          SUBANGULAR
+ 5686.00    5697.50       CALCARENITO           CINZA                     ACASTANHADO    MEDIO
+ 5697.50    5705.00       AREIA                                           HIALINO        MEDIO          SUBANGULAR
+ 5705.00    5708.00       CALCARENITO           CINZA                     ACASTANHADO    MEDIO
+ 5708.00    5715.00       AREIA                                           HIALINO        MEDIO          SUBANGULAR
+ 5715.00    5722.00       CALCARENITO           CINZA                     ACASTANHADO    MEDIO
+ 5722.00    5743.00       AREIA                                           HIALINO        MEDIO          SUBANGULAR
+ 5743.00    5744.50       FOLHELHO              CINZA                     ACASTANHADO
+ 5744.50    5750.00       CALCARENITO           CINZA                     ACASTANHADO    MEDIO
+ 5750.00    5757.00       AREIA                                           HIALINO        MEDIO          SUBANGULAR
+ 5757.00    5759.00       CALCARENITO           CINZA                     ACASTANHADO    MEDIO
+ 5759.00    5767.00       AREIA                                           HIALINO        MEDIO          SUBANGULAR
+ 5767.00    5772.50       FOLHELHO              CINZA                     ACASTANHADO
+ 5772.50    5778.00       CALCARENITO           CINZA                     ACASTANHADO    MEDIO
+ 5778.00    5783.00       AREIA                                           HIALINO        MEDIO          SUBARREDONDADO
+ 5783.00    5785.00       FOLHELHO              CINZA                     ACASTANHADO
+ 5785.00    5790.00       AREIA                                           HIALINO        MEDIO          SUBARREDONDADO
+ 5790.00    5791.00       FOLHELHO              CINZA                     ACASTANHADO
+ 5791.00    5794.00       AREIA                                           HIALINO        MEDIO          SUBARREDONDADO
+ 5794.00    5799.50       CALCARENITO           CINZA                     ACASTANHADO    MEDIO
+ 5799.50    5804.00       FOLHELHO              CINZA                     ACASTANHADO
+ 5804.00    5806.00       AREIA                                           HIALINO        MEDIO          SUBARREDONDADO
+ 5806.00    5807.50       FOLHELHO              CINZA                     ACASTANHADO
+ 5807.50    5833.50       CALCARENITO           CINZA                     ACASTANHADO    MEDIO
+ 5833.50    5864.00       ANIDRITA
+ 5864.00    5980.50       HALITA
+ 5980.50    5993.50       FOLHELHO              PRETO
+ 5993.50    5995.00       CALCILUTITO           CINZA                     ESBRANQUICADO
+ 5995.00    5997.00       FOLHELHO              PRETO
+ 5997.00    6000.00       CALCILUTITO           CINZA                     ESBRANQUICADO
+ 6000.00    6033.00       FOLHELHO              PRETO
+ 6033.00    6037.00       AREIA                                           HIALINO        MEDIO          SUBANGULAR
+ 6037.00    6044.50       FOLHELHO              PRETO
+ 6044.50    6046.00       CALCILUTITO           CINZA                     ESBRANQUICADO
+ 6046.00    6049.00       AREIA                                           HIALINO        MEDIO          SUBARREDONDADO
+ 6049.00    6054.00       FOLHELHO              PRETO
+ 6054.00    6056.00       AREIA                                           HIALINO        MEDIO          SUBARREDONDADO
+ 6056.00    6065.00       FOLHELHO              PRETO
+ 6065.00    6070.00       AREIA                                           HIALINO        MEDIO          SUBARREDONDADO
+ 6070.00    6071.00       FOLHELHO              PRETO
+ 6071.00    6076.00       AREIA                                           HIALINO        MEDIO          SUBARREDONDADO
+ 6076.00    6081.00       MARGA                 CINZA                     CLARO
+ 6081.00    6097.00       FOLHELHO              CINZA                     CLARO
+ 6097.00    6105.00       AREIA                                           HIALINO        MEDIO          SUBARREDONDADO
+ 6105.00    6129.00       FOLHELHO              CINZA                     CLARO
+ 6129.00    6131.50       AREIA                                           HIALINO        MEDIO          SUBARREDONDADO
+ 6131.50    6139.00       FOLHELHO              CINZA                     CLARO
+ 6139.00    6140.00       AREIA                                           HIALINO        MEDIO          SUBARREDONDADO
+ 6140.00    6148.00       FOLHELHO              CINZA                     CLARO
+ 6148.00    6152.00       AREIA                                           HIALINO        MEDIO          SUBARREDONDADO
+ 6152.00    6220.00       FOLHELHO              CINZA                     CLARO
+ 6220.00    6243.00       CALCARENITO           CINZA                     ACASTANHADO    FINO
+ 6243.00    6247.00       FOLHELHO              CINZA                     CLARO
+ 6247.00    6249.00       MARGA                 CINZA                     CLARO
+ 6249.00    6250.00       AREIA                                           HIALINO        MEDIO          SUBARREDONDADO
+ 6250.00    6274.00       MARGA                 CINZA                     CLARO
+ 6274.00    6276.00       AREIA                                           HIALINO        MEDIO          SUBARREDONDADO
+ 6276.00    6299.00       MARGA                 CINZA                     CLARO
+ 6299.00    6301.00       AREIA                                           HIALINO        MEDIO          SUBARREDONDADO
+ 6301.00    6306.00       MARGA                 CINZA                     CLARO
+ 6306.00    6307.50       AREIA                                           HIALINO        MEDIO          SUBARREDONDADO
+ 6307.50    6310.00       FOLHELHO              CINZA                     CLARO
+ 6310.00    6314.00       AREIA                                           HIALINO        GROSSEIRO      SUBANGULAR
+ 6314.00    6409.00       FOLHELHO              CINZA                     CLARO

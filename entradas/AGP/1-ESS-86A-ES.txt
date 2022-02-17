@@ -1,0 +1,312 @@
+ POCO           :   1ESS 0086A ES       
+                                                                                                                                     
+ IDENTIFICADOR  :   SF24C23SO30D77BA                        BACIA          :   ESP. SANTO (M)                                        
+ CAMPO          :                                           DATUM          :   ARATU                                                 
+ LATITUDE       :   -20.41427 (  -20  24 51.4)              LONGITUDE      :   -39.49059 (  -39  29 26.1)                            
+ MERID.CENTRAL  :   - 39                                    COORD.UTM FUNDO:    7742569.3S  448814.3W                                
+ DISTRITO       :   E&P-ES                                  ESTADO         :   ES                                                    
+ MUNICIPIO      :                                           CODIGO POCO    :   019354                                                
+ QUADRICULA     :   58774244                                MESA ROTATIVA  :     14.0                                                
+ B.A.P          :   -1841.0                                 P.F.SONDADOR   :   5409.0                                                
+ PROF.MX.PERF.  :   5406.5                                  METROS PERF.   :   5409.0                                                
+ MAIOR PROF.    :   5409.0                                  INICIO         :   12/07/99                                              
+ TERMINO        :   10/11/99                                DATA LIB.SONDA :                                                         
+ ULT.RECLASSIF. :   10/11/99                                ULT.RECLASSIF. :   LOCACAO                                               
+ SITUACAO LOC.  :   AG.RECLAS                               DATA APROV.LOC :   28/05/98                                              
+ CADASTRO       :   00516                                   SEDOC          :                                                         
+ SONDA          :   NS15                                    FORMACAO P.F.  :   F REGENC                                              
+ TERRA / MAR    :   MAR                                     ACS RISCO      :                                                         
+ CONTR. RISCO   :                                           DOC.APROV.LOC. :   E&P/GEREX 000057/1998                                 
+ NOME           :   ES SUBMARINO.86A                        CLASSIFICACAO  :   PIONEIRO                                              
+ RECLASSIFICACAO:   INDEFINIDO.                                                                                                      
+ MC C.UTM BASE  :   - 39                                    COORD.UTM BASE :     7742569.3S    448814.3W                             
+ DADOS  LOCACAO :                                                                                                                    
+ MC LOCACAO     :   - 39                                    COORD.UTM LOC. :     7742518.0S   448760.0W                              
+ DATUM LOCACAO  :   ARATU                                   EMPR. OPER.1/2 :    INF. NAO EXISTENTE                                   
+ DIRECIONAL?    :   VERTICAL                                                                                                         
+ HISTORICO DA RECLASSIFICACAO -      10/11/99   -  INDEFINIDO.                                           - SITUACAO ATUAL            
+-----------------                                                               
+ REVESTIMENTOS -         TIPO           PROFUNDIDADE        DIAMETRO       IND. DE RECUPERACAO                                       
+-----------------                                                               
+                    TUBO CONDUTOR      1901.0  (-1887.0)    30               NAO                                                     
+                    REV. SUPERFICIE    2373.5  (-2359.5)    20               NAO                                                     
+                    REV. INTERMED.     3491.5  (-3477.5)    13 3/8           NAO                                                     
+                    REV. INTERMED.     4755.0  (-4741.0)     9 5/8           NAO                                                     
+------------------------------                                                  
+ PERDAS DE CIRCULACAO -  TIPO           TOPO                     BASE                VALOR DA PERDA                                  
+------------------------------                                                  
+                    PERDA PARCIAL      5033.0  (-5019.0)        5033.0   (-5019.0)      350.0                                        
+-----------------------                                                         
+ UNID.VERTICALIZADAS -                                                                                                               
+-----------------------                                                         
+ TIP QL N O M E  CODIGO  TOPO / COTA     DESC. TOPO   BASE / COTA      DESC. BASE   MET TEMPO FONTE DE INTERPRETACAO       DATA      
+ L   B  G ESPSAN 045009  1855.0(-1841.0) DISCORDANCIA 5118.0 (-5104.)                B        E&P ES GEXP/GEAGEO           29/11/1999
+ L   B  F URUCUT 176023  1855.0(-1841.0)              5118.0 (-5104.)                B        E&P ES GEXP/GEAGEO           29/11/1999
+ L   B  G BARNOV 285036  5118.0(-5104.0)                                             E        E&P ES GEXP/GEAGEO           29/11/1999
+ L   B  F REGENC 362043  5118.0(-5104.0)                                             E        E&P ES GEXP/GEAGEO           29/11/1999
+-------------------------------                                                 
+ INDICIOS DE HIDROCARBONETOS -                                                                                                       
+-------------------------------                                                 
+ TIPO ORIGEM AMOSTRA   T O P O           B A S E      MODO      R O C H A        %       TIPO/COR/TONALIDADE        V/M  UGT   UGP   
+  G     D      N    2615.0 (-2601.0) 2615.0 (-2601.0)  N                                                             /    14    00   
+  G     D      N    2654.0 (-2640.0) 2666.0 (-2652.0)  N                                                             /    25    00   
+  G     D      N    2689.0 (-2675.0) 2695.0 (-2681.0)  N                                                             /    20    00   
+  G     D      N    2775.0 (-2761.0) 2787.0 (-2773.0)  N                                                             /    20    00   
+  G     D      N    2788.0 (-2774.0) 2812.0 (-2798.0)  N                                                             /    17    00   
+  G     D      N    2894.0 (-2880.0) 2905.0 (-2891.0)  N                                                             /    27    00   
+  G     D      N    2930.0 (-2916.0) 2937.0 (-2923.0)  N                                                             /    43    01   
+  G     D      N    2955.0 (-2941.0) 2958.0 (-2944.0)  N                                                             /    38    01   
+  G     D      N    3006.0 (-2992.0) 3015.0 (-3001.0)  N                                                             /    48    15   
+  G     D      N    3085.0 (-3071.0) 3114.0 (-3100.0)  N                                                             /    28    02   
+  G     D      N    3180.0 (-3166.0) 3219.0 (-3205.0)  N                                                             /    42    10   
+  G     D      N    3229.0 (-3215.0) 3246.0 (-3232.0)  N                                                             /    79    20   
+  G     D      N    3264.0 (-3250.0) 3285.0 (-3271.0)  N                                                             /    75    25   
+  G     D      N    3297.0 (-3283.0) 3324.0 (-3310.0)  N                                                             /    55    19   
+  G     D      N    3354.0 (-3340.0) 3369.0 (-3355.0)  N                                                             /    52    18   
+  G     D      N    3399.0 (-3385.0) 3417.0 (-3403.0)  N                                                             /    45    13   
+  G     D      N    3480.0 (-3466.0) 3486.0 (-3472.0)  N                                                             /    32    10   
+  G     D      N    3507.0 (-3493.0) 3560.0 (-3546.0)  N                                                             /     9    01   
+  G     D      N    3563.0 (-3549.0) 3570.0 (-3556.0)  N                                                             /    23    01   
+  G     D      N    3573.0 (-3559.0) 3690.0 (-3676.0)  N                                                             /    23    01   
+  G     D      N    3693.0 (-3679.0) 3730.0 (-3716.0)  N                                                             /    14    02   
+  G     D      N    3733.0 (-3719.0) 3770.0 (-3756.0)  N                                                             /    15    01   
+  O     L      C    4083.0 (-4069.0) 4092.0 (-4078.0)                               ESPARSA/CASTANHO /CLARO         P/               
+  G     D      N    4730.0 (-4716.0) 4735.0 (-4721.0)  N                                                             /    11    00   
+  G     D      N    4829.0 (-4815.0) 4829.0 (-4815.0)  N                                                             /    31    14   
+  G     D      N    4981.0 (-4967.0) 4981.0 (-4967.0)  N                                                             /    33    01   
+  G     D      N    5036.0 (-5022.0) 5061.0 (-5047.0)  N                                                             /    30    08   
+  G     D      N    5335.0 (-5321.0) 5355.0 (-5341.0)  N                                                             /  1373    44   
+------------------------                                                        
+ OBJETIVOS E RESULTADOS - SEQ.   COD./NOME UNIDADE   STATUS INICIAL DO OBJETIVO           RESULTADO DO OBJETIV                       
+------------------------                                                        
+                           01    176023 / F URUCUT   PRINCIPAL                         FASE LOCACAO/PERFURACAO                       
+                           02    176023 / F URUCUT   SECUNDARIO                        FASE LOCACAO/PERFURACAO                       
+                           03    362043 / F REGENC   SECUNDARIO                        FASE LOCACAO/PERFURACAO                       
+----------------------------------                                              
+  PERFIS: AQUISICAO/PROCESSAMENTO                                                                                                    
+----------------------------------                                              
+   COD  GR  TIPO           CIA   COR DESC    DATA           TOPO            BASE                                                     
+   ---  --  ----           ---   --- ----    ----           ----            ----                                                     
+   045  01  HRI/           HALL  01    A  09/08/1999  2371.5( -2357.5) 3480.8( -3466.8)                                              
+   105  01  BCS/                       A              2371.5( -2357.5) 3471.8( -3457.8)                                              
+   153  01  SDL/                       A              2371.5( -2357.5) 2462.0( -2448.0)                                              
+   194  01  CNS/                       A              2371.5( -2357.5) 3456.8( -3442.8)                                              
+   165  01  GR                         A              1901.0( -1887.0) 3453.0( -3439.0)                                              
+   125  02  LFDT/                      A              2371.5( -2357.5) 3484.0( -3470.0)                                              
+                                                                                                                                     
+----------------------------------                                              
+  PERFIS: AQUISICAO/PROCESSAMENTO                                                                                                    
+----------------------------------                                              
+   COD  GR  TIPO           CIA   COR DESC    DATA           TOPO            BASE                                                     
+   ---  --  ----           ---   --- ----    ----           ----            ----                                                     
+   165  02  GR             HALL  01    B  09/08/1999  2371.5( -2357.5) 3453.0( -3439.0)                                              
+   045  01  HRI/           HALL  02    B  14/09/1999  3491.5( -3477.5) 4756.8( -4742.8)                                              
+   105  01  BCS/                       B              3491.5( -3477.5) 4747.3( -4733.3)                                              
+   153  01  SDL/                       B              3491.5( -3477.5) 4737.8( -4723.8)                                              
+   194  01  CNS/                       B              3491.5( -3477.5) 3632.2( -3618.2)                                              
+   165  01  GR                         C              3491.5( -3477.5) 4729.2( -4715.2)                                              
+   125  02  LFDT/                      B              3549.4( -3535.4) 4751.8( -4737.8)                                              
+   165  02  GR                         D              3549.4( -3535.4) 4748.8( -4734.8)                                              
+   045  03  HRI/           HALL  03    C  13/11/1999  4755.0( -4741.0) 5403.3( -5389.3)                                              
+   153  03  SDL/                       C              4755.0( -4741.0) 5384.3( -5370.3)                                              
+   194  03  CNS/                       C              4755.0( -4741.0) 5378.7( -5364.7)                                              
+   165  03  GR                         C              4755.0( -4741.0) 5365.7( -5351.7)                                              
+   020  04  DLL/                       A              4755.0( -4741.0) 5389.5( -5375.5)                                              
+   080  04  MSFL/                      A              4755.0( -4741.0) 5404.0( -5390.0)                                              
+   115  04  FWS/                       A              4755.0( -4741.0) 5389.5( -5375.5)                                              
+   165  04  GR                         F              4755.0( -4741.0) 5381.9( -5367.9)                                              
+   246  05  WSS                        A              4295.0( -4281.0) 5400.0( -5386.0)  (  11 NIVEIS )                              
+--------------------------------------                                          
+  PERFIS: DADOS DE REFERENCIA SISMICA                                                                                                
+--------------------------------------                                          
+ NUMERO DA     TIPO DE      DESCIDA DA       PROFUNDIDADE           TEMPO                                                            
+ CORRIDA       PERFIL       FERRAMENTA          MEDIDA              SISMICO                                                          
+   03           246             A            4295.0 ( -4281.0)      4501.8                                                           
+                                                                                                                                     
+--------------------------------------                                          
+  PERFIS: DADOS DE REFERENCIA SISMICA                                                                                                
+--------------------------------------                                          
+ NUMERO DA     TIPO DE      DESCIDA DA       PROFUNDIDADE           TEMPO                                                            
+ CORRIDA       PERFIL       FERRAMENTA          MEDIDA              SISMICO                                                          
+   03              A                         4485.0 ( -4471.0)      4607.4                                                           
+                                             4657.0 ( -4643.0)      4698.4                                                           
+                                             4825.0 ( -4811.0)      4783.0                                                           
+                                             4895.0 ( -4881.0)      4815.0                                                           
+                                             4960.0 ( -4946.0)      4849.0                                                           
+                                             5010.0 ( -4996.0)      4874.4                                                           
+                                             5112.0 ( -5098.0)      4925.2                                                           
+                                             5275.0 ( -5261.0)      4995.4                                                           
+                                             5350.0 ( -5336.0)      5020.8                                                           
+                                             5400.0 ( -5386.0)      5023.8                                                           
+------------------------------------------------------                          
+ PERFIS: REGISTRO DE DADOS DE TEMPERATURA EXTRAPOLADA                                                                                
+------------------------------------------------------                          
+  CORRIDA               METODO                               TEMPERATURA               PROF. DEFINIDA             GRADIENTE          
+                        EXTRAPOLACAO                         EXTRAPOLADA                POR GRAFICO               GEOTERMICO         
+                                                                                                                  (GRAU F/M)         
+    01                  LACHENBRUCH & BREWER                    160.4                  3484.0( -3470.0)              .046            
+    03                  LACHENBRUCH & BREWER                    271.9                  5403.0( -5389.0)              .050            
+--------------------------------------------                                    
+ LITOLOGIA - *** VALORES VERTICALIZADOS ***                                                                                          
+--------------------------------------------                                    
+  TOPO              BASE                ROCHA                 COR         TONALIDADE    GRANULOMETRIA   ARREDONDAMENTO               
+ 1855.0 (-1841.0)  2385.0 (-2371.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   2442.0 (-2428.0)  58 MARGA                 CINZA       ESBRANQUICADO                                              
+                   2443.0 (-2429.0)   6 CALCILUTITO           CINZA       ESBRANQUICADO                                              
+                   2452.0 (-2438.0)  58 MARGA                 CINZA       ESVERDEADO                                                 
+                   2456.0 (-2442.0)   6 CALCILUTITO           CINZA       ESBRANQUICADO                                              
+                   2458.0 (-2444.0)  58 MARGA                 CINZA       ESVERDEADO                                                 
+                   2460.0 (-2446.0)   6 CALCILUTITO           CINZA       ESBRANQUICADO                                              
+                   2462.0 (-2448.0)  58 MARGA                 CINZA       ESVERDEADO                                                 
+                   2469.0 (-2455.0)   6 CALCILUTITO           CINZA       ESBRANQUICADO                                              
+                   2470.0 (-2456.0)  58 MARGA                 CINZA       ESVERDEADO                                                 
+                   2472.0 (-2458.0)   6 CALCILUTITO           CINZA       ESBRANQUICADO                                              
+                   2497.0 (-2483.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   2550.0 (-2536.0)  58 MARGA                 CINZA       ESVERDEADO                                                 
+                   2624.0 (-2610.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   2667.0 (-2653.0)  58 MARGA                 CINZA       ESVERDEADO                                                 
+                   2675.0 (-2661.0)  54 SILTITO               CINZA       CLARO                                                      
+                   2681.0 (-2667.0)  49 ARENITO                           ESBRANQUICADO MEDIO           SUBARREDONDADO               
+                   2685.0 (-2671.0)  54 SILTITO               CINZA       CLARO                                                      
+                   2689.0 (-2675.0)  49 ARENITO                           ESBRANQUICADO MEDIO           SUBARREDONDADO               
+                   2715.0 (-2701.0)  54 SILTITO               CINZA       CLARO                                                      
+                   2719.0 (-2705.0)  49 ARENITO                           ESBRANQUICADO MEDIO           SUBARREDONDADO               
+                   2721.0 (-2707.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   2724.0 (-2710.0)  49 ARENITO                           ESBRANQUICADO MEDIO           SUBARREDONDADO               
+                   2735.0 (-2721.0)  58 MARGA                 CINZA       ESVERDEADO                                                 
+                   2752.0 (-2738.0)  49 ARENITO                           ESBRANQUICADO MEDIO           SUBARREDONDADO               
+                   2755.0 (-2741.0)  58 MARGA                 CINZA       ESVERDEADO                                                 
+                   2759.0 (-2745.0)  49 ARENITO                           ESBRANQUICADO MUITO FINO                                   
+                   2765.0 (-2751.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   2767.0 (-2753.0)  49 ARENITO                           ESBRANQUICADO MUITO FINO                                   
+                   2771.0 (-2757.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   2773.0 (-2759.0)   6 CALCILUTITO           CINZA       ESBRANQUICADO                                              
+                   2774.0 (-2760.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   2776.0 (-2762.0)  49 ARENITO                           ESBRANQUICADO MUITO FINO                                   
+                   2785.0 (-2771.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   2788.0 (-2774.0)  49 ARENITO                           ESBRANQUICADO MUITO FINO                                   
+                   2791.0 (-2777.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   2799.0 (-2785.0)  49 ARENITO                           ESBRANQUICADO MUITO FINO                                   
+                   2801.0 (-2787.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   2804.0 (-2790.0)  49 ARENITO                           ESBRANQUICADO MUITO FINO                                   
+                   2807.0 (-2793.0)  57 FOLHELHO              CINZA       ESVERDEADO                                                 
+                   2809.0 (-2795.0)  49 ARENITO                           ESBRANQUICADO MUITO FINO                                   
+                   2816.0 (-2802.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   2819.0 (-2805.0)  49 ARENITO                           ESBRANQUICADO MUITO FINO                                   
+                   2821.0 (-2807.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   2823.0 (-2809.0)  49 ARENITO                           ESBRANQUICADO MUITO FINO                                   
+                   2830.0 (-2816.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   2832.0 (-2818.0)   6 CALCILUTITO           CINZA       ESBRANQUICADO                                              
+                   2839.0 (-2825.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   2841.0 (-2827.0)   6 CALCILUTITO           CINZA       ESBRANQUICADO                                              
+                   2874.0 (-2860.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   2876.0 (-2862.0)   6 CALCILUTITO           CINZA       ESBRANQUICADO                                              
+                   3068.0 (-3054.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   3070.0 (-3056.0)  54 SILTITO               CINZA       CLARO                                                      
+                   3218.0 (-3204.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   3250.0 (-3236.0)  58 MARGA                 CINZA       ESVERDEADO                                                 
+                   3260.0 (-3246.0)  57 FOLHELHO              CINZA       CLARO                                                      
+                   3265.0 (-3251.0)  58 MARGA                 CINZA       CLARO                                                      
+                   3348.0 (-3334.0)  57 FOLHELHO              CINZA       CLARO                                                      
+                   3435.0 (-3421.0)  58 MARGA                 CINZA       CLARO                                                      
+                   3869.0 (-3855.0)  57 FOLHELHO              CINZA       CLARO                                                      
+                   3871.0 (-3857.0)  49 ARENITO                           ESBRANQUICADO MUITO FINO      SUBARREDONDADO               
+                   3884.0 (-3870.0)  57 FOLHELHO              CINZA       CLARO                                                      
+                   3886.0 (-3872.0)  49 ARENITO                           ESBRANQUICADO MUITO FINO      SUBARREDONDADO               
+                   3901.0 (-3887.0)  57 FOLHELHO              CINZA       CLARO                                                      
+                   3905.0 (-3891.0)  49 ARENITO                           ESBRANQUICADO MUITO FINO      SUBARREDONDADO               
+                   3912.0 (-3898.0)  57 FOLHELHO              CINZA       CLARO                                                      
+                   3913.0 (-3899.0)  49 ARENITO                           ESBRANQUICADO MUITO FINO      SUBARREDONDADO               
+                   3934.0 (-3920.0)  57 FOLHELHO              CINZA       CLARO                                                      
+                   3936.0 (-3922.0)  49 ARENITO                           ESBRANQUICADO MUITO FINO      SUBARREDONDADO               
+                   3956.0 (-3942.0)  57 FOLHELHO              CINZA       CLARO                                                      
+                   3957.0 (-3943.0)  49 ARENITO                           ESBRANQUICADO MUITO FINO      SUBARREDONDADO               
+                   3964.0 (-3950.0)  57 FOLHELHO              CINZA       CLARO                                                      
+                   3966.0 (-3952.0)  49 ARENITO                           ESBRANQUICADO MUITO FINO      SUBARREDONDADO               
+                   3972.0 (-3958.0)  57 FOLHELHO              CINZA       CLARO                                                      
+                   3974.0 (-3960.0)  49 ARENITO                           ESBRANQUICADO MUITO FINO      SUBARREDONDADO               
+                   3975.0 (-3961.0)  57 FOLHELHO              CINZA       CLARO                                                      
+                   3976.0 (-3962.0)  49 ARENITO                           ESBRANQUICADO MUITO FINO      SUBARREDONDADO               
+                   4069.0 (-4055.0)  57 FOLHELHO              CINZA       CLARO                                                      
+                   4071.0 (-4057.0)  49 ARENITO               CASTANHO    CLARO         MUITO FINO      SUBANGULAR                   
+                   4073.0 (-4059.0)  57 FOLHELHO              CINZA       CLARO                                                      
+                   4074.0 (-4060.0)  49 ARENITO               CASTANHO    CLARO         MUITO FINO      SUBANGULAR                   
+                   4081.0 (-4067.0)  57 FOLHELHO              CINZA       CLARO                                                      
+                   4083.0 (-4069.0)  49 ARENITO               CASTANHO    CLARO         MUITO FINO      SUBANGULAR                   
+                   4109.0 (-4095.0)  57 FOLHELHO              CINZA       CLARO                                                      
+                   4111.0 (-4097.0)  49 ARENITO               CASTANHO    CLARO         MUITO FINO      SUBANGULAR                   
+                   4358.0 (-4344.0)  57 FOLHELHO              CINZA       CLARO                                                      
+                   4538.0 (-4524.0)  58 MARGA                 CINZA       CLARO                                                      
+                   4540.0 (-4526.0)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   4638.0 (-4624.0)  58 MARGA                 CINZA       CLARO                                                      
+                   4640.0 (-4626.0)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   4688.0 (-4674.0)  58 MARGA                 CINZA       CLARO                                                      
+                   4691.0 (-4677.0)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   4692.0 (-4678.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   4694.0 (-4680.0)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   4696.0 (-4682.0)  54 SILTITO               CINZA       CLARO                                                      
+                   4699.0 (-4685.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   4701.0 (-4687.0)  54 SILTITO               CINZA       CLARO                                                      
+                   4708.0 (-4694.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   4710.0 (-4696.0)  54 SILTITO               CINZA       CLARO                                                      
+                   4712.0 (-4698.0)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   4718.0 (-4704.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   4719.0 (-4705.0)  54 SILTITO               CINZA       CLARO                                                      
+                   4721.0 (-4707.0)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   4724.0 (-4710.0)  54 SILTITO               CINZA       CLARO                                                      
+                   4735.0 (-4721.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   4739.0 (-4725.0)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   4779.0 (-4765.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   4782.0 (-4768.0)  54 SILTITO               CINZA       CLARO                                                      
+                   4821.0 (-4807.0)  57 FOLHELHO              CINZA       CLARO                                                      
+                   4823.0 (-4809.0)   6 CALCILUTITO           CINZA       ESBRANQUICADO                                              
+                   4829.0 (-4815.0)  57 FOLHELHO              CINZA       CLARO                                                      
+                   4831.0 (-4817.0)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   4834.0 (-4820.0)  57 FOLHELHO              CINZA       CLARO                                                      
+                   4836.0 (-4822.0)  54 SILTITO               CINZA       CLARO                                                      
+                   4838.0 (-4824.0)  57 FOLHELHO              CINZA       CLARO                                                      
+                   4840.0 (-4826.0)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   4843.0 (-4829.0)  57 FOLHELHO              CINZA       CLARO                                                      
+                   4845.0 (-4831.0)  54 SILTITO               CINZA       CLARO                                                      
+                   4847.0 (-4833.0)  57 FOLHELHO              CINZA       CLARO                                                      
+                   4849.0 (-4835.0)  54 SILTITO               CINZA       CLARO                                                      
+                   4857.0 (-4843.0)  57 FOLHELHO              CINZA       CLARO                                                      
+                   4858.0 (-4844.0)  54 SILTITO               CINZA       CLARO                                                      
+                   4867.0 (-4853.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   4868.0 (-4854.0)  54 SILTITO               CINZA       CLARO                                                      
+                   4887.0 (-4873.0)  57 FOLHELHO              CINZA       CLARO                                                      
+                   4889.0 (-4875.0)  54 SILTITO               CINZA       CLARO                                                      
+                   4910.0 (-4896.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   4912.0 (-4898.0)  54 SILTITO               CINZA       CLARO                                                      
+                   4942.0 (-4928.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   4943.0 (-4929.0)  54 SILTITO               CINZA       CLARO                                                      
+                   4985.0 (-4971.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   4987.0 (-4973.0)   6 CALCILUTITO           CINZA       ESBRANQUICADO                                              
+                   5003.0 (-4989.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   5040.0 (-5026.0)  58 MARGA                 CINZA       CLARO                                                      
+                   5046.0 (-5032.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   5047.0 (-5033.0)  54 SILTITO               CINZA       CLARO                                                      
+                   5051.0 (-5037.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   5059.0 (-5045.0)  58 MARGA                 CINZA       CLARO                                                      
+                   5062.0 (-5048.0)   6 CALCILUTITO           CINZA       ESBRANQUICADO                                              
+                   5120.0 (-5106.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   5178.0 (-5164.0)   6 CALCILUTITO           CINZA       ESBRANQUICADO                                              
+                   5231.0 (-5217.0)   8 CALCARENITO           CINZA       CLARO         FINO                                         
+                   5232.0 (-5218.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   5248.0 (-5234.0)   6 CALCILUTITO           CINZA       ESBRANQUICADO                                              
+                   5250.0 (-5236.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   5254.0 (-5240.0)   6 CALCILUTITO           CINZA       ESBRANQUICADO                                              
+                   5257.0 (-5243.0)  58 MARGA                 CINZA       CLARO                                                      
+                   5285.0 (-5271.0)   8 CALCARENITO           CINZA       CLARO         FINO                                         
+                   5290.0 (-5276.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   5292.0 (-5278.0)   8 CALCARENITO           CINZA       CLARO         MEDIO                                        
+                   5293.0 (-5279.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   5409.0 (-5395.0)   8 CALCARENITO           CINZA       CLARO         MEDIO                                        
+  RESUMO DAS ROCHAS ENCONTRADAS NO POCO -                                                                                            
+   6  CALCILUTITO      =   109.0 M      3.07 %                                                                                       
+   8  CALCARENITO      =   199.0 M      5.60 %                                                                                       
+  49  ARENITO          =   108.0 M      3.04 %                                                                                       
+  54  SILTITO          =    67.0 M      1.89 %                                                                                       
+  57  FOLHELHO         =  2392.0 M     67.30 %                                                                                       
+  58  MARGA            =   679.0 M     19.11 %                                                                                       
+ ++++++++++++++++++++++++++++++++++                                                                                                  

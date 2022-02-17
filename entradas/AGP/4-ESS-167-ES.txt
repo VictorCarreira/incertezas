@@ -1,0 +1,1464 @@
+PREFIXO ANP       : 4-BRSA-431-ESS      
+=====================================
+CADASTRO ANP      : 34271021891                                                                                                                                                                                                                                
+SIGLA DO PAIS     : 4ESS 0167 ES
+DADOS DE LOCALIZACAO GEOLOGICA
+______________________________
+BACIA             : ESPIRITO SANTO (MAR)                                                                                                                                                                                                                       
+CAMPO             :                                                                                                                                                                                                                                            
+BLOCO (pertinencia geografica):                                                                                                                                                                                                                                
+ GLF    GOLFINHO     EM ATIVIDADE                                                                                                                                                                                                                              
+AREA DE BACIA     :                                                                                                                                                                                                                                            
+FORM.PROF.FINAL   : FM. SAO MATEUS                                                                                                                                                                                                                             
+BLOCO CONTRATUAL:   BES-100                                                                                                                                                                                                                                    
+DADOS DE LOCALIZACAO POLITICA
+_____________________________
+PAIS              : BRASIL
+UN.FEDERACAO      : ESPIRITO SANTO                                                                                                                                                                                                                             
+MUNICIPIO         :                                                                                                                                                                                                                                            
+NOME DA LOCACAO         4-ESS-167 LEAD CORMORAO                                                                                                                                                                                                                
+LOCALIZACAO PREVISTA DA BAP                                                                                                                                                                                                                                    
+   Datum                      :        ARATU-ES                                                                                                                                                                                                                
+   MC                         :   -39: 0:0.0000                                                                                                                                                                                                                
+   UTM       N Prevista Base  :       7788234.7                                                                                                                                                                                                                
+   UTM       E Prevista Base  :        428937.5                                                                                                                                                                                                                
+COORD. PREVISTAS P/ O FUNDO                                                                                                                                                                                                                                    
+   Datum                      :        ARATU-ES                                                                                                                                                                                                                
+   MC                         :   -39: 0:0.0000                                                                                                                                                                                                                
+   UTM       N Prevista Fundo :       7788234.7                                                                                                                                                                                                                
+   UTM       E Prevista Fundo :        428937.5                                                                                                                                                                                                                
+COTA FINAL PREVISTA           :         -4300.0                                                                                                                                                                                                                
+PROF.FINAL MEDIDA PREVISTA    :          4325.0                                                                                                                                                                                                                
+DATA DE APROVACAO             :      08/06/2006                                                                                                                                                                                                                
+DOCUMENTO DE APROVACAO        :DIP E&P-EXP 104/2006 DE 08/06/2006                                                                                                                                                                                              
+PREVISAO OCORRENCIA DE CO2    :                                                                                                                                                                                                                                
+PREVISAO OCORRENCIA DE H2S    :                                                                                                                                                                                                                                
+LAMINA D'AGUA PREV            :           976.0                                                                                                                                                                                                                
+QUADRO PREVISOES GEOLOGICAS   :                                                                                                                                                                                                                                
+OBSERVACOES                   :                                                                                                                                                                                                                                
+DADOS POSICIONAIS E GEOMETRICOS
+_______________________________
+LOCALIZACAO GEOGRAFICA DA BAP                                                                                                                                                                                                                                  
+   Datum                      :        ARATU-ES                                                                                                                                                                                                                
+   MC                         :   -39: 0:0.0000                                                                                                                                                                                                                
+   UTM       N Base           :       7788235.0                                                                                                                                                                                                                
+   UTM       E Base           :        428937.0                                                                                                                                                                                                                
+   Precisao                   :                                                                                                                                                                                                                                
+  COORD. GEOGRAFICA DA BAP:                                                                                                                                                                                                                                    
+    Latitude     :  -20.00101   Longitude    :  -39.67931                                                                                                                                                                                                      'n    Datum        ARATU-ES                                                                                                                                                                                                                                      
+LOCALIZACAO GEOGRAFICA DO FUNDO DO POCO                                                                                                                                                                                                                        
+   Datum                      :        ARATU-ES                                                                                                                                                                                                                
+   MC                         :   -39: 0:0.0000                                                                                                                                                                                                                
+   UTM       N Fundo Poco     :       7788211.9                                                                                                                                                                                                                
+   UTM       E Fundo Poco     :        428878.5                                                                                                                                                                                                                
+   Precisao                   :                                                                                                                                                                                                                                
+  COORD. GEOGRAFICA FUNDO                                                                                                                                                                                                                                      
+    Latitude     :  -20.00122   Longitude    :  -39.67987                                                                                                                                                                                                      
+    Datum        ARATU-ES                                                                                                                                                                                                                                      
+COTA ALTIMETRICA              :                                                                                                                                                                                                                                
+DISTANCIA A COSTA             :         42000.0                                                                                                                                                                                                                
+LAMINA D'AGUA                 :           968.0                                                                                                                                                                                                                
+PROF. FINAL PERFILAGEM        :          4119.0                                                                                                                                                                                                                
+PROF. FINAL SONDADOR          :          4119.0                                                                                                                                                                                                                
+MAIOR PROFUNDIDADE ALCANCADA  :          4119.0                                                                                                                                                                                                                
+ALTITUDE MESA ROT(SONDA REF.PROF.)         25.0                                                                                                                                                                                                                
+  COORD. GMS DA BAP:                                                                                                                                                                                                                                           
+    Latitude     :     020:00:3.638 S    Longitude    :     039:40:45.512 W                                                                                                                                                                                    
+    Datum        ARATU-ES                                                                                                                                                                                                                                      
+  COORD. GMS  FUNDO:                                                                                                                                                                                                                                           
+    Latitude     :     020:00:4.383 S    Longitude    :     039:40:47.529 W                                                                                                                                                                                    
+    Datum        ARATU-ES                                                                                                                                                                                                                                      
+ALVO ATINGIDO                 : S                                                                                                                                                                                                                              
+CO2                           :                                                                                                                                                                                                                                
+H2S                           :                                                                                                                                                                                                                                
+DATA DE INICIO DO POCO        : 08/07/2006                                                                                                                                                                                                                     
+DATA DE TERMINO DO POCO       : 21/08/2006                                                                                                                                                                                                                     
+PREFIXO SONDA REF. P/ PROF.   : SS-54                                                                                                                                                                                                                          
+DETALHAMENTO DA LOCALIZACAO   :                                                                                                                                                                                                                                
+FINALIDADE DO POCO            : PRODUCAO DE OLEO                                                                                                                                                                                                               
+ TESTAR A OCORRE^NCIA DE HIDROCARBONETOS 
+EM ARMADILHA ESTRUTURAL RELACIONADA A 
+LI'STRICO DESENVOLVIDO NO 
+HISTORICO DA MUDANCA DE COORDENADAS DO POCO
+_____________________________________________
+DATA                          : 29-SEP-09 
+DESCRICAO                     : Nome do Datum Geodesico
+VALOR ANTERIOR                : 4
+VALOR ATUAL                   : 13
+-------------------------------------------------------------------
+DATA                          : 06-NOV-06 
+DESCRICAO                     : Coordenada UTM Leste do Fundo
+VALOR ANTERIOR                : 428878.4
+VALOR ATUAL                   : 428878.5
+-------------------------------------------------------------------
+DATA                          : 06-NOV-06 
+DESCRICAO                     : Coordenada UTM Norte do Fundo
+VALOR ANTERIOR                : 7788212.1
+VALOR ATUAL                   : 7788211.9
+-------------------------------------------------------------------
+DATA                          : 24-OCT-06 
+DESCRICAO                     : Coordenada UTM Leste do Fundo
+VALOR ANTERIOR                : 428824.8
+VALOR ATUAL                   : 428878.4
+-------------------------------------------------------------------
+DATA                          : 24-OCT-06 
+DESCRICAO                     : Coordenada UTM Norte do Fundo
+VALOR ANTERIOR                : 7788223.7
+VALOR ATUAL                   : 7788212.1
+-------------------------------------------------------------------
+DATA                          : 23-OCT-06 
+DESCRICAO                     : Coordenada UTM Leste do Fundo
+VALOR ANTERIOR                : 428878.4
+VALOR ATUAL                   : 428824.8
+-------------------------------------------------------------------
+DATA                          : 23-OCT-06 
+DESCRICAO                     : Coordenada UTM Norte do Fundo
+VALOR ANTERIOR                : 7788212.1
+VALOR ATUAL                   : 7788223.7
+-------------------------------------------------------------------
+DATA                          : 19-OCT-06 
+DESCRICAO                     : Coordenada UTM Leste do Fundo
+VALOR ANTERIOR                :  
+VALOR ATUAL                   : 428878.4
+-------------------------------------------------------------------
+DATA                          : 19-OCT-06 
+DESCRICAO                     : Coordenada UTM Norte do Fundo
+VALOR ANTERIOR                :  
+VALOR ATUAL                   : 7788212.1
+-------------------------------------------------------------------
+DATA                          : 28-SEP-06 
+DESCRICAO                     : Coordenada UTM Leste da Base
+VALOR ANTERIOR                :  
+VALOR ATUAL                   : 428937
+-------------------------------------------------------------------
+DATA                          : 28-SEP-06 
+DESCRICAO                     : Coordenada UTM Norte da Base
+VALOR ANTERIOR                :  
+VALOR ATUAL                   : 7788235
+-------------------------------------------------------------------
+DATA                          : 28-SEP-06 
+DESCRICAO                     : Data de Conclus?o do Poco
+VALOR ANTERIOR                :  
+VALOR ATUAL                   : 02-SEP-06
+-------------------------------------------------------------------
+DATA                          : 28-JUN-06 
+DESCRICAO                     : Inclus?o de Registro
+VALOR ANTERIOR                :  
+VALOR ATUAL                   :  
+-------------------------------------------------------------------
+PROPRIEDADES E RESPONSABILIDADES
+________________________________
+PROPRIETARIO                  : PETROBRAS                                                                                                                                                                                                                      
+UNIDADE DE NEGOCIOS GEOGRAFICA: UN-ES                                                                                                                                                                                                                          
+UNIDADE NEGOCIOS RESPONSAVEL  : E&P-EXP                                                                                                                                                                                                                        
+LOCACAO                       : E&P EXPLORACAO                                                                                                                                                                                                                 
+APROVACAO                     : E&P EXPLORACAO                                                                                                                                                                                                                 
+ACOMPANHAMENTO GEOLOGICO      : AVALIACAO E ACOMPANHAMENTO GEOLOGICO                                                                                                                                                                                           
+PERFURACAO                    : UNIDADE DE NEGOCIO DE EXPLORACAO E PRODUCAO DO ESPIRITO SA  NTO                                                                                                                                                                
+HISTORICO DA RECLASSIFICACAO
+____________________________
+  21/08/2006 INDEFINIDO
+  18/02/2007 DESCOBRIDOR DE NOVA JAZIDA COM OLEO
+HISTORICO DO STATUS DO POCO
+___________________________
+  08/06/2006, 00:00:00 Locacao aprovada DIP E&P-EXP 104/2006 DE 08/06/2006
+ COMEXP APROVOU NO RJ EM 27/04/06
+  08/07/2006, 17:00:00 Poco perfurando  
+  21/08/2006, 20:00:00 Poco concluido aguardando reclassificacao  
+  02/09/2006, 00:00:00 Poco concluido  
+  NUMERO         : 0                                                                                                                
+  INICIO         : 08/07/2006, 17:00:00                                                                                             
+  TERMINO        : 21/08/2006, 20:00:00                                                                                             
+  NUM. SIDETRACK ORIGEM:                PROF. DE ORIGEM       :                                                                     
+  PROF. FINAL SONDADOR : 4119.00                                                                                                    
+  COORD. GEOGRAFICA FUNDO SIDETRACK:                                                                                                
+    Latitude     :  -20.00122   Longitude    :  -39.67987                                                                           
+  COORD. UTM         DO FUNDO DO SIDETRACK:                                                                                         
+    UTM        Norte: 7788211.9 UTM        Leste:  428878.5          Meridiano    : -39.00000   Precisao     :                      
+____________________________
+  SONDAS UTILIZADAS NO POCO:
+____________________________
+  PREFIXO DA SONDA     : SS-54                                                                                                      
+  INICIO VINCULO       : 05/07/2006                                                                                                 
+  TERMINO VINCULO      : 10/09/2006                                                                                                 
+  ALTITUDE MESA ROT.   :    25.0                                                                                                    
+  DATA DE LIBERACAO    : 10/09/2006                                                                                                 
+  OPERADORA DA EPOCA   : BRASDRILL                                                                                                  
+  DIAMETRO DO RISER    :                                                                                                            
+ _______________________________________________________
+ UNIDADES LITOESTRATIGRAFICAS - Profundidades MEDIDAS
+ _______________________________________________________
+ Q UNIDADE      TOPO(Prof/Cota) Q BASE(Prof/Cota) Q  MET. INTERP  DATA INTERP FONTE INTERPRETACAO   COMENTARIO
+ B F URUCUT       993.0  -968.0 D  3691.0 -3665.6 D  NAO REVISTO  18/10/2006  UN-ES/ATEX/AAG                                        
+ B F REGENC      3691.0 -3665.6 D  3842.0 -3816.2    NAO REVISTO  18/10/2006  UN-ES/ATEX/AAG                                        
+ B F SMATEU      3842.0 -3816.2                      NAO REVISTO  18/10/2006  UN-ES/ATEX/AAG                                        
+ _________________________________________________________
+ UNIDADES CRONOESTRATIGRAFICAS - Profundidades MEDIDAS
+ _________________________________________________________
+ Q UNIDADE      TOPO(Prof/Cota) Q BASE(Prof/Cota) Q  MET. INTERP  DATA INTERP FONTE INTERPRETACAO   COMENTARIO
+ B EOC. MED      2190.0 -2164.9 K  2250.0 -2224.9 K  PALEO        30/11/2006  CENPES/PDEXP/BPA                                      
+ B EOC. MED      2360.5 -2335.4 R  2360.5 -2335.4 R  PALEO        30/11/2006  CENPES/PDEXP/BPA                                      
+ B EOC. INF      2360.5 -2335.4 R  2360.5 -2335.4 R  PALEO        30/11/2006  CENPES/PDEXP/BPA                                      
+ B EOC. INF      2420.0 -2394.9 K  2450.5 -2425.4 K  PALEO        30/11/2006  CENPES/PDEXP/BPA                                      
+ B PALEOCEN      2490.0 -2464.9 K  2760.0 -2734.9 K  PALEO        30/11/2006  CENPES/PDEXP/BPA                                      
+ B MAASTRIC      2904.0 -2878.9 K  3185.0 -3159.9 K  PALEO        30/11/2006  CENPES/PDEXP/BPA                                      
+ B MAASTRIC      3230.0 -3204.9 R  3375.0 -3349.9 R  PALEO        30/11/2006  CENPES/PDEXP/BPA                                      
+ B CAMPANIA      3230.0 -3204.9 R  3375.0 -3349.9 R  PALEO        30/11/2006  CENPES/PDEXP/BPA                                      
+ Q CAMPANIA      3450.0 -3424.9 R  3450.0 -3424.9 R  PALEO        30/11/2006  CENPES/PDEXP/BPA                                      
+ B SANTONIA      3450.0 -3424.9 R  3450.0 -3424.9 R  PALEO        30/11/2006  CENPES/PDEXP/BPA                                      
+ B CAMPANIA      3505.0 -3479.8 R  3505.0 -3479.8 R  PALEO        30/11/2006  CENPES/PDEXP/BPA                                      
+ B SANTONIA      3505.0 -3479.8 R  3505.0 -3479.8 R  PALEO        30/11/2006  CENPES/PDEXP/BPA                                      
+ Q CONIACIA      3680.0 -3654.6 R  3725.0 -3699.5 R  PALEO        30/11/2006  CENPES/PDEXP/BPA                                      
+ B TURONIAN      3680.0 -3654.6 R  3725.0 -3699.5 R  PALEO        30/11/2006  CENPES/PDEXP/BPA                                      
+ _____________________________________
+ TEMPERATURA EXTRAPOLADA EM PERFILAGEM                                                                                              
+ _____________________________________                                                                                              
+ N.PERF.  TEMP. EXTRAPOLADA    PROF. GRAFICO      METODO DE EXTRAPOLACAO                                                            
+  2          222.0               4112.00          LACHENBRUCH & BREWER                                                              
+ _______________________
+ PERFILAGEM DADOS GERAIS
+ _______________________
+  NUMERO PERFILAGEM           :    01        PROF. ALCANCADA:    2104.50 (-2079.46  )             PROF. DA SAPATA: 1508.0(-1482.98)                   
+  NUMERO SIDETRACK            :    00        PRF.ALARG.DIAM.:                                     N.ORDEM SERVICO:                                    
+  OBSERVADOR                  :    FERNANDO FERNANDES/JOAO CESAR                                                                                      
+  OCORRENCIA                  :                                                                                                                       
+  NUMERO CONDICIONAMENTO      :    01        DENSIDADE               :      9.5 lb/gal              PH                  : 10.0                        
+  PERCENTAGEM DE OLEO         :              SALINIDADE DA LAMA      :   105447 mg/l                VISCOS. LAMA (MARSH): 70s                         
+  RESISTIVIDADE DA LAMA       : 0.095 ohm.m  TEMPERATURA DA LAMA     :     65.0 F                   TIPO ADENSANTE      : DADO NAO ARQUIVADO          
+  RESISTIVIDADE DO FILTRADO   : 0.085 ohm.m  TEMPERATURA DO FILTRADO :     65.9 F                   PERDA FILTRADO      :    4.700 cm3                
+  RESISTIVIDADE DO REBOCO     : 0.116 ohm.m  TEMPERATURA DO REBOCO   :     65.9 F                                                                     
+  CONCENTRACAO DO TRACADOR    :              TIPO DO TRACADOR        :  DADO NAO ARQUIVADO                                                            
+  FLUIDO                      : ALPHADRIL                                                                                                             
+  COMENTARIO                  :                                                                                                                       
+ GRUPO DE PERFIS COMBINADOS
+ __________________________
+  GRUPO DE PERFIS COMBINADOS  :    01        TEMP. FUNDO MAR/BAP    :           65.9 F                                                                
+  EMPRESA                     :    UNAP-BAKER                                                     PROF. FUNDO POCO:  2104.5 m                         
+  DATA/HORA CHEGADA FUNDO POCO:                                                                                                                       
+  DATA/HORA INICIO DESCIDA    :    16/07/2006, 11:30:00                                                                                               
+  DATA/HORA FINAL  DESCIDA    :    21/07/2006, 19:30:00                                                                                               
+  TEMPO CIRCULACAO            :    096:00    DATA/HORA FIM CIRCUL.  :          21/07/2006, 15:30:00                                                   
+ _______________________
+ PERFILAGEM DADOS GERAIS
+ _______________________
+  NUMERO PERFILAGEM           :    02        PROF. ALCANCADA:    4119.00 (-4091.75  )             PROF. DA SAPATA: 2104.0(-2078.96)                   
+  NUMERO SIDETRACK            :    00        PRF.ALARG.DIAM.:                                     N.ORDEM SERVICO:                                    
+  OBSERVADOR                  :    LELLIS/GHIZI/FERNANDO/FERREIRA/DANIEL                                                                              
+  OCORRENCIA                  :                                                                                                                       
+  NUMERO CONDICIONAMENTO      :    01        DENSIDADE               :      9.6 lb/gal              PH                  :  9.2                        
+  PERCENTAGEM DE OLEO         :              SALINIDADE DA LAMA      :   107901 mg/l                VISCOS. LAMA (MARSH): 72s                         
+  RESISTIVIDADE DA LAMA       : 0.090 ohm.m  TEMPERATURA DA LAMA     :     71.0 F                   TIPO ADENSANTE      : DADO NAO ARQUIVADO          
+  RESISTIVIDADE DO FILTRADO   : 0.078 ohm.m  TEMPERATURA DO FILTRADO :     71.0 F                   PERDA FILTRADO      :    3.600 cm3                
+  RESISTIVIDADE DO REBOCO     : 0.094 ohm.m  TEMPERATURA DO REBOCO   :     71.0 F                                                                     
+  CONCENTRACAO DO TRACADOR    :              TIPO DO TRACADOR        :  DADO NAO ARQUIVADO                                                            
+  FLUIDO                      : ALPHADRIL                                                                                                             
+  COMENTARIO                  :                                                                                                                       
+ GRUPO DE PERFIS COMBINADOS
+ __________________________
+  GRUPO DE PERFIS COMBINADOS  :    01        TEMP. FUNDO MAR/BAP    :           71.0 F                                                                
+  EMPRESA                     :    UNAP-BAKER                                                     PROF. FUNDO POCO:  4119.0 m                         
+  DATA/HORA CHEGADA FUNDO POCO:                                                                                                                       
+  DATA/HORA INICIO DESCIDA    :    24/07/2006, 22:00:00                                                                                               
+  DATA/HORA FINAL  DESCIDA    :    22/08/2006, 09:00:00                                                                                               
+  TEMPO CIRCULACAO            :    615:30    DATA/HORA FIM CIRCUL.  :          21/08/2006, 23:30:00                                                   
+  NUMERO CONDICIONAMENTO      :    02        DENSIDADE               :      9.6 lb/gal              PH                  :  9.2                        
+  PERCENTAGEM DE OLEO         :              SALINIDADE DA LAMA      :   115066 mg/l                VISCOS. LAMA (MARSH): 75s                         
+  RESISTIVIDADE DA LAMA       : 0.114 ohm.m  TEMPERATURA DA LAMA     :     72.0 F                   TIPO ADENSANTE      : DADO NAO ARQUIVADO          
+  RESISTIVIDADE DO FILTRADO   : 0.090 ohm.m  TEMPERATURA DO FILTRADO :     73.0 F                   PERDA FILTRADO      :    3.600 cm3                
+  RESISTIVIDADE DO REBOCO     : 0.129 ohm.m  TEMPERATURA DO REBOCO   :     74.0 F                                                                     
+  CONCENTRACAO DO TRACADOR    :              TIPO DO TRACADOR        :  DADO NAO ARQUIVADO                                                            
+  FLUIDO                      : ALPHADRIL                                                                                                             
+  COMENTARIO                  :                                                                                                                       
+ GRUPO DE PERFIS COMBINADOS
+ __________________________
+  GRUPO DE PERFIS COMBINADOS  :    02        TEMP. FUNDO MAR/BAP    :           72.0 F                                                                
+  EMPRESA                     :    HALLIBURTON                                                    PROF. FUNDO POCO:                                   
+  DATA/HORA CHEGADA FUNDO POCO:                                                                                                                       
+  DATA/HORA INICIO DESCIDA    :    22/08/2006, 14:15:00                                                                                               
+  DATA/HORA FINAL  DESCIDA    :    22/08/2006, 19:45:00                                                                                               
+  TEMPO CIRCULACAO            :    003:30    DATA/HORA FIM CIRCUL.  :          21/08/2006, 23:30:00                                                   
+  GRUPO DE PERFIS COMBINADOS  :    03        TEMP. FUNDO MAR/BAP    :           72.0 F            TEMP. FUNDO POCO:  225.0 F                          
+  EMPRESA                     :    HALLIBURTON                                                    PROF. FUNDO POCO:  4114.0 m                         
+  DATA/HORA CHEGADA FUNDO POCO:    23/08/2006, 01:45:00                                                                                               
+  DATA/HORA INICIO DESCIDA    :    22/08/2006, 21:00:00                                                                                               
+  DATA/HORA FINAL  DESCIDA    :    23/08/2006, 07:15:00                                                                                               
+  TEMPO CIRCULACAO            :    003:30    DATA/HORA FIM CIRCUL.  :          21/08/2006, 23:30:00                                                   
+  GRUPO DE PERFIS COMBINADOS  :    04        TEMP. FUNDO MAR/BAP    :           72.0 F                                                                
+  EMPRESA                     :    HALLIBURTON                                                    PROF. FUNDO POCO:  2715.8 m                         
+  DATA/HORA CHEGADA FUNDO POCO:                                                                                                                       
+  DATA/HORA INICIO DESCIDA    :    22/08/2006, 11:15:00                                                                                               
+  DATA/HORA FINAL  DESCIDA    :    23/08/2006, 14:30:00                                                                                               
+  TEMPO CIRCULACAO            :    003:30    DATA/HORA FIM CIRCUL.  :          21/08/2006, 23:30:00                                                   
+  GRUPO DE PERFIS COMBINADOS  :    05        TEMP. FUNDO MAR/BAP    :           72.0 F            TEMP. FUNDO POCO:  212.0 F                          
+  EMPRESA                     :    HALLIBURTON                                                    PROF. FUNDO POCO:  3920.0 m                         
+  DATA/HORA CHEGADA FUNDO POCO:    24/08/2006, 07:00:00                                                                                               
+  DATA/HORA INICIO DESCIDA    :    23/08/2006, 17:00:00                                                                                               
+  DATA/HORA FINAL  DESCIDA    :    24/08/2006, 18:30:00                                                                                               
+  TEMPO CIRCULACAO            :    003:30    DATA/HORA FIM CIRCUL.  :          21/08/2006, 23:30:00                                                   
+  GRUPO DE PERFIS COMBINADOS  :    06        TEMP. FUNDO MAR/BAP    :           72.0 F                                                                
+  EMPRESA                     :    HALLIBURTON                                                    PROF. FUNDO POCO:  3999.3 m                         
+  DATA/HORA CHEGADA FUNDO POCO:                                                                                                                       
+  DATA/HORA INICIO DESCIDA    :    24/08/2006, 22:30:00                                                                                               
+  DATA/HORA FINAL  DESCIDA    :    26/08/2006, 12:00:00                                                                                               
+  TEMPO CIRCULACAO            :    003:30    DATA/HORA FIM CIRCUL.  :          21/08/2006, 23:30:00                                                   
+  GRUPO DE PERFIS COMBINADOS  :    07        TEMP. FUNDO MAR/BAP    :           72.0 F                                                                
+  EMPRESA                     :    HALLIBURTON                                                    PROF. FUNDO POCO:  4100.0 m                         
+  DATA/HORA CHEGADA FUNDO POCO:                                                                                                                       
+  DATA/HORA INICIO DESCIDA    :    26/08/2006, 14:00:00                                                                                               
+  DATA/HORA FINAL  DESCIDA    :    26/08/2006, 22:00:00                                                                                               
+  TEMPO CIRCULACAO            :    003:30    DATA/HORA FIM CIRCUL.  :          21/08/2006, 23:30:00                                                   
+  GRUPO DE PERFIS COMBINADOS  :    08        TEMP. FUNDO MAR/BAP    :           72.0 F                                                                
+  EMPRESA                     :    HALLIBURTON                                                    PROF. FUNDO POCO:  3977.0 m                         
+  DATA/HORA CHEGADA FUNDO POCO:                                                                                                                       
+  DATA/HORA INICIO DESCIDA    :    26/08/2006, 22:30:00                                                                                               
+  DATA/HORA FINAL  DESCIDA    :    27/08/2006, 01:15:00                                                                                               
+  TEMPO CIRCULACAO            :    003:30    DATA/HORA FIM CIRCUL.  :          21/08/2006, 23:30:00                                                   
+  GRUPO DE PERFIS COMBINADOS  :    09        TEMP. FUNDO MAR/BAP    :           72.0 F                                                                
+  EMPRESA                     :    HALLIBURTON                                                    PROF. FUNDO POCO:  3770.0 m                         
+  DATA/HORA CHEGADA FUNDO POCO:                                                                                                                       
+  DATA/HORA INICIO DESCIDA    :    27/08/2006, 02:00:00                                                                                               
+  DATA/HORA FINAL  DESCIDA    :    27/08/2006, 13:30:00                                                                                               
+  TEMPO CIRCULACAO            :    003:30    DATA/HORA FIM CIRCUL.  :          21/08/2006, 23:30:00                                                   
+  GRUPO DE PERFIS COMBINADOS  :    10        TEMP. FUNDO MAR/BAP    :           72.0 F                                                                
+  EMPRESA                     :    HALLIBURTON                                                    PROF. FUNDO POCO:  2830.0 m                         
+  DATA/HORA CHEGADA FUNDO POCO:                                                                                                                       
+  DATA/HORA INICIO DESCIDA    :    27/08/2006, 14:30:00                                                                                               
+  DATA/HORA FINAL  DESCIDA    :    27/08/2006, 18:30:00                                                                                               
+  TEMPO CIRCULACAO            :    003:30    DATA/HORA FIM CIRCUL.  :          21/08/2006, 23:30:00                                                   
+ _______________________
+ UNIDADES DE PERFILAGEM 
+ _______________________
+  NUMERO            GRUPO PERF.         COMPANHIA DE                        TIPO UNIDADE            VERSAO DO                                         
+  CORRIDA           COMBINADOS          PERFILAGEM                          DE PERFILAGEM           SOFTWARE                                          
+    01                   01             UNAP-BAKER                          DADO NAO ARQUIVADO                                                        
+    02                   01             UNAP-BAKER                          DADO NAO ARQUIVADO                                                        
+    02                   02             HALLIBURTON                         DADO NAO ARQUIVADO                                                        
+    02                   03             HALLIBURTON                         DADO NAO ARQUIVADO      HC 3.0                                            
+    02                   04             HALLIBURTON                         DADO NAO ARQUIVADO      HC 3.0                                            
+    02                   05             HALLIBURTON                         DADO NAO ARQUIVADO      HC 3.0                                            
+    02                   06             HALLIBURTON                         DADO NAO ARQUIVADO      HC 3.0                                            
+    02                   07             HALLIBURTON                         DADO NAO ARQUIVADO      HC 3.0                                            
+    02                   08             HALLIBURTON                         DADO NAO ARQUIVADO      HC 3.0                                            
+    02                   09             HALLIBURTON                         DADO NAO ARQUIVADO      HC 3.0                                            
+    02                   10             HALLIBURTON                         DADO NAO ARQUIVADO      HC 3.0                                            
+ ___________________________
+ OBSERVACOES DE PERFILAGEM 
+ ___________________________
+  NUMERO            GRUPO PERF.         COMPANHIA DE                        OBSERVACOES DE PERFILAGEM                                                 
+  CORRIDA           COMBINADOS          PERFILAGEM                                                                                                    
+    02                   02             HALLIBURTON                            Durante a realizac_a~o da sec_a~o repetida                             
+    02                   03             HALLIBURTON                            Ainda que as leituras do DSN tenham se repetido,                       
+    02                   04             HALLIBURTON                            Apo's o 2o. fluxo, no ini'cio de retomada da                           
+ ___________________________    
+   AQUISICAO/PROCESSAMENTO    
+ ___________________________    
+ COD GR TIPO     CIA                              COR DESC  DATA       TOPO                BASE               NIVEIS         AMOSTRAS         TESTE       PRE-TESTES         SIDETRACK
+ ___ __ ____     ___                              ___ ____  ____       ____                ____               ______         ________         _____       __________         _________
+ 395 01 CWRG     UNAP-BAKER                       01    A   16/07/2006 1515.00(-1489.98)   2104.50(-2079.46)                                                                 00       
+ 395 01 CWRG     UNAP-BAKER                       02    B   24/07/2006 2117.00(-2091.96)   4119.00(-4091.75)                                                                 00       
+ 020 03 DLL\     HALLIBURTON                      02    A   22/08/2006 2104.00(-2078.96)   4107.60(-4080.44)                                                                 00       
+ 080 03 MSFL\    HALLIBURTON                      02    A   22/08/2006 2104.00(-2078.96)   4112.80(-4085.60)                                                                 00       
+ 127 03 WSTT\    HALLIBURTON                      02    A   22/08/2006 2104.00(-2078.96)   4097.00(-4069.92)                                                                 00       
+ 153 03 SDL\     HALLIBURTON                      02    A   22/08/2006 2104.00(-2078.96)   4087.10(-4060.10)                                                                 00       
+ 165 03 GR       HALLIBURTON                      02    A   22/08/2006 2104.00(-2078.96)   4076.00(-4049.08)                                                                 00       
+ 197 03 DSN      HALLIBURTON                      02    A   22/08/2006 2104.00(-2078.96)   4081.00(-4054.04)                                                                 00       
+ 319 05 MRIL\    HALLIBURTON                      02    A   23/08/2006 2700.00(-2674.95)   2920.00(-2894.95)                                                                 00       
+ 319 05 MRIL     HALLIBURTON                      02    B   23/08/2006 3500.00(-3474.85)   3900.00(-3874.01)                                                                 00       
+ 298 06 RDT-OPAD HALLIBURTON                      02    A   24/08/2006 2715.80(-2690.75)   3999.30(-3972.87)                                  ( 06 TESTES)( 32 PRE-TESTES )  00       
+ 251 07 ASR      HALLIBURTON                      02    A   26/08/2006  993.00( -968.00)   4100.00(-4072.90)  ( 20 NIVEIS  )                                                 00       
+ 283 08 RSCT     HALLIBURTON                      02    A   26/08/2006 3852.00(-3826.16)   3977.00(-3950.70)                 ( 03 AMOSTR )                                   00       
+ 283 09 RSCT     HALLIBURTON                      02    B   27/08/2006 2112.00(-2086.96)   3770.00(-3744.41)                 ( 49 AMOSTR )                                   00       
+ 283 10 RSCT     HALLIBURTON                      02    C   27/08/2006 2557.00(-2531.95)   2830.00(-2804.95)                 ( 15 AMOSTR )                                   00       
+ _______________________________    
+   DADOS DE REFERENCIA SISMICA    
+ _______________________________    
+                 TIPO DE DESCIDA DA      PROFUNDIDADE            TEMPO                                                                                                    
+ CORRIDA         PERFIL  FERRAMENTA      MEDIDA                  SISMICO                                                                                                  
+ 02              251          A           993.00 ( -968.00)       641.50                                                                                                  
+ _________________________
+ TESTE DE FORMACAO A CABO
+ _________________________
+  TIPO DE PERFIL              :         GRUPO PERF.COMBINADOS: 04                            TIPO DE PACKER            : DADO NAO ARQUIVADO           
+  NUMERO DA PERFILAGEM        :  02     TIPO DE PROBE        : DADO NAO ARQUIVADO            RESTRICAO ABERTURA (TESTE): DADO NAO ARQUIVADO           
+  DESCIDA DA FERRAMENTA       :         TIPO REGISTRADOR     : DADO NAO ARQUIVADO            RESTR.ABERTURA (PRE-TESTE): DADO NAO ARQUIVADO           
+  ESP.INT.REPRESENTATIVIDADE  :         NUM.SERIE REGISTRADOR:                                                                                        
+ _________________________
+ TESTE DE FORMACAO A CABO
+ _________________________
+  TIPO DE PERFIL              :  298    GRUPO PERF.COMBINADOS: 06                            TIPO DE PACKER            : DADO NAO ARQUIVADO           
+  NUMERO DA PERFILAGEM        :  02     TIPO DE PROBE        : DADO NAO ARQUIVADO            RESTRICAO ABERTURA (TESTE): DADO NAO ARQUIVADO           
+  DESCIDA DA FERRAMENTA       :         TIPO REGISTRADOR     : DADO NAO ARQUIVADO            RESTR.ABERTURA (PRE-TESTE): DADO NAO ARQUIVADO           
+  ESP.INT.REPRESENTATIVIDADE  :         NUM.SERIE REGISTRADOR:                                                                                        
+ ________________________________________
+ DADOS DE PRE-TESTES (REGISTROS DE PRESSAO)
+ ________________________________________
+  TIPO DE PERFIL              :    298       PRESSAO HIDROSTATICA :  4520.5 psi              NUM. PRE-TESTE    : 001                                  
+  NUMERO DA PERFILAGEM        :     02       PRESSAO DE FLUXO 1   :                          PROF. MEDIDA      : 2715.80 (-2690.7 )                   
+  GRUPO PERFIS COMBINADOS     :     06       PRESSAO DE FLUXO 2   :  3766.0 psi              QUALIDADE ESTATICA: ESTABILIZADA                         
+  DESCIDA DA FERRAMENTA       :              PRESSAO ESTATICA     :  4034.1 psi              TEMPO TOTAL FLUXO :                                      
+ ________________________________________
+ DADOS DE PRE-TESTES (REGISTROS DE PRESSAO)
+ ________________________________________
+  TIPO DE PERFIL              :    298       PRESSAO HIDROSTATICA :  4524.3 psi              NUM. PRE-TESTE    : 002                                  
+  NUMERO DA PERFILAGEM        :     02       PRESSAO DE FLUXO 1   :                          PROF. MEDIDA      : 2718.00 (-2692.9 )                   
+  GRUPO PERFIS COMBINADOS     :     06       PRESSAO DE FLUXO 2   :  3598.5 psi              QUALIDADE ESTATICA: ESTABILIZADA                         
+  DESCIDA DA FERRAMENTA       :              PRESSAO ESTATICA     :  4034.8 psi              TEMPO TOTAL FLUXO :                                      
+ ________________________________________
+ DADOS DE PRE-TESTES (REGISTROS DE PRESSAO)
+ ________________________________________
+  TIPO DE PERFIL              :    298       PRESSAO HIDROSTATICA :  4528.0 psi              NUM. PRE-TESTE    : 003                                  
+  NUMERO DA PERFILAGEM        :     02       PRESSAO DE FLUXO 1   :                          PROF. MEDIDA      : 2720.00 (-2694.9 )                   
+  GRUPO PERFIS COMBINADOS     :     06       PRESSAO DE FLUXO 2   :  2561.0 psi              QUALIDADE ESTATICA: ESTABILIZADA                         
+  DESCIDA DA FERRAMENTA       :              PRESSAO ESTATICA     :  4036.8 psi              TEMPO TOTAL FLUXO :                                      
+ ________________________________________
+ DADOS DE PRE-TESTES (REGISTROS DE PRESSAO)
+ ________________________________________
+  TIPO DE PERFIL              :    298       PRESSAO HIDROSTATICA :  4527.0 psi              NUM. PRE-TESTE    : 030                                  
+  NUMERO DA PERFILAGEM        :     02       PRESSAO DE FLUXO 1   :                          PROF. MEDIDA      : 2722.00 (-2696.9 )                   
+  GRUPO PERFIS COMBINADOS     :     06       PRESSAO DE FLUXO 2   :  2134.0 psi              QUALIDADE ESTATICA: ESTABILIZADA                         
+  DESCIDA DA FERRAMENTA       :              PRESSAO ESTATICA     :  4035.1 psi              TEMPO TOTAL FLUXO :                                      
+ ________________________________________
+ DADOS DE PRE-TESTES (REGISTROS DE PRESSAO)
+ ________________________________________
+  TIPO DE PERFIL              :    298       PRESSAO HIDROSTATICA :  4530.8 psi              NUM. PRE-TESTE    : 004                                  
+  NUMERO DA PERFILAGEM        :     02       PRESSAO DE FLUXO 1   :                          PROF. MEDIDA      : 2722.01 (-2697.0 )                   
+  GRUPO PERFIS COMBINADOS     :     06       PRESSAO DE FLUXO 2   :  3826.0 psi              QUALIDADE ESTATICA: ESTABILIZADA                         
+  DESCIDA DA FERRAMENTA       :              PRESSAO ESTATICA     :  4035.9 psi              TEMPO TOTAL FLUXO :                                      
+ ________________________________________
+ DADOS DE PRE-TESTES (REGISTROS DE PRESSAO)
+ ________________________________________
+  TIPO DE PERFIL              :    298       PRESSAO HIDROSTATICA :  4528.1 psi              NUM. PRE-TESTE    : 031                                  
+  NUMERO DA PERFILAGEM        :     02       PRESSAO DE FLUXO 1   :                          PROF. MEDIDA      : 2722.10 (-2697.0 )                   
+  GRUPO PERFIS COMBINADOS     :     06       PRESSAO DE FLUXO 2   :  3772.0 psi              QUALIDADE ESTATICA: ESTABILIZADA                         
+  DESCIDA DA FERRAMENTA       :              PRESSAO ESTATICA     :  4034.2 psi              TEMPO TOTAL FLUXO :                                      
+ ________________________________________
+ DADOS DE PRE-TESTES (REGISTROS DE PRESSAO)
+ ________________________________________
+  TIPO DE PERFIL              :    298       PRESSAO HIDROSTATICA :  4540.7 psi              NUM. PRE-TESTE    : 005                                  
+  NUMERO DA PERFILAGEM        :     02       PRESSAO DE FLUXO 1   :                          PROF. MEDIDA      : 2727.90 (-2702.8 )                   
+  GRUPO PERFIS COMBINADOS     :     06       PRESSAO DE FLUXO 2   :  3824.0 psi              QUALIDADE ESTATICA: ESTABILIZADA                         
+  DESCIDA DA FERRAMENTA       :              PRESSAO ESTATICA     :  4041.2 psi              TEMPO TOTAL FLUXO :                                      
+ ________________________________________
+ DADOS DE PRE-TESTES (REGISTROS DE PRESSAO)
+ ________________________________________
+  TIPO DE PERFIL              :    298       PRESSAO HIDROSTATICA :  4546.7 psi              NUM. PRE-TESTE    : 006                                  
+  NUMERO DA PERFILAGEM        :     02       PRESSAO DE FLUXO 1   :                          PROF. MEDIDA      : 2731.50 (-2706.4 )                   
+  GRUPO PERFIS COMBINADOS     :     06       PRESSAO DE FLUXO 2   :  3175.0 psi              QUALIDADE ESTATICA: ESTABILIZADA                         
+  DESCIDA DA FERRAMENTA       :              PRESSAO ESTATICA     :  4046.7 psi              TEMPO TOTAL FLUXO :                                      
+ ________________________________________
+ DADOS DE PRE-TESTES (REGISTROS DE PRESSAO)
+ ________________________________________
+  TIPO DE PERFIL              :    298       PRESSAO HIDROSTATICA :  4553.5 psi              NUM. PRE-TESTE    : 007                                  
+  NUMERO DA PERFILAGEM        :     02       PRESSAO DE FLUXO 1   :                          PROF. MEDIDA      : 2735.70 (-2710.6 )                   
+  GRUPO PERFIS COMBINADOS     :     06       PRESSAO DE FLUXO 2   :  3633.0 psi              QUALIDADE ESTATICA: ESTABILIZADA                         
+  DESCIDA DA FERRAMENTA       :              PRESSAO ESTATICA     :  4053.1 psi              TEMPO TOTAL FLUXO :                                      
+ ________________________________________
+ DADOS DE PRE-TESTES (REGISTROS DE PRESSAO)
+ ________________________________________
+  TIPO DE PERFIL              :    298       PRESSAO HIDROSTATICA :  4552.0 psi              NUM. PRE-TESTE    : 032                                  
+  NUMERO DA PERFILAGEM        :     02       PRESSAO DE FLUXO 1   :                          PROF. MEDIDA      : 2737.50 (-2712.4 )                   
+  GRUPO PERFIS COMBINADOS     :     06       PRESSAO DE FLUXO 2   :  3713.0 psi              QUALIDADE ESTATICA: ESTABILIZADA                         
+  DESCIDA DA FERRAMENTA       :              PRESSAO ESTATICA     :  4053.0 psi              TEMPO TOTAL FLUXO :                                      
+ ________________________________________
+ DADOS DE PRE-TESTES (REGISTROS DE PRESSAO)
+ ________________________________________
+  TIPO DE PERFIL              :    298       PRESSAO HIDROSTATICA :  4556.4 psi              NUM. PRE-TESTE    : 008                                  
+  NUMERO DA PERFILAGEM        :     02       PRESSAO DE FLUXO 1   :                          PROF. MEDIDA      : 2737.51 (-2712.5 )                   
+  GRUPO PERFIS COMBINADOS     :     06       PRESSAO DE FLUXO 2   :  3636.0 psi              QUALIDADE ESTATICA: ESTABILIZADA                         
+  DESCIDA DA FERRAMENTA       :              PRESSAO ESTATICA     :  4055.9 psi              TEMPO TOTAL FLUXO :                                      
+ ________________________________________
+ DADOS DE PRE-TESTES (REGISTROS DE PRESSAO)
+ ________________________________________
+  TIPO DE PERFIL              :    298       PRESSAO HIDROSTATICA :  4600.4 psi              NUM. PRE-TESTE    : 009                                  
+  NUMERO DA PERFILAGEM        :     02       PRESSAO DE FLUXO 1   :                          PROF. MEDIDA      : 2764.20 (-2739.1 )                   
+  GRUPO PERFIS COMBINADOS     :     06       PRESSAO DE FLUXO 2   :  3458.0 psi              QUALIDADE ESTATICA: ESTABILIZADA                         
+  DESCIDA DA FERRAMENTA       :              PRESSAO ESTATICA     :  4097.3 psi              TEMPO TOTAL FLUXO :                                      
+ ________________________________________
+ DADOS DE PRE-TESTES (REGISTROS DE PRESSAO)
+ ________________________________________
+  TIPO DE PERFIL              :    298       PRESSAO HIDROSTATICA :  4610.5 psi              NUM. PRE-TESTE    : 010                                  
+  NUMERO DA PERFILAGEM        :     02       PRESSAO DE FLUXO 1   :                          PROF. MEDIDA      : 2767.20 (-2742.1 )                   
+  GRUPO PERFIS COMBINADOS     :     06       PRESSAO DE FLUXO 2   :  3928.0 psi              QUALIDADE ESTATICA: ESTABILIZADA                         
+  DESCIDA DA FERRAMENTA       :              PRESSAO ESTATICA     :  4101.7 psi              TEMPO TOTAL FLUXO :                                      
+ ________________________________________
+ DADOS DE PRE-TESTES (REGISTROS DE PRESSAO)
+ ________________________________________
+  TIPO DE PERFIL              :    298       PRESSAO HIDROSTATICA :  4624.0 psi              NUM. PRE-TESTE    : 011                                  
+  NUMERO DA PERFILAGEM        :     02       PRESSAO DE FLUXO 1   :                          PROF. MEDIDA      : 2775.50 (-2750.4 )                   
+  GRUPO PERFIS COMBINADOS     :     06       PRESSAO DE FLUXO 2   :  4060.0 psi              QUALIDADE ESTATICA: ESTABILIZADA                         
+  DESCIDA DA FERRAMENTA       :              PRESSAO ESTATICA     :  4114.9 psi              TEMPO TOTAL FLUXO :                                      
+ ________________________________________
+ DADOS DE PRE-TESTES (REGISTROS DE PRESSAO)
+ ________________________________________
+  TIPO DE PERFIL              :    298       PRESSAO HIDROSTATICA :  4639.3 psi              NUM. PRE-TESTE    : 012                                  
+  NUMERO DA PERFILAGEM        :     02       PRESSAO DE FLUXO 1   :                          PROF. MEDIDA      : 2784.80 (-2759.7 )                   
+  GRUPO PERFIS COMBINADOS     :     06       PRESSAO DE FLUXO 2   :  4094.0 psi              QUALIDADE ESTATICA: ESTABILIZADA                         
+  DESCIDA DA FERRAMENTA       :              PRESSAO ESTATICA     :  4129.0 psi              TEMPO TOTAL FLUXO :                                      
+ ________________________________________
+ DADOS DE PRE-TESTES (REGISTROS DE PRESSAO)
+ ________________________________________
+  TIPO DE PERFIL              :    298       PRESSAO HIDROSTATICA :  4646.2 psi              NUM. PRE-TESTE    : 013                                  
+  NUMERO DA PERFILAGEM        :     02       PRESSAO DE FLUXO 1   :                          PROF. MEDIDA      : 2789.00 (-2763.9 )                   
+  GRUPO PERFIS COMBINADOS     :     06       PRESSAO DE FLUXO 2   :  4098.0 psi              QUALIDADE ESTATICA: ESTABILIZADA                         
+  DESCIDA DA FERRAMENTA       :              PRESSAO ESTATICA     :  4135.7 psi              TEMPO TOTAL FLUXO :                                      
+ ________________________________________
+ DADOS DE PRE-TESTES (REGISTROS DE PRESSAO)
+ ________________________________________
+  TIPO DE PERFIL              :    298       PRESSAO HIDROSTATICA :  4674.6 psi              NUM. PRE-TESTE    : 014                                  
+  NUMERO DA PERFILAGEM        :     02       PRESSAO DE FLUXO 1   :                          PROF. MEDIDA      : 2806.00 (-2780.9 )                   
+  GRUPO PERFIS COMBINADOS     :     06       PRESSAO DE FLUXO 2   :  4153.0 psi              QUALIDADE ESTATICA: ESTABILIZADA                         
+  DESCIDA DA FERRAMENTA       :              PRESSAO ESTATICA     :  4160.8 psi              TEMPO TOTAL FLUXO :                                      
+ ________________________________________
+ DADOS DE PRE-TESTES (REGISTROS DE PRESSAO)
+ ________________________________________
+  TIPO DE PERFIL              :    298       PRESSAO HIDROSTATICA :  4701.0 psi              NUM. PRE-TESTE    : 015                                  
+  NUMERO DA PERFILAGEM        :     02       PRESSAO DE FLUXO 1   :                          PROF. MEDIDA      : 2823.70 (-2798.6 )                   
+  GRUPO PERFIS COMBINADOS     :     06       PRESSAO DE FLUXO 2   :  4158.0 psi              QUALIDADE ESTATICA: ESTABILIZADA                         
+  DESCIDA DA FERRAMENTA       :              PRESSAO ESTATICA     :  4187.6 psi              TEMPO TOTAL FLUXO :                                      
+ ________________________________________
+ DADOS DE PRE-TESTES (REGISTROS DE PRESSAO)
+ ________________________________________
+  TIPO DE PERFIL              :    298       PRESSAO HIDROSTATICA :  4748.3 psi              NUM. PRE-TESTE    : 016                                  
+  NUMERO DA PERFILAGEM        :     02       PRESSAO DE FLUXO 1   :                          PROF. MEDIDA      : 2839.00 (-2813.9 )                   
+  GRUPO PERFIS COMBINADOS     :     06       PRESSAO DE FLUXO 2   :  4191.0 psi              QUALIDADE ESTATICA: ESTABILIZADA                         
+  DESCIDA DA FERRAMENTA       :              PRESSAO ESTATICA     :  4210.2 psi              TEMPO TOTAL FLUXO :                                      
+ ________________________________________
+ DADOS DE PRE-TESTES (REGISTROS DE PRESSAO)
+ ________________________________________
+  TIPO DE PERFIL              :    298       PRESSAO HIDROSTATICA :  4766.6 psi              NUM. PRE-TESTE    : 017                                  
+  NUMERO DA PERFILAGEM        :     02       PRESSAO DE FLUXO 1   :                          PROF. MEDIDA      : 2863.50 (-2838.4 )                   
+  GRUPO PERFIS COMBINADOS     :     06       PRESSAO DE FLUXO 2   :  4208.0 psi              QUALIDADE ESTATICA: ESTABILIZADA                         
+  DESCIDA DA FERRAMENTA       :              PRESSAO ESTATICA     :  4247.6 psi              TEMPO TOTAL FLUXO :                                      
+ ________________________________________
+ DADOS DE PRE-TESTES (REGISTROS DE PRESSAO)
+ ________________________________________
+  TIPO DE PERFIL              :    298       PRESSAO HIDROSTATICA :  4822.7 psi              NUM. PRE-TESTE    : 018                                  
+  NUMERO DA PERFILAGEM        :     02       PRESSAO DE FLUXO 1   :                          PROF. MEDIDA      : 2897.70 (-2872.6 )                   
+  GRUPO PERFIS COMBINADOS     :     06       PRESSAO DE FLUXO 2   :  4246.0 psi              QUALIDADE ESTATICA: ESTABILIZADA                         
+  DESCIDA DA FERRAMENTA       :              PRESSAO ESTATICA     :  4298.8 psi              TEMPO TOTAL FLUXO :                                      
+ ________________________________________
+ DADOS DE PRE-TESTES (REGISTROS DE PRESSAO)
+ ________________________________________
+  TIPO DE PERFIL              :    298       PRESSAO HIDROSTATICA :  4914.3 psi              NUM. PRE-TESTE    : 019                                  
+  NUMERO DA PERFILAGEM        :     02       PRESSAO DE FLUXO 1   :                          PROF. MEDIDA      : 2954.40 (-2929.3 )                   
+  GRUPO PERFIS COMBINADOS     :     06       PRESSAO DE FLUXO 2   :  4354.0 psi              QUALIDADE ESTATICA: ESTABILIZADA                         
+  DESCIDA DA FERRAMENTA       :              PRESSAO ESTATICA     :  4384.2 psi              TEMPO TOTAL FLUXO :                                      
+ ________________________________________
+ DADOS DE PRE-TESTES (REGISTROS DE PRESSAO)
+ ________________________________________
+  TIPO DE PERFIL              :    298       PRESSAO HIDROSTATICA :  5099.0 psi              NUM. PRE-TESTE    : 020                                  
+  NUMERO DA PERFILAGEM        :     02       PRESSAO DE FLUXO 1   :                          PROF. MEDIDA      : 3067.10 (-3042.0 )                   
+  GRUPO PERFIS COMBINADOS     :     06       PRESSAO DE FLUXO 2   :  4510.0 psi              QUALIDADE ESTATICA: ESTABILIZADA                         
+  DESCIDA DA FERRAMENTA       :              PRESSAO ESTATICA     :  4555.6 psi              TEMPO TOTAL FLUXO :                                      
+ ________________________________________
+ DADOS DE PRE-TESTES (REGISTROS DE PRESSAO)
+ ________________________________________
+  TIPO DE PERFIL              :    298       PRESSAO HIDROSTATICA :  5131.1 psi              NUM. PRE-TESTE    : 021                                  
+  NUMERO DA PERFILAGEM        :     02       PRESSAO DE FLUXO 1   :                          PROF. MEDIDA      : 3087.00 (-3061.9 )                   
+  GRUPO PERFIS COMBINADOS     :     06       PRESSAO DE FLUXO 2   :  4519.0 psi              QUALIDADE ESTATICA: ESTABILIZADA                         
+  DESCIDA DA FERRAMENTA       :              PRESSAO ESTATICA     :  4586.2 psi              TEMPO TOTAL FLUXO :                                      
+ ________________________________________
+ DADOS DE PRE-TESTES (REGISTROS DE PRESSAO)
+ ________________________________________
+  TIPO DE PERFIL              :    298       PRESSAO HIDROSTATICA :  5207.8 psi              NUM. PRE-TESTE    : 022                                  
+  NUMERO DA PERFILAGEM        :     02       PRESSAO DE FLUXO 1   :                          PROF. MEDIDA      : 3134.00 (-3108.9 )                   
+  GRUPO PERFIS COMBINADOS     :     06       PRESSAO DE FLUXO 2   :  4618.0 psi              QUALIDADE ESTATICA: ESTABILIZADA                         
+  DESCIDA DA FERRAMENTA       :              PRESSAO ESTATICA     :  4657.2 psi              TEMPO TOTAL FLUXO :                                      
+ ________________________________________
+ DADOS DE PRE-TESTES (REGISTROS DE PRESSAO)
+ ________________________________________
+  TIPO DE PERFIL              :    298       PRESSAO HIDROSTATICA :  5254.4 psi              NUM. PRE-TESTE    : 023                                  
+  NUMERO DA PERFILAGEM        :     02       PRESSAO DE FLUXO 1   :                          PROF. MEDIDA      : 3162.50 (-3137.4 )                   
+  GRUPO PERFIS COMBINADOS     :     06       PRESSAO DE FLUXO 2   :  4638.0 psi              QUALIDADE ESTATICA: ESTABILIZADA                         
+  DESCIDA DA FERRAMENTA       :              PRESSAO ESTATICA     :  4700.0 psi              TEMPO TOTAL FLUXO :                                      
+ ________________________________________
+ DADOS DE PRE-TESTES (REGISTROS DE PRESSAO)
+ ________________________________________
+  TIPO DE PERFIL              :    298       PRESSAO HIDROSTATICA :  5330.0 psi              NUM. PRE-TESTE    : 024                                  
+  NUMERO DA PERFILAGEM        :     02       PRESSAO DE FLUXO 1   :                          PROF. MEDIDA      : 3209.00 (-3183.9 )                   
+  GRUPO PERFIS COMBINADOS     :     06       PRESSAO DE FLUXO 2   :  4592.0 psi              QUALIDADE ESTATICA: ESTABILIZADA                         
+  DESCIDA DA FERRAMENTA       :              PRESSAO ESTATICA     :  4770.8 psi              TEMPO TOTAL FLUXO :                                      
+ ________________________________________
+ DADOS DE PRE-TESTES (REGISTROS DE PRESSAO)
+ ________________________________________
+  TIPO DE PERFIL              :    298       PRESSAO HIDROSTATICA :  5953.8 psi              NUM. PRE-TESTE    : 025                                  
+  NUMERO DA PERFILAGEM        :     02       PRESSAO DE FLUXO 1   :                          PROF. MEDIDA      : 3594.80 (-3569.6 )                   
+  GRUPO PERFIS COMBINADOS     :     06       PRESSAO DE FLUXO 2   :  5288.0 psi              QUALIDADE ESTATICA: LONGE DA ESTABILIZACAO               
+  DESCIDA DA FERRAMENTA       :              PRESSAO ESTATICA     :  5527.4 psi              TEMPO TOTAL FLUXO :                                      
+ ________________________________________
+ DADOS DE PRE-TESTES (REGISTROS DE PRESSAO)
+ ________________________________________
+  TIPO DE PERFIL              :    298       PRESSAO HIDROSTATICA :  6263.4 psi              NUM. PRE-TESTE    : 026                                  
+  NUMERO DA PERFILAGEM        :     02       PRESSAO DE FLUXO 1   :                          PROF. MEDIDA      : 3790.10 (-3764.5 )                   
+  GRUPO PERFIS COMBINADOS     :     06       PRESSAO DE FLUXO 2   :   140.0 psi              QUALIDADE ESTATICA: LONGE DA ESTABILIZACAO               
+  DESCIDA DA FERRAMENTA       :              PRESSAO ESTATICA     :                          TEMPO TOTAL FLUXO :                                      
+ ________________________________________
+ DADOS DE PRE-TESTES (REGISTROS DE PRESSAO)
+ ________________________________________
+  TIPO DE PERFIL              :    298       PRESSAO HIDROSTATICA :  6349.6 psi              NUM. PRE-TESTE    : 027                                  
+  NUMERO DA PERFILAGEM        :     02       PRESSAO DE FLUXO 1   :                          PROF. MEDIDA      : 3843.90 (-3818.1 )                   
+  GRUPO PERFIS COMBINADOS     :     06       PRESSAO DE FLUXO 2   :   240.0 psi              QUALIDADE ESTATICA: NAO SE APLICA                        
+  DESCIDA DA FERRAMENTA       :              PRESSAO ESTATICA     :                          TEMPO TOTAL FLUXO :                                      
+ ________________________________________
+ DADOS DE PRE-TESTES (REGISTROS DE PRESSAO)
+ ________________________________________
+  TIPO DE PERFIL              :    298       PRESSAO HIDROSTATICA :  6575.8 psi              NUM. PRE-TESTE    : 028                                  
+  NUMERO DA PERFILAGEM        :     02       PRESSAO DE FLUXO 1   :                          PROF. MEDIDA      : 3985.00 (-3958.7 )                   
+  GRUPO PERFIS COMBINADOS     :     06       PRESSAO DE FLUXO 2   :   349.0 psi              QUALIDADE ESTATICA: NAO SE APLICA                        
+  DESCIDA DA FERRAMENTA       :              PRESSAO ESTATICA     :                          TEMPO TOTAL FLUXO :                                      
+ ________________________________________
+ DADOS DE PRE-TESTES (REGISTROS DE PRESSAO)
+ ________________________________________
+  TIPO DE PERFIL              :    298       PRESSAO HIDROSTATICA :  6601.0 psi              NUM. PRE-TESTE    : 029                                  
+  NUMERO DA PERFILAGEM        :     02       PRESSAO DE FLUXO 1   :                          PROF. MEDIDA      : 3999.30 (-3972.9 )                   
+  GRUPO PERFIS COMBINADOS     :     06       PRESSAO DE FLUXO 2   :    99.8 psi              QUALIDADE ESTATICA: LONGE DA ESTABILIZACAO               
+  DESCIDA DA FERRAMENTA       :              PRESSAO ESTATICA     :                          TEMPO TOTAL FLUXO :                                      
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  3977.0 (-3950.7 )       NUM. DA AMOSTRA   : 01                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :  0.0300 m                ROCHA             : ARN                                  
+  GRUPO PERFIS COMBINADOS     :     08       FINALIDADE AMOSTRA   : PALEONTOLOGIA                                                                     
+  DESCIDA DA FERRAMENTA       :      A       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    PARCIAL                                                                                                            
+  DESCRICAO                   :                                                                                                                       
+          CNZ CLR MGR/CGO/GRO/MED SNG/SAR SEL-R QTZ GNT/FLD/MIC CAL CMP                                                                               
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  3920.0 (-3893.9 )       NUM. DA AMOSTRA   : 02                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :  0.0250 m                ROCHA             : ARN                                  
+  GRUPO PERFIS COMBINADOS     :     08       FINALIDADE AMOSTRA   : PALEONTOLOGIA                                                                     
+  DESCIDA DA FERRAMENTA       :      A       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    PARCIAL                                                                                                            
+  DESCRICAO                   :                                                                                                                       
+          CNZ CLR MGR/GRO/CGO/MED SNG/SAR SEL-R QTZ GNT/FLD/MIC CAL CMP                                                                               
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  3852.0 (-3826.2 )       NUM. DA AMOSTRA   : 03                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :  0.0270 m                ROCHA             : ARN                                  
+  GRUPO PERFIS COMBINADOS     :     08       FINALIDADE AMOSTRA   : PALEONTOLOGIA                                                                     
+  DESCIDA DA FERRAMENTA       :      A       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    PARCIAL                                                                                                            
+  DESCRICAO                   :                                                                                                                       
+          CNZ CLR GRO/MGRMED TB CGO SNG/SAR SEL-R QTZ GNT/FLD/MIC TB PIR CAL CMP                                                                      
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  3770.0 (-3744.4 )       NUM. DA AMOSTRA   : 01                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :  0.0360 m                ROCHA             : ARN                                  
+  GRUPO PERFIS COMBINADOS     :     09       FINALIDADE AMOSTRA   : PALEONTOLOGIA                                                                     
+  DESCIDA DA FERRAMENTA       :      B       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    PARCIAL                                                                                                            
+  DESCRICAO                   :                                                                                                                       
+          CNZ CLR MED/FNO SNG TB SAR SEL-B QTZ FLD/GNT/PIR CMP CAL VEIO CALCITA                                                                       
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  3725.0 (-3699.5 )       NUM. DA AMOSTRA   : 02                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :  0.0300 m                ROCHA             : FLH                                  
+  GRUPO PERFIS COMBINADOS     :     09       FINALIDADE AMOSTRA   : PALEONTOLOGIA                                                                     
+  DESCIDA DA FERRAMENTA       :      B       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    PARCIAL                                                                                                            
+  DESCRICAO                   :                                                                                                                       
+          CNZ ESC MIC PTE STO MUI CBN SDR                                                                                                             
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  3680.0 (-3654.6 )       NUM. DA AMOSTRA   : 03                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :  0.0320 m                ROCHA             : FLH                                  
+  GRUPO PERFIS COMBINADOS     :     09       FINALIDADE AMOSTRA   : PALEONTOLOGIA                                                                     
+  DESCIDA DA FERRAMENTA       :      B       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    PARCIAL                                                                                                            
+  DESCRICAO                   :                                                                                                                       
+          CNZ ESC MIC PTE STO LEV CBN SDR/DRO                                                                                                         
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  3600.0 (-3574.8 )       NUM. DA AMOSTRA   : 04                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :  0.0320 m                ROCHA             : FLH                                  
+  GRUPO PERFIS COMBINADOS     :     09       FINALIDADE AMOSTRA   : PALEONTOLOGIA                                                                     
+  DESCIDA DA FERRAMENTA       :      B       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    PARCIAL                                                                                                            
+  DESCRICAO                   :                                                                                                                       
+          CNZ ESC MIC SDR                                                                                                                             
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  3505.0 (-3479.8 )       NUM. DA AMOSTRA   : 05                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :                          ROCHA             :                                      
+  GRUPO PERFIS COMBINADOS     :     09       FINALIDADE AMOSTRA   :                                                                                   
+  DESCIDA DA FERRAMENTA       :      B       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    PERDIDA ( NAO RECUPERADA )                                                                                         
+  DESCRICAO                   :                                                                                                                       
+          SEM CALIPER                                                                                                                                 
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  3505.0 (-3479.8 )       NUM. DA AMOSTRA   : 06                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :  0.0310 m                ROCHA             : MRG                                  
+  GRUPO PERFIS COMBINADOS     :     09       FINALIDADE AMOSTRA   : PALEONTOLOGIA                                                                     
+  DESCIDA DA FERRAMENTA       :      B       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    PARCIAL                                                                                                            
+  DESCRICAO                   :                                                                                                                       
+          CNZ CLR STO FOS SDR                                                                                                                         
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  3450.0 (-3424.9 )       NUM. DA AMOSTRA   : 07                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :  0.0300 m                ROCHA             : MRG                                  
+  GRUPO PERFIS COMBINADOS     :     09       FINALIDADE AMOSTRA   : PALEONTOLOGIA                                                                     
+  DESCIDA DA FERRAMENTA       :      B       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    PARCIAL                                                                                                            
+  DESCRICAO                   :                                                                                                                       
+          CNZ CLR STO FOS SDR                                                                                                                         
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  3375.0 (-3349.9 )       NUM. DA AMOSTRA   : 08                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :  0.0360 m                ROCHA             : MRG                                  
+  GRUPO PERFIS COMBINADOS     :     09       FINALIDADE AMOSTRA   : PALEONTOLOGIA                                                                     
+  DESCIDA DA FERRAMENTA       :      B       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    PARCIAL                                                                                                            
+  DESCRICAO                   :                                                                                                                       
+          CNZ CLR STO SDR C/ LAMINAS MILIMETRICAS FLH CNZ ESC                                                                                         
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  3285.0 (-3259.9 )       NUM. DA AMOSTRA   : 09                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :  0.0280 m                ROCHA             : FLH                                  
+  GRUPO PERFIS COMBINADOS     :     09       FINALIDADE AMOSTRA   : PALEONTOLOGIA                                                                     
+  DESCIDA DA FERRAMENTA       :      B       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    PARCIAL                                                                                                            
+  DESCRICAO                   :                                                                                                                       
+          CNZ CLR MUI CBN SDR                                                                                                                         
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  3230.0 (-3204.9 )       NUM. DA AMOSTRA   : 10                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :  0.0310 m                ROCHA             : FLH                                  
+  GRUPO PERFIS COMBINADOS     :     09       FINALIDADE AMOSTRA   : PALEONTOLOGIA                                                                     
+  DESCIDA DA FERRAMENTA       :      B       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    PARCIAL                                                                                                            
+  DESCRICAO                   :                                                                                                                       
+          CNZ CLR MIC STO MUI CBN SDR                                                                                                                 
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  3185.0 (-3159.9 )       NUM. DA AMOSTRA   : 11                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :  0.0420 m                ROCHA             : FLH                                  
+  GRUPO PERFIS COMBINADOS     :     09       FINALIDADE AMOSTRA   : PALEONTOLOGIA                                                                     
+  DESCIDA DA FERRAMENTA       :      B       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    TOTAL                                                                                                              
+  DESCRICAO                   :                                                                                                                       
+          CNZ ESC MIC STO LEV CBN SDR                                                                                                                 
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  3100.0 (-3074.9 )       NUM. DA AMOSTRA   : 12                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :  0.0410 m                ROCHA             : FLH                                  
+  GRUPO PERFIS COMBINADOS     :     09       FINALIDADE AMOSTRA   : PALEONTOLOGIA                                                                     
+  DESCIDA DA FERRAMENTA       :      B       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    TOTAL                                                                                                              
+  DESCRICAO                   :                                                                                                                       
+          FLH CNZ ESC MIC LEV CBN SDR INTERC ARN CNZ CLR FNO/MFN SAR SEL B QTZ GNT SFR GRD SLT                                                        
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  3040.0 (-3014.9 )       NUM. DA AMOSTRA   : 13                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :  0.0330 m                ROCHA             : FLH                                  
+  GRUPO PERFIS COMBINADOS     :     09       FINALIDADE AMOSTRA   : PALEONTOLOGIA                                                                     
+  DESCIDA DA FERRAMENTA       :      B       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    PARCIAL                                                                                                            
+  DESCRICAO                   :                                                                                                                       
+          CNZ ESC STO MIC LEV CBN SDR                                                                                                                 
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  3010.0 (-2984.9 )       NUM. DA AMOSTRA   : 14                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :  0.0400 m                ROCHA             : FLH                                  
+  GRUPO PERFIS COMBINADOS     :     09       FINALIDADE AMOSTRA   : PALEONTOLOGIA                                                                     
+  DESCIDA DA FERRAMENTA       :      B       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    TOTAL                                                                                                              
+  DESCRICAO                   :                                                                                                                       
+          FLH CNZ ESC MIC CBN INTERC ARN CNZ CLR FNO/MFN SAR SEL B QTZ GNT CAL SFR GRD SLT                                                            
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  2935.0 (-2909.9 )       NUM. DA AMOSTRA   : 15                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :  0.0270 m                ROCHA             : FLH                                  
+  GRUPO PERFIS COMBINADOS     :     09       FINALIDADE AMOSTRA   : PALEONTOLOGIA                                                                     
+  DESCIDA DA FERRAMENTA       :      B       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    PARCIAL                                                                                                            
+  DESCRICAO                   :                                                                                                                       
+          FLH CNZ CLR MUI CBN SDR INTERC ARN CNZ ESB MFN GRD SLT SAR SEL B QTZ MIC SFR                                                                
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  2904.0 (-2878.9 )       NUM. DA AMOSTRA   : 16                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :  0.0390 m                ROCHA             : SLT                                  
+  GRUPO PERFIS COMBINADOS     :     09       FINALIDADE AMOSTRA   : PALEONTOLOGIA                                                                     
+  DESCIDA DA FERRAMENTA       :      B       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    PARCIAL                                                                                                            
+  DESCRICAO                   :                                                                                                                       
+          SLT CNZ CLR MIC ARO CBN SDR C/ CLASTOS FLH CNZ ESC MIC STO CBN SDR                                                                          
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  2839.0 (-2813.9 )       NUM. DA AMOSTRA   : 17                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :  0.0390 m                ROCHA             : ARN                                  
+  GRUPO PERFIS COMBINADOS     :     09       FINALIDADE AMOSTRA   : INDICIOS DE HIDROCARBONETO                                                        
+  DESCIDA DA FERRAMENTA       :      B       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    PARCIAL                                                                                                            
+  DESCRICAO                   :                                                                                                                       
+          CNZ CLR MED/FNO/MFN SEL B SAR QTZ MIC CAL FRV                                                                                               
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  2834.0 (-2808.9 )       NUM. DA AMOSTRA   : 18                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :  0.0500 m                ROCHA             : ARN                                  
+  GRUPO PERFIS COMBINADOS     :     09       FINALIDADE AMOSTRA   : INDICIOS DE HIDROCARBONETO                                                        
+  DESCIDA DA FERRAMENTA       :      B       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    TOTAL                                                                                                              
+  DESCRICAO                   :                                                                                                                       
+          CNZ CLR GRO/MGR/CGO TB MED SAR SEL-R QTZ GNT/FLD/MIC CAL SFR                                                                                
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  2824.0 (-2798.9 )       NUM. DA AMOSTRA   : 19                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :  0.0430 m                ROCHA             : ARN                                  
+  GRUPO PERFIS COMBINADOS     :     09       FINALIDADE AMOSTRA   : INDICIOS DE HIDROCARBONETO                                                        
+  DESCIDA DA FERRAMENTA       :      B       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    TOTAL                                                                                                              
+  DESCRICAO                   :                                                                                                                       
+          CNZ CLR MED/GRO SAR/SNG SEL-B QTZ MIC/FLD CAL SFR                                                                                           
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  2791.0 (-2765.9 )       NUM. DA AMOSTRA   : 20                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :  0.0420 m                ROCHA             : ARN                                  
+  GRUPO PERFIS COMBINADOS     :     09       FINALIDADE AMOSTRA   : PALEONTOLOGIA                                                                     
+  DESCIDA DA FERRAMENTA       :      B       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    TOTAL                                                                                                              
+  DESCRICAO                   :                                                                                                                       
+          CNZ CLR MFN SAR SEL-B QTZ MIC STO SFR/FRV INTERLAM FLH CNZ ESC MIC SDR                                                                      
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  2772.0 (-2746.9 )       NUM. DA AMOSTRA   : 21                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :  0.0410 m                ROCHA             : ARN                                  
+  GRUPO PERFIS COMBINADOS     :     09       FINALIDADE AMOSTRA   : INDICIOS DE HIDROCARBONETO                                                        
+  DESCIDA DA FERRAMENTA       :      B       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    TOTAL                                                                                                              
+  DESCRICAO                   :                                                                                                                       
+          CNZ CLR MED/GRO/MGR SAR SEL-B QTZ MIC/FLD CAO PTE CAL SFR/FRV                                                                               
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  2760.0 (-2734.9 )       NUM. DA AMOSTRA   : 22                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :  0.0430 m                ROCHA             : ARN                                  
+  GRUPO PERFIS COMBINADOS     :     09       FINALIDADE AMOSTRA   : PALEONTOLOGIA                                                                     
+  DESCIDA DA FERRAMENTA       :      B       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    TOTAL                                                                                                              
+  DESCRICAO                   :                                                                                                                       
+          CNZ CLR MFN SAR SEL-B QTZ MIC STO SFR/FRV INTERLAM FLH CNZ ESC MIC SDR                                                                      
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  2742.0 (-2716.9 )       NUM. DA AMOSTRA   : 23                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :  0.0500 m                ROCHA             : FLH                                  
+  GRUPO PERFIS COMBINADOS     :     09       FINALIDADE AMOSTRA   : PALEONTOLOGIA                                                                     
+  DESCIDA DA FERRAMENTA       :      B       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    TOTAL                                                                                                              
+  DESCRICAO                   :                                                                                                                       
+          CNZ ESC MIC SDR                                                                                                                             
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  2730.0 (-2704.9 )       NUM. DA AMOSTRA   : 24                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :  0.0450 m                ROCHA             : ARN                                  
+  GRUPO PERFIS COMBINADOS     :     09       FINALIDADE AMOSTRA   : INDICIOS DE HIDROCARBONETO                                                        
+  DESCIDA DA FERRAMENTA       :      B       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    TOTAL                                                                                                              
+  DESCRICAO                   :                                                                                                                       
+          CNZ CLR MED/GRO/MGR/FNO SNG/SAR SEL-R QTZ MIC/FLD CAL CMP/SFR C/ FL EP (70%) AMR ACT CT MD RD                                               
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  2733.0 (-2707.9 )       NUM. DA AMOSTRA   : 25                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :  0.0450 m                ROCHA             : ARN                                  
+  GRUPO PERFIS COMBINADOS     :     09       FINALIDADE AMOSTRA   : INDICIOS DE HIDROCARBONETO                                                        
+  DESCIDA DA FERRAMENTA       :      B       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    TOTAL                                                                                                              
+  DESCRICAO                   :                                                                                                                       
+          CNZ CLR MED/FNO/GRO SNG/SAR SEL-B QTZ FLD/MIC CAL SFR C/ FL EP (70%) AMR CLR CT IM RD                                                       
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  2728.0 (-2702.9 )       NUM. DA AMOSTRA   : 26                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :  0.0440 m                ROCHA             : ARN                                  
+  GRUPO PERFIS COMBINADOS     :     09       FINALIDADE AMOSTRA   : INDICIOS DE HIDROCARBONETO                                                        
+  DESCIDA DA FERRAMENTA       :      B       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    TOTAL                                                                                                              
+  DESCRICAO                   :                                                                                                                       
+          CNZ CLR MED/FNO/GRO/MGR SNG/SAR SEL-R QTZ FLD/MIC CAL FRV/SFR C/ FL EP (80%) AMR CLR CT IM RD                                               
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  2719.0 (-2693.9 )       NUM. DA AMOSTRA   : 27                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :  0.0450 m                ROCHA             : ARN                                  
+  GRUPO PERFIS COMBINADOS     :     09       FINALIDADE AMOSTRA   : INDICIOS DE HIDROCARBONETO                                                        
+  DESCIDA DA FERRAMENTA       :      B       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    TOTAL                                                                                                              
+  DESCRICAO                   :                                                                                                                       
+          CNZ CLR MED/FNO/GRO SNG/SAR SEL-R QTZ FLD/MIC CAL SFR C/ FL TT AMR CLR CT IM RD EXUD. OLEO CTN CLR                                          
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  2718.0 (-2692.9 )       NUM. DA AMOSTRA   : 28                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :  0.0400 m                ROCHA             : ARN                                  
+  GRUPO PERFIS COMBINADOS     :     09       FINALIDADE AMOSTRA   : INDICIOS DE HIDROCARBONETO                                                        
+  DESCIDA DA FERRAMENTA       :      B       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    TOTAL                                                                                                              
+  DESCRICAO                   :                                                                                                                       
+          CNZ CLR FNO/MED SAR/SNG SEL-B QTZ FLD/MIC LEV CAL SFR/FRV C/ FL TT AMR ACT CT MD RD                                                         
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  2716.0 (-2690.9 )       NUM. DA AMOSTRA   : 29                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :  0.0400 m                ROCHA             : ARN                                  
+  GRUPO PERFIS COMBINADOS     :     09       FINALIDADE AMOSTRA   : INDICIOS DE HIDROCARBONETO                                                        
+  DESCIDA DA FERRAMENTA       :      B       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    TOTAL                                                                                                              
+  DESCRICAO                   :                                                                                                                       
+          CNZ CLR MED/FNO/GRO SNG/SAR SEL-B QTZ FLD/MIC CAL FRV/SFR                                                                                   
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  2705.0 (-2679.9 )       NUM. DA AMOSTRA   : 30                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :  0.0470 m                ROCHA             : FLH                                  
+  GRUPO PERFIS COMBINADOS     :     09       FINALIDADE AMOSTRA   : PALEONTOLOGIA                                                                     
+  DESCIDA DA FERRAMENTA       :      B       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    TOTAL                                                                                                              
+  DESCRICAO                   :                                                                                                                       
+          CTN ESC MIC CAR SDR                                                                                                                         
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  2665.0 (-2639.9 )       NUM. DA AMOSTRA   : 31                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :                          ROCHA             :                                      
+  GRUPO PERFIS COMBINADOS     :     09       FINALIDADE AMOSTRA   :                                                                                   
+  DESCIDA DA FERRAMENTA       :      B       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    PERDIDA ( NAO RECUPERADA )                                                                                         
+  DESCRICAO                   :                                                                                                                       
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  2665.0 (-2639.9 )       NUM. DA AMOSTRA   : 32                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :  0.0500 m                ROCHA             : FLH                                  
+  GRUPO PERFIS COMBINADOS     :     09       FINALIDADE AMOSTRA   : PALEONTOLOGIA                                                                     
+  DESCIDA DA FERRAMENTA       :      B       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    TOTAL                                                                                                              
+  DESCRICAO                   :                                                                                                                       
+          CTN ESC MIC CAR SDR                                                                                                                         
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  2620.0 (-2594.9 )       NUM. DA AMOSTRA   : 33                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :                          ROCHA             :                                      
+  GRUPO PERFIS COMBINADOS     :     09       FINALIDADE AMOSTRA   :                                                                                   
+  DESCIDA DA FERRAMENTA       :      B       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    PERDIDA ( NAO RECUPERADA )                                                                                         
+  DESCRICAO                   :                                                                                                                       
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  2620.0 (-2594.9 )       NUM. DA AMOSTRA   : 34                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :                          ROCHA             :                                      
+  GRUPO PERFIS COMBINADOS     :     09       FINALIDADE AMOSTRA   :                                                                                   
+  DESCIDA DA FERRAMENTA       :      B       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    PERDIDA ( NAO RECUPERADA )                                                                                         
+  DESCRICAO                   :                                                                                                                       
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  2619.5 (-2594.4 )       NUM. DA AMOSTRA   : 35                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :                          ROCHA             :                                      
+  GRUPO PERFIS COMBINADOS     :     09       FINALIDADE AMOSTRA   :                                                                                   
+  DESCIDA DA FERRAMENTA       :      B       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    PERDIDA ( NAO RECUPERADA )                                                                                         
+  DESCRICAO                   :                                                                                                                       
+          SEM CALIPER                                                                                                                                 
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  2620.5 (-2595.4 )       NUM. DA AMOSTRA   : 36                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :                          ROCHA             :                                      
+  GRUPO PERFIS COMBINADOS     :     09       FINALIDADE AMOSTRA   :                                                                                   
+  DESCIDA DA FERRAMENTA       :      B       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    PERDIDA ( NAO RECUPERADA )                                                                                         
+  DESCRICAO                   :                                                                                                                       
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  2587.0 (-2561.9 )       NUM. DA AMOSTRA   : 37                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :                          ROCHA             :                                      
+  GRUPO PERFIS COMBINADOS     :     09       FINALIDADE AMOSTRA   :                                                                                   
+  DESCIDA DA FERRAMENTA       :      B       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    PERDIDA ( NAO RECUPERADA )                                                                                         
+  DESCRICAO                   :                                                                                                                       
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  2550.0 (-2524.9 )       NUM. DA AMOSTRA   : 38                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :                          ROCHA             :                                      
+  GRUPO PERFIS COMBINADOS     :     09       FINALIDADE AMOSTRA   :                                                                                   
+  DESCIDA DA FERRAMENTA       :      B       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    PERDIDA ( NAO RECUPERADA )                                                                                         
+  DESCRICAO                   :                                                                                                                       
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  2490.0 (-2464.9 )       NUM. DA AMOSTRA   : 39                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :  0.0450 m                ROCHA             : FLH                                  
+  GRUPO PERFIS COMBINADOS     :     09       FINALIDADE AMOSTRA   : PALEONTOLOGIA                                                                     
+  DESCIDA DA FERRAMENTA       :      B       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    TOTAL                                                                                                              
+  DESCRICAO                   :                                                                                                                       
+          CNZ ESC MIC STO LEV CBN SDR                                                                                                                 
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  2450.0 (-2424.9 )       NUM. DA AMOSTRA   : 40                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :                          ROCHA             :                                      
+  GRUPO PERFIS COMBINADOS     :     09       FINALIDADE AMOSTRA   :                                                                                   
+  DESCIDA DA FERRAMENTA       :      B       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    PERDIDA ( NAO RECUPERADA )                                                                                         
+  DESCRICAO                   :                                                                                                                       
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  2450.5 (-2425.4 )       NUM. DA AMOSTRA   : 41                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :  0.0450 m                ROCHA             : FLH                                  
+  GRUPO PERFIS COMBINADOS     :     09       FINALIDADE AMOSTRA   : PALEONTOLOGIA                                                                     
+  DESCIDA DA FERRAMENTA       :      B       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    TOTAL                                                                                                              
+  DESCRICAO                   :                                                                                                                       
+          CNZ CLR STO ARO MIC CBN SDR                                                                                                                 
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  2420.0 (-2394.9 )       NUM. DA AMOSTRA   : 42                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :  0.0400 m                ROCHA             : FLH                                  
+  GRUPO PERFIS COMBINADOS     :     09       FINALIDADE AMOSTRA   : PALEONTOLOGIA                                                                     
+  DESCIDA DA FERRAMENTA       :      B       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    TOTAL                                                                                                              
+  DESCRICAO                   :                                                                                                                       
+          CNZ ESV ALG STO CBN SDR                                                                                                                     
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  2450.0 (-2424.9 )       NUM. DA AMOSTRA   : 43                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :                          ROCHA             :                                      
+  GRUPO PERFIS COMBINADOS     :     09       FINALIDADE AMOSTRA   :                                                                                   
+  DESCIDA DA FERRAMENTA       :      B       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    PERDIDA ( NAO RECUPERADA )                                                                                         
+  DESCRICAO                   :                                                                                                                       
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  2360.5 (-2335.4 )       NUM. DA AMOSTRA   : 44                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :  0.0470 m                ROCHA             : FLH                                  
+  GRUPO PERFIS COMBINADOS     :     09       FINALIDADE AMOSTRA   : PALEONTOLOGIA                                                                     
+  DESCIDA DA FERRAMENTA       :      B       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    TOTAL                                                                                                              
+  DESCRICAO                   :                                                                                                                       
+          CNZ CLR STO ARO MIC CBN SDR                                                                                                                 
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  2300.0 (-2274.9 )       NUM. DA AMOSTRA   : 45                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :                          ROCHA             :                                      
+  GRUPO PERFIS COMBINADOS     :     09       FINALIDADE AMOSTRA   :                                                                                   
+  DESCIDA DA FERRAMENTA       :      B       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    PERDIDA ( NAO RECUPERADA )                                                                                         
+  DESCRICAO                   :                                                                                                                       
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  2300.5 (-2275.4 )       NUM. DA AMOSTRA   : 46                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :                          ROCHA             :                                      
+  GRUPO PERFIS COMBINADOS     :     09       FINALIDADE AMOSTRA   :                                                                                   
+  DESCIDA DA FERRAMENTA       :      B       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    PERDIDA ( NAO RECUPERADA )                                                                                         
+  DESCRICAO                   :                                                                                                                       
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  2250.0 (-2224.9 )       NUM. DA AMOSTRA   : 47                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :  0.0430 m                ROCHA             : MRG                                  
+  GRUPO PERFIS COMBINADOS     :     09       FINALIDADE AMOSTRA   : PALEONTOLOGIA                                                                     
+  DESCIDA DA FERRAMENTA       :      B       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    TOTAL                                                                                                              
+  DESCRICAO                   :                                                                                                                       
+          CNZ CLR STO SDR                                                                                                                             
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  2190.0 (-2164.9 )       NUM. DA AMOSTRA   : 48                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :  0.0200 m                ROCHA             : FLH                                  
+  GRUPO PERFIS COMBINADOS     :     09       FINALIDADE AMOSTRA   : PALEONTOLOGIA                                                                     
+  DESCIDA DA FERRAMENTA       :      B       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    PARCIAL                                                                                                            
+  DESCRICAO                   :                                                                                                                       
+          CNZ ESV ALG STO MIC MUI CBN SDR                                                                                                             
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  2112.0 (-2087.0 )       NUM. DA AMOSTRA   : 49                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :                          ROCHA             :                                      
+  GRUPO PERFIS COMBINADOS     :     09       FINALIDADE AMOSTRA   :                                                                                   
+  DESCIDA DA FERRAMENTA       :      B       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    PERDIDA ( NAO RECUPERADA )                                                                                         
+  DESCRICAO                   :                                                                                                                       
+          SEM CALIPER                                                                                                                                 
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  2830.0 (-2804.9 )       NUM. DA AMOSTRA   : 01                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :  0.0420 m                ROCHA             : ARN                                  
+  GRUPO PERFIS COMBINADOS     :     10       FINALIDADE AMOSTRA   : INDICIOS DE HIDROCARBONETO                                                        
+  DESCIDA DA FERRAMENTA       :      C       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    TOTAL                                                                                                              
+  DESCRICAO                   :                                                                                                                       
+          CNZ CLR FNO/MED/GRO SAR/SNG SEL-B QTZ FLD/MIC/GNT CAO TB CAL FRV                                                                            
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  2816.0 (-2790.9 )       NUM. DA AMOSTRA   : 02                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :  0.0450 m                ROCHA             : ARN                                  
+  GRUPO PERFIS COMBINADOS     :     10       FINALIDADE AMOSTRA   : INDICIOS DE HIDROCARBONETO                                                        
+  DESCIDA DA FERRAMENTA       :      C       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    TOTAL                                                                                                              
+  DESCRICAO                   :                                                                                                                       
+          CNZ CLR FNO/MED/GRO SAR/SNG SEL-B QTZ FLD/MIC/GNT CAO LEV CAL FRV                                                                           
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  2811.5 (-2786.4 )       NUM. DA AMOSTRA   : 03                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :  0.0410 m                ROCHA             : ARN                                  
+  GRUPO PERFIS COMBINADOS     :     10       FINALIDADE AMOSTRA   : INDICIOS DE HIDROCARBONETO                                                        
+  DESCIDA DA FERRAMENTA       :      C       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    TOTAL                                                                                                              
+  DESCRICAO                   :                                                                                                                       
+          CNZ CLR FNO/MED/GRO SAR/SNG SEL-B QTZ FLD/MIC/GNT CAO LEV CAL FRV                                                                           
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  2802.0 (-2776.9 )       NUM. DA AMOSTRA   : 04                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :  0.0380 m                ROCHA             : ARN                                  
+  GRUPO PERFIS COMBINADOS     :     10       FINALIDADE AMOSTRA   : INDICIOS DE HIDROCARBONETO                                                        
+  DESCIDA DA FERRAMENTA       :      C       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    PARCIAL                                                                                                            
+  DESCRICAO                   :                                                                                                                       
+          CNZ CLR GRO/MED/MGR SAR/SNG SEL-B QTZ FLD/MIC/GNT CAO LEV CAL FRV                                                                           
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  2798.0 (-2772.9 )       NUM. DA AMOSTRA   : 05                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :  0.0410 m                ROCHA             : ARN                                  
+  GRUPO PERFIS COMBINADOS     :     10       FINALIDADE AMOSTRA   : INDICIOS DE HIDROCARBONETO                                                        
+  DESCIDA DA FERRAMENTA       :      C       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    TOTAL                                                                                                              
+  DESCRICAO                   :                                                                                                                       
+          CNZ CLR MFN SAR SEL-B QTZ MIC STO SFR/FRV INTERLAM FLH CNZ ESC MIC SDR                                                                      
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  2788.0 (-2762.9 )       NUM. DA AMOSTRA   : 06                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :  0.0410 m                ROCHA             : ARN                                  
+  GRUPO PERFIS COMBINADOS     :     10       FINALIDADE AMOSTRA   : INDICIOS DE HIDROCARBONETO                                                        
+  DESCIDA DA FERRAMENTA       :      C       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    TOTAL                                                                                                              
+  DESCRICAO                   :                                                                                                                       
+          CNZ CLR MED/GRO/FNO SAR/SNG SEL-B QTZ FLD/MIC/GNT MUI CAL FRV                                                                               
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  2785.0 (-2759.9 )       NUM. DA AMOSTRA   : 07                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :  0.0400 m                ROCHA             : ARN                                  
+  GRUPO PERFIS COMBINADOS     :     10       FINALIDADE AMOSTRA   : INDICIOS DE HIDROCARBONETO                                                        
+  DESCIDA DA FERRAMENTA       :      C       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    TOTAL                                                                                                              
+  DESCRICAO                   :                                                                                                                       
+          CNZ CLR MED/FNO/GRO SAR/SNG SEL-B QTZ FLD/MIC/GNT MUI CAL FRV                                                                               
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  2782.0 (-2756.9 )       NUM. DA AMOSTRA   : 08                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :  0.0430 m                ROCHA             : ARN                                  
+  GRUPO PERFIS COMBINADOS     :     10       FINALIDADE AMOSTRA   : INDICIOS DE HIDROCARBONETO                                                        
+  DESCIDA DA FERRAMENTA       :      C       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    TOTAL                                                                                                              
+  DESCRICAO                   :                                                                                                                       
+          CNZ CLR MFN GRD SLT SAR SEL-B QTZ MIC FRV                                                                                                   
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  2775.0 (-2749.9 )       NUM. DA AMOSTRA   : 09                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :  0.0420 m                ROCHA             : ARN                                  
+  GRUPO PERFIS COMBINADOS     :     10       FINALIDADE AMOSTRA   : INDICIOS DE HIDROCARBONETO                                                        
+  DESCIDA DA FERRAMENTA       :      C       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    TOTAL                                                                                                              
+  DESCRICAO                   :                                                                                                                       
+          CNZ CLR MED/FNO/GRO SAR/SNG SEL-B QTZ FLD/MIC CAL SFR                                                                                       
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  2766.0 (-2740.9 )       NUM. DA AMOSTRA   : 10                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :  0.0400 m                ROCHA             : ARN                                  
+  GRUPO PERFIS COMBINADOS     :     10       FINALIDADE AMOSTRA   : INDICIOS DE HIDROCARBONETO                                                        
+  DESCIDA DA FERRAMENTA       :      C       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    TOTAL                                                                                                              
+  DESCRICAO                   :                                                                                                                       
+          CNZ CRD FNO/MED/GRO SAR/SNG SEL-B QTZ FLD/MIC SFR C/ FL TT AMR CLR CT IM RD                                                                 
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  2737.0 (-2711.9 )       NUM. DA AMOSTRA   : 11                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :  0.0450 m                ROCHA             : ARN                                  
+  GRUPO PERFIS COMBINADOS     :     10       FINALIDADE AMOSTRA   : INDICIOS DE HIDROCARBONETO                                                        
+  DESCIDA DA FERRAMENTA       :      C       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    TOTAL                                                                                                              
+  DESCRICAO                   :                                                                                                                       
+          CNZ CLR MED/GRO/MGR SAR/SNG SEL-B QTZ FLD/MIC CAL SFR C/ FL EP (70%) AMR ACT CT MD RD                                                       
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  2722.0 (-2696.9 )       NUM. DA AMOSTRA   : 12                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :  0.0450 m                ROCHA             : ARN                                  
+  GRUPO PERFIS COMBINADOS     :     10       FINALIDADE AMOSTRA   : INDICIOS DE HIDROCARBONETO                                                        
+  DESCIDA DA FERRAMENTA       :      C       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    TOTAL                                                                                                              
+  DESCRICAO                   :                                                                                                                       
+          CNZ CLR MED/FNO/GRO SNG/SAR SEL-B QTZ FLD/MIC CAL SFR/FRV C/ FL TT AMR CLR CT IM RD                                                         
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  2625.0 (-2599.9 )       NUM. DA AMOSTRA   : 13                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :                          ROCHA             :                                      
+  GRUPO PERFIS COMBINADOS     :     10       FINALIDADE AMOSTRA   :                                                                                   
+  DESCIDA DA FERRAMENTA       :      C       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    PERDIDA ( NAO RECUPERADA )                                                                                         
+  DESCRICAO                   :                                                                                                                       
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  2557.0 (-2531.9 )       NUM. DA AMOSTRA   : 14                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :                          ROCHA             :                                      
+  GRUPO PERFIS COMBINADOS     :     10       FINALIDADE AMOSTRA   :                                                                                   
+  DESCIDA DA FERRAMENTA       :      C       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    PERDIDA ( NAO RECUPERADA )                                                                                         
+  DESCRICAO                   :                                                                                                                       
+  TIPO DE PERFIL              :    283       PROF. DA AMOSTRA     :  2589.0 (-2563.9 )       NUM. DA AMOSTRA   : 15                                   
+  NUMERO DA PERFILAGEM        :     02       COMPRIMENTO AMOSTRA  :                          ROCHA             :                                      
+  GRUPO PERFIS COMBINADOS     :     10       FINALIDADE AMOSTRA   :                                                                                   
+  DESCIDA DA FERRAMENTA       :      C       TIPO DA AMOSTRA      : ROTATIVA                                                                          
+  TIPO DE RECUPERACAO AMOSTRA :    PERDIDA ( NAO RECUPERADA )                                                                                         
+  DESCRICAO                   :                                                                                                                       
+ _____________________________________
+ TEMPERATURA EXTRAPOLADA EM PERFILAGEM                                                                                              
+ _____________________________________                                                                                              
+ N.PERF.  TEMP. EXTRAPOLADA    PROF. GRAFICO      METODO DE EXTRAPOLACAO                                                            
+  2          222.0               4112.00          LACHENBRUCH & BREWER                                                              
+ ________________________________________    
+   DADOS DE TEMPOS PERDIDOS EM PERFILAGEM    
+ ________________________________________    
+PERF./GRPC   TEMPO(min.) TIPO                                    COMENTARIO                                                                 
+   01/02     00000990    PROBLEMAS NO POCO                                                                                                  
+ ___________________________
+ INDICIOS DE HIDROCARBONETOS
+ ___________________________
+FLUIDO  AMOSTRA TOPO/COTA               BASE/COTA             MODO   ROCHA    %  TIPO/COR/TONALIDADE     MODO/VELOC. CORTE   UGP/UGT  
+GAS     DETET    2477.00 ( -2451.95)     2480.00 ( -2454.95)   NA     FLH                                                          /000015
+GAS     DETET    2480.00 ( -2454.95)     2481.00 ( -2455.95)   NA     ARN                                                          /000015
+GAS     DETET    2481.00 ( -2455.95)     2492.00 ( -2466.95)   NA     FLH                                                          /000015
+GAS     DETET    2514.00 ( -2488.95)     2562.00 ( -2536.95)   NA     FLH                                                          /000020
+GAS     DETET    2562.00 ( -2536.95)     2563.00 ( -2537.95)   NA     ARN                                                          /000020
+GAS     DETET    2563.00 ( -2537.95)     2575.00 ( -2549.95)   NA     FLH                                                          /000023
+GAS     DETET    2578.00 ( -2552.95)     2597.00 ( -2571.95)   NA     FLH                                                          /000031
+GAS     DETET    2602.00 ( -2576.95)     2605.00 ( -2579.95)   NA     FLH                                                          /000021
+GAS     DETET    2607.00 ( -2581.95)     2618.00 ( -2592.95)   NA     FLH                                                          /000025
+GAS     DETET    2624.00 ( -2598.95)     2626.00 ( -2600.95)   NA     FLH                                                          /000025
+GAS     DETET    2638.00 ( -2612.95)     2646.00 ( -2620.95)   NA     FLH                                                          /000020
+GAS     DETET    2653.00 ( -2627.95)     2701.00 ( -2675.95)   NA     FLH                                                          /000018
+GAS     DETET    2712.00 ( -2686.95)     2716.00 ( -2690.95)   NA     FLH                                                    000010/000084
+GAS     DETET    2716.00 ( -2690.95)     2723.00 ( -2697.95)   NA     ARN                                                    000010/000110
+OLEO    ACALHA   2716.00 ( -2690.95)     2723.00 ( -2697.95)   MANCHA ARN         TT /AMR / CLR           RADIAL    /   IM   000010/000110
+OLEO    ALATER   2718.00 ( -2692.95)     2718.00 ( -2692.95)   NE     ARN         TT /AMR / ACT           RADIAL    /   IM            
+OLEO    ALATER   2719.00 ( -2693.95)     2719.00 ( -2693.95)   EXSUDA ARN         TT /AMR / CLR           RADIAL    /   IM            
+OLEO    ALATER   2722.00 ( -2696.95)     2722.00 ( -2696.95)   NE     ARN         TT /AMR / CLR           RADIAL    /   IM            
+GAS     DETET    2723.00 ( -2697.95)     2727.00 ( -2701.95)   NA     FLH                                                    000010/000075
+GAS     DETET    2727.00 ( -2701.95)     2733.00 ( -2707.95)   NA     ARN                                                          /000042
+OLEO    ACALHA   2727.00 ( -2701.95)     2739.00 ( -2713.95)   MANCHA ARN         EP /AMR / CLR           RADIAL    /   IM         /000042
+OLEO    ALATER   2728.00 ( -2702.95)     2728.00 ( -2702.95)   NE     ARN         EP /AMR / ACT           RADIAL    /   IM            
+OLEO    ALATER   2730.00 ( -2704.95)     2730.00 ( -2704.95)   NE     ARN         EP /AMR / ACT           RADIAL    /   MD            
+GAS     DETET    2733.00 ( -2707.95)     2739.00 ( -2713.95)   NA     ARN                                                          /000025
+OLEO    ALATER   2733.00 ( -2707.95)     2733.00 ( -2707.95)   NE     ARN         EP /AMR / ACT           RADIAL    /   IM         /000025
+OLEO    ALATER   2737.00 ( -2711.95)     2737.00 ( -2711.95)   NE     ARN         EP /AMR / ACT           RADIAL    /   MD            
+GAS     DETET    2739.00 ( -2713.95)     2744.00 ( -2718.95)   NA     FLH                                                          /000027
+GAS     DETET    2744.00 ( -2718.95)     2745.00 ( -2719.95)   NA     ARN                                                          /000035
+GAS     DETET    2745.00 ( -2719.95)     2751.00 ( -2725.95)   NA     FLH                                                          /000035
+GAS     DETET    2751.00 ( -2725.95)     2753.00 ( -2727.95)   NA     ARN                                                          /000023
+GAS     DETET    2753.00 ( -2727.95)     2764.00 ( -2738.95)   NA     FLH                                                          /000023
+GAS     DETET    2764.00 ( -2738.95)     2769.00 ( -2743.95)   NA     ARN                                                          /000034
+OLEO    ALATER   2766.00 ( -2740.95)     2766.00 ( -2740.95)   NE     ARN         TT /AMR / CLR           RADIAL    /   IM            
+GAS     DETET    2769.00 ( -2743.95)     2770.00 ( -2744.95)   NA     FLH                                                          /000027
+GAS     DETET    2770.00 ( -2744.95)     2779.00 ( -2753.95)   NA     ARN                                                          /000035
+GAS     DETET    2779.00 ( -2753.95)     2780.00 ( -2754.95)   NA     FLH                                                          /000035
+GAS     DETET    2780.00 ( -2754.95)     2790.00 ( -2764.95)   NA     ARN                                                          /000028
+GAS     DETET    2790.00 ( -2764.95)     2791.00 ( -2765.95)   NA     FLH                                                          /000028
+GAS     DETET    2791.00 ( -2765.95)     2796.00 ( -2770.95)   NA     ARN                                                          /000022
+GAS     DETET    2796.00 ( -2770.95)     2797.00 ( -2771.95)   NA     FLH                                                          /000022
+GAS     DETET    2797.00 ( -2771.95)     2808.00 ( -2782.95)   NA     ARN                                                          /000027
+OLEO    ACALHA   2892.00 ( -2866.95)     2900.00 ( -2874.95)   MANCHA ARN         PT /CTN / ESC           RADIAL    /   IM            
+OLEO    ACALHA   3586.00 ( -3560.77)     3598.00 ( -3572.75)   MANCHA ARN         PT /CTN / AMR           RADIAL    /   MD            
+OLEO    ACALHA   3722.00 ( -3696.52)     3724.00 ( -3698.52)   NE     ARN         PT /CTN / AMR           RADIAL    /   IM            
+OLEO    ACALHA   3784.00 ( -3758.37)     3785.00 ( -3759.37)   NE     ARN         PT /CTN / AMR           RADIAL    /   IM            
+OLEO    ACALHA   3790.00 ( -3764.36)     3792.00 ( -3766.35)   NE     ARN         EM /CTN / AMR           RADIAL    /   IM            
+OLEO    ACALHA   3842.00 ( -3816.19)     3861.00 ( -3835.14)   NE     ARN         PT /CTN / AMR           RADIAL    /   IM            
+SD  TOPO              BASE                    FLUIDO                                       CONTEUDO  MANOBRA? CONEXAO?
+__  ____              ____                    ______                                       ________ ________ ________
+00  2477.00(-2451.95)   2480.00(-2454.95)    GAS TOTAL                                         15       N        N                  
+00  2480.00(-2454.95)   2481.00(-2455.95)    GAS TOTAL                                         15       N        N                  
+00  2481.00(-2455.95)   2492.00(-2466.95)    GAS TOTAL                                         15       N        N                  
+00  2514.00(-2488.95)   2562.00(-2536.95)    GAS TOTAL                                         20       N        N                  
+00  2562.00(-2536.95)   2563.00(-2537.95)    GAS TOTAL                                         20       N        N                  
+00  2563.00(-2537.95)   2575.00(-2549.95)    GAS TOTAL                                         23       N        N                  
+00  2578.00(-2552.95)   2597.00(-2571.95)    GAS TOTAL                                         31       N        N                  
+00  2602.00(-2576.95)   2605.00(-2579.95)    GAS TOTAL                                         21       N        N                  
+00  2607.00(-2581.95)   2618.00(-2592.95)    GAS TOTAL                                         25       N        N                  
+00  2624.00(-2598.95)   2626.00(-2600.95)    GAS TOTAL                                         25       N        N                  
+00  2638.00(-2612.95)   2646.00(-2620.95)    GAS TOTAL                                         20       N        N                  
+00  2653.00(-2627.95)   2701.00(-2675.95)    GAS TOTAL                                         18       N        N                  
+00  2712.00(-2686.95)   2716.00(-2690.95)    GAS PESADO                                        10       N        N                  
+00  2712.00(-2686.95)   2716.00(-2690.95)    GAS TOTAL                                         84       N        N                  
+00  2716.00(-2690.95)   2723.00(-2697.95)    GAS PESADO                                        10       N        N                  
+00  2716.00(-2690.95)   2723.00(-2697.95)    GAS TOTAL                                        110       N        N                  
+00  2723.00(-2697.95)   2727.00(-2701.95)    GAS PESADO                                        10       N        N                  
+00  2723.00(-2697.95)   2727.00(-2701.95)    GAS TOTAL                                         75       N        N                  
+00  2727.00(-2701.95)   2733.00(-2707.95)    GAS TOTAL                                         42       N        N                  
+00  2733.00(-2707.95)   2739.00(-2713.95)    GAS TOTAL                                         25       N        N                  
+00  2739.00(-2713.95)   2744.00(-2718.95)    GAS TOTAL                                         27       N        N                  
+00  2744.00(-2718.95)   2745.00(-2719.95)    GAS TOTAL                                         35       N        N                  
+00  2745.00(-2719.95)   2751.00(-2725.95)    GAS TOTAL                                         35       N        N                  
+00  2751.00(-2725.95)   2753.00(-2727.95)    GAS TOTAL                                         23       N        N                  
+00  2753.00(-2727.95)   2764.00(-2738.95)    GAS TOTAL                                         23       N        N                  
+00  2764.00(-2738.95)   2769.00(-2743.95)    GAS TOTAL                                         34       N        N                  
+00  2769.00(-2743.95)   2770.00(-2744.95)    GAS TOTAL                                         27       N        N                  
+00  2770.00(-2744.95)   2779.00(-2753.95)    GAS TOTAL                                         35       N        N                  
+00  2779.00(-2753.95)   2780.00(-2754.95)    GAS TOTAL                                         35       N        N                  
+00  2780.00(-2754.95)   2790.00(-2764.95)    GAS TOTAL                                         28       N        N                  
+00  2790.00(-2764.95)   2791.00(-2765.95)    GAS TOTAL                                         28       N        N                  
+00  2791.00(-2765.95)   2796.00(-2770.95)    GAS TOTAL                                         22       N        N                  
+00  2796.00(-2770.95)   2797.00(-2771.95)    GAS TOTAL                                         22       N        N                  
+00  2797.00(-2771.95)   2808.00(-2782.95)    GAS TOTAL                                         27       N        N                  
+ __________________________    
+ Sigla:    4ESS 0167  ES
+ __________________________      
+ ______________________
+ LITOLOGIA INTERPRETADA 
+ ______________________
+  TOPO  /  COTA     BASE  /  COTA       ROCHA               COR                 TONALIDADE     GRANULOMETRIA  ARREDONDAMENTO        
+ 1502.00/(-1476.98) 1531.00/(-1505.98)  ARENITO                                 HIALINO        MEDIO          SUBANGULAR            
+ 1531.00/(-1505.98) 1545.00/(-1519.98)  FOLHELHO            CINZA               CLARO                                               
+ 1545.00/(-1519.98) 1546.00/(-1520.98)  ARENITO                                 HIALINO        MEDIO          SUBANGULAR            
+ 1546.00/(-1520.98) 1549.00/(-1523.98)  FOLHELHO            CINZA               CLARO                                               
+ 1549.00/(-1523.98) 1550.00/(-1524.98)  ARENITO                                 HIALINO        MEDIO          SUBANGULAR            
+ 1550.00/(-1524.98) 1553.00/(-1527.98)  FOLHELHO            CINZA               CLARO                                               
+ 1553.00/(-1527.98) 1555.00/(-1529.98)  ARENITO                                 HIALINO        MEDIO          SUBANGULAR            
+ 1555.00/(-1529.98) 1567.00/(-1541.98)  FOLHELHO            CINZA               CLARO                                               
+ 1567.00/(-1541.98) 1615.00/(-1589.98)  ARENITO                                 HIALINO        MEDIO          SUBANGULAR            
+ 1615.00/(-1589.98) 1622.00/(-1596.98)  FOLHELHO            CINZA               CLARO                                               
+ 1622.00/(-1596.98) 1623.00/(-1597.98)  ARENITO                                 HIALINO        MEDIO          SUBANGULAR            
+ 1623.00/(-1597.98) 1626.00/(-1600.98)  FOLHELHO            CINZA               CLARO                                               
+ 1626.00/(-1600.98) 1672.00/(-1646.97)  ARENITO                                 HIALINO        MEDIO          SUBANGULAR            
+ 1672.00/(-1646.97) 1680.00/(-1654.97)  FOLHELHO            CINZA               CLARO                                               
+ 1680.00/(-1654.97) 1681.00/(-1655.97)  ARENITO                                 HIALINO        MEDIO          SUBANGULAR            
+ 1681.00/(-1655.97) 1686.00/(-1660.97)  FOLHELHO            CINZA               CLARO                                               
+ 1686.00/(-1660.97) 1704.00/(-1678.97)  ARENITO                                 HIALINO        MEDIO          SUBANGULAR            
+ 1704.00/(-1678.97) 1709.00/(-1683.97)  FOLHELHO            CINZA               CLARO                                               
+ 1709.00/(-1683.97) 1753.00/(-1727.97)  ARENITO                                 HIALINO        MEDIO          SUBANGULAR            
+ 1753.00/(-1727.97) 1759.00/(-1733.97)  FOLHELHO            CINZA               CLARO                                               
+ 1759.00/(-1733.97) 1777.00/(-1751.97)  ARENITO                                 HIALINO        MEDIO          SUBANGULAR            
+ 1777.00/(-1751.97) 1783.00/(-1757.97)  FOLHELHO            CINZA               CLARO                                               
+ 1783.00/(-1757.97) 1784.00/(-1758.97)  ARENITO                                 HIALINO        MEDIO          SUBANGULAR            
+ 1784.00/(-1758.97) 1790.00/(-1764.97)  FOLHELHO            CINZA               CLARO                                               
+ 1790.00/(-1764.97) 1791.00/(-1765.97)  ARENITO                                 HIALINO        MEDIO          SUBANGULAR            
+ 1791.00/(-1765.97) 1793.00/(-1767.97)  FOLHELHO            CINZA               CLARO                                               
+ 1793.00/(-1767.97) 1795.00/(-1769.97)  ARENITO                                 HIALINO        MEDIO          SUBANGULAR            
+ 1795.00/(-1769.97) 1799.00/(-1773.97)  FOLHELHO            CINZA               CLARO                                               
+ 1799.00/(-1773.97) 1801.00/(-1775.97)  ARENITO                                 HIALINO        MEDIO          SUBANGULAR            
+ 1801.00/(-1775.97) 1805.00/(-1779.97)  FOLHELHO            CINZA               CLARO                                               
+ 1805.00/(-1779.97) 1855.00/(-1829.97)  ARENITO                                 HIALINO        MEDIO          SUBANGULAR            
+ 1855.00/(-1829.97) 1861.00/(-1835.97)  FOLHELHO            CINZA               CLARO                                               
+ 1861.00/(-1835.97) 1864.00/(-1838.97)  ARENITO                                 HIALINO        MEDIO          SUBANGULAR            
+ 1864.00/(-1838.97) 1870.00/(-1844.97)  FOLHELHO            CINZA               CLARO                                               
+ 1870.00/(-1844.97) 1912.00/(-1886.96)  ARENITO                                 HIALINO        MEDIO          SUBANGULAR            
+ 1912.00/(-1886.96) 1919.00/(-1893.96)  FOLHELHO            CINZA               CLARO                                               
+ 1919.00/(-1893.96) 2014.00/(-1988.96)  ARENITO                                 HIALINO        MEDIO          SUBARREDONDADO        
+ 2014.00/(-1988.96) 2024.00/(-1998.96)  MARGA               CINZA               ESBRANQUICADO                                       
+ 2024.00/(-1998.96) 2026.00/(-2000.96)  ARENITO                                 HIALINO        FINO           SUBARREDONDADO        
+ 2026.00/(-2000.96) 2028.00/(-2002.96)  MARGA               CINZA               ESBRANQUICADO                                       
+ 2028.00/(-2002.96) 2031.00/(-2005.96)  ARENITO                                 HIALINO        FINO           SUBARREDONDADO        
+ 2031.00/(-2005.96) 2036.00/(-2010.96)  MARGA               CINZA               ESBRANQUICADO                                       
+ 2036.00/(-2010.96) 2042.00/(-2016.96)  ARENITO                                 HIALINO        FINO           SUBARREDONDADO        
+ 2042.00/(-2016.96) 2051.00/(-2025.96)  MARGA               CINZA               ESBRANQUICADO                                       
+ 2051.00/(-2025.96) 2052.00/(-2026.96)  FOLHELHO            CINZA               CLARO                                               
+ 2052.00/(-2026.96) 2061.00/(-2035.96)  ARENITO                                 HIALINO        FINO           SUBARREDONDADO        
+ 2061.00/(-2035.96) 2063.00/(-2037.96)  FOLHELHO            CINZA               CLARO                                               
+ 2063.00/(-2037.96) 2075.00/(-2049.96)  ARENITO                                 HIALINO        MEDIO          SUBARREDONDADO        
+ 2075.00/(-2049.96) 2078.00/(-2052.96)  FOLHELHO            CINZA               CLARO                                               
+ 2078.00/(-2052.96) 2082.00/(-2056.96)  ARENITO                                 HIALINO        MEDIO          SUBARREDONDADO        
+ 2082.00/(-2056.96) 2084.00/(-2058.96)  FOLHELHO            CINZA               CLARO                                               
+ 2084.00/(-2058.96) 2112.00/(-2086.96)  ARENITO                                 HIALINO        MEDIO          SUBARREDONDADO        
+ 2112.00/(-2086.96) 2113.00/(-2087.96)  FOLHELHO            CINZA               CLARO                                               
+ 2113.00/(-2087.96) 2116.00/(-2090.96)  ARENITO                                 HIALINO        MEDIO          SUBARREDONDADO        
+ 2116.00/(-2090.96) 2117.00/(-2091.96)  FOLHELHO            CINZA               CLARO                                               
+ 2117.00/(-2091.96) 2118.00/(-2092.96)  CALCILUTITO         BRANCO                                                                  
+ 2118.00/(-2092.96) 2143.00/(-2117.95)  MARGA               CINZA               ESBRANQUICADO                                       
+ 2143.00/(-2117.95) 2144.00/(-2118.95)  ARENITO                                 HIALINO        FINO           SUBARREDONDADO        
+ 2144.00/(-2118.95) 2164.00/(-2138.95)  MARGA               CINZA               ESBRANQUICADO                                       
+ 2164.00/(-2138.95) 2166.00/(-2140.95)  ARENITO                                 HIALINO        FINO           SUBARREDONDADO        
+ 2166.00/(-2140.95) 2167.00/(-2141.95)  MARGA               CINZA               ESBRANQUICADO                                       
+ 2167.00/(-2141.95) 2168.00/(-2142.95)  ARENITO                                 HIALINO        FINO           SUBARREDONDADO        
+ 2168.00/(-2142.95) 2170.00/(-2144.95)  MARGA               CINZA               ESBRANQUICADO                                       
+ 2170.00/(-2144.95) 2172.00/(-2146.95)  ARENITO                                 HIALINO        FINO           SUBARREDONDADO        
+ 2172.00/(-2146.95) 2180.00/(-2154.95)  MARGA               CINZA               ESBRANQUICADO                                       
+ 2180.00/(-2154.95) 2181.00/(-2155.95)  CALCILUTITO         BRANCO                                                                  
+ 2181.00/(-2155.95) 2196.00/(-2170.95)  FOLHELHO            CINZA               ESVERDEADO                                          
+ 2196.00/(-2170.95) 2198.00/(-2172.95)  ARENITO                                 HIALINO        FINO           SUBARREDONDADO        
+ 2198.00/(-2172.95) 2200.00/(-2174.95)  MARGA               CINZA               ESBRANQUICADO                                       
+ 2200.00/(-2174.95) 2201.00/(-2175.95)  ARENITO                                 HIALINO        FINO           SUBARREDONDADO        
+ 2201.00/(-2175.95) 2202.00/(-2176.95)  CALCILUTITO         BRANCO                                                                  
+ 2202.00/(-2176.95) 2234.00/(-2208.95)  MARGA               CINZA               ESBRANQUICADO                                       
+ 2234.00/(-2208.95) 2235.00/(-2209.95)  CALCILUTITO         BRANCO                                                                  
+ 2235.00/(-2209.95) 2253.00/(-2227.95)  MARGA               CINZA               ESBRANQUICADO                                       
+ 2253.00/(-2227.95) 2254.00/(-2228.95)  ARENITO                                 HIALINO        FINO           SUBARREDONDADO        
+ 2254.00/(-2228.95) 2255.00/(-2229.95)  MARGA               CINZA               ESBRANQUICADO                                       
+ 2255.00/(-2229.95) 2256.00/(-2230.95)  CALCILUTITO         BRANCO                                                                  
+ 2256.00/(-2230.95) 2260.00/(-2234.95)  MARGA               CINZA               ESBRANQUICADO                                       
+ 2260.00/(-2234.95) 2261.00/(-2235.95)  CALCILUTITO         BRANCO                                                                  
+ 2261.00/(-2235.95) 2262.00/(-2236.95)  MARGA               CINZA               ESBRANQUICADO                                       
+ 2262.00/(-2236.95) 2263.00/(-2237.95)  ARENITO                                 HIALINO        FINO           SUBARREDONDADO        
+ 2263.00/(-2237.95) 2264.00/(-2238.95)  MARGA               CINZA               ESBRANQUICADO                                       
+ 2264.00/(-2238.95) 2265.00/(-2239.95)  CALCILUTITO         BRANCO                                                                  
+ 2265.00/(-2239.95) 2277.00/(-2251.95)  MARGA               CINZA               ESBRANQUICADO                                       
+ 2277.00/(-2251.95) 2278.00/(-2252.95)  CALCILUTITO         BRANCO                                                                  
+ 2278.00/(-2252.95) 2371.00/(-2345.95)  FOLHELHO            CINZA               CLARO                                               
+ 2371.00/(-2345.95) 2375.00/(-2349.95)  DIAMICTITO                                                                                  
+ 2375.00/(-2349.95) 2389.00/(-2363.95)  FOLHELHO            CINZA               CLARO                                               
+ 2389.00/(-2363.95) 2403.00/(-2377.95)  DIAMICTITO                                                                                  
+ 2403.00/(-2377.95) 2425.00/(-2399.95)  FOLHELHO            CINZA               CLARO                                               
+ 2425.00/(-2399.95) 2429.00/(-2403.95)  ARENITO                                 HIALINO        FINO           SUBARREDONDADO        
+ 2429.00/(-2403.95) 2461.00/(-2435.95)  FOLHELHO            CINZA               CLARO                                               
+ 2461.00/(-2435.95) 2462.00/(-2436.95)  ARENITO                                 HIALINO        FINO           SUBARREDONDADO        
+ 2462.00/(-2436.95) 2472.00/(-2446.95)  FOLHELHO            CINZA               CLARO                                               
+ 2472.00/(-2446.95) 2473.00/(-2447.95)  ARENITO                                 HIALINO        FINO           SUBARREDONDADO        
+ 2473.00/(-2447.95) 2480.00/(-2454.95)  FOLHELHO            CINZA               ESCURO                                              
+ 2480.00/(-2454.95) 2481.00/(-2455.95)  ARENITO                                 HIALINO        FINO           SUBARREDONDADO        
+ 2481.00/(-2455.95) 2562.00/(-2536.95)  FOLHELHO            CINZA               ESCURO                                              
+ 2562.00/(-2536.95) 2563.00/(-2537.95)  ARENITO                                 HIALINO        FINO           SUBARREDONDADO        
+ 2563.00/(-2537.95) 2597.00/(-2571.95)  FOLHELHO            CINZA               ESCURO                                              
+ 2597.00/(-2571.95) 2598.00/(-2572.95)  ARENITO                                 HIALINO        FINO           SUBARREDONDADO        
+ 2598.00/(-2572.95) 2635.00/(-2609.95)  FOLHELHO            CINZA               ESCURO                                              
+ 2635.00/(-2609.95) 2637.00/(-2611.95)  ARENITO                                 HIALINO        MUITO FINO     SUBARREDONDADO        
+ 2637.00/(-2611.95) 2716.00/(-2690.95)  FOLHELHO            CINZA               ESCURO                                              
+ 2716.00/(-2690.95) 2723.00/(-2697.95)  ARENITO                                 HIALINO        GROSSEIRO      SUBANGULAR            
+ 2723.00/(-2697.95) 2727.00/(-2701.95)  FOLHELHO            CINZA               ESCURO                                              
+ 2727.00/(-2701.95) 2739.00/(-2713.95)  ARENITO                                 HIALINO        GROSSEIRO      SUBANGULAR            
+ 2739.00/(-2713.95) 2744.00/(-2718.95)  FOLHELHO            CINZA               ESCURO                                              
+ 2744.00/(-2718.95) 2745.00/(-2719.95)  ARENITO                                 HIALINO        GROSSEIRO      SUBANGULAR            
+ 2745.00/(-2719.95) 2751.00/(-2725.95)  FOLHELHO            CINZA               ESCURO                                              
+ 2751.00/(-2725.95) 2753.00/(-2727.95)  ARENITO                                 HIALINO        GROSSEIRO      SUBANGULAR            
+ 2753.00/(-2727.95) 2764.00/(-2738.95)  FOLHELHO            CINZA               ESCURO                                              
+ 2764.00/(-2738.95) 2769.00/(-2743.95)  ARENITO                                 HIALINO        GROSSEIRO      SUBANGULAR            
+ 2769.00/(-2743.95) 2770.00/(-2744.95)  FOLHELHO            CINZA               ESCURO                                              
+ 2770.00/(-2744.95) 2779.00/(-2753.95)  ARENITO                                 HIALINO        GROSSEIRO      SUBANGULAR            
+ 2779.00/(-2753.95) 2780.00/(-2754.95)  FOLHELHO            CINZA               ESCURO                                              
+ 2780.00/(-2754.95) 2790.00/(-2764.95)  ARENITO                                 HIALINO        GROSSEIRO      SUBANGULAR            
+ 2790.00/(-2764.95) 2791.00/(-2765.95)  FOLHELHO            CINZA               ESCURO                                              
+ 2791.00/(-2765.95) 2796.00/(-2770.95)  ARENITO                                 HIALINO        GROSSEIRO      SUBANGULAR            
+ 2796.00/(-2770.95) 2797.00/(-2771.95)  FOLHELHO            CINZA               ESCURO                                              
+ 2797.00/(-2771.95) 2900.00/(-2874.95)  ARENITO                                 HIALINO        GROSSEIRO      SUBANGULAR            
+ 2900.00/(-2874.95) 2943.00/(-2917.95)  FOLHELHO            CINZA               ESCURO                                              
+ 2943.00/(-2917.95) 2945.00/(-2919.95)  ARENITO                                 HIALINO        MEDIO          SUBARREDONDADO        
+ 2945.00/(-2919.95) 2946.00/(-2920.95)  FOLHELHO            CINZA               ESCURO                                              
+ 2946.00/(-2920.95) 2947.00/(-2921.95)  ARENITO                                 HIALINO        MEDIO          SUBARREDONDADO        
+ 2947.00/(-2921.95) 2948.00/(-2922.95)  FOLHELHO            CINZA               ESCURO                                              
+ 2948.00/(-2922.95) 2949.00/(-2923.95)  ARENITO                                 HIALINO        MEDIO          SUBARREDONDADO        
+ 2949.00/(-2923.95) 2950.00/(-2924.95)  FOLHELHO            CINZA               ESCURO                                              
+ 2950.00/(-2924.95) 2967.00/(-2941.95)  ARENITO                                 HIALINO        MEDIO          SUBARREDONDADO        
+ 2967.00/(-2941.95) 2968.00/(-2942.95)  FOLHELHO            CINZA               ESCURO                                              
+ 2968.00/(-2942.95) 2971.00/(-2945.95)  ARENITO                                 HIALINO        MEDIO          SUBARREDONDADO        
+ 2971.00/(-2945.95) 2979.00/(-2953.95)  FOLHELHO            CINZA               ESCURO                                              
+ 2979.00/(-2953.95) 2992.00/(-2966.95)  ARENITO                                 HIALINO        MEDIO          SUBARREDONDADO        
+ 2992.00/(-2966.95) 2993.00/(-2967.95)  FOLHELHO            CINZA               ESCURO                                              
+ 2993.00/(-2967.95) 2996.00/(-2970.95)  ARENITO                                 HIALINO        MEDIO          SUBARREDONDADO        
+ 2996.00/(-2970.95) 3005.00/(-2979.94)  FOLHELHO            CINZA               CLARO                                               
+ 3005.00/(-2979.94) 3006.00/(-2980.94)  ARENITO                                 HIALINO        MEDIO          SUBARREDONDADO        
+ 3006.00/(-2980.94) 3032.00/(-3006.94)  FOLHELHO            CINZA               CLARO                                               
+ 3032.00/(-3006.94) 3035.00/(-3009.94)  ARENITO                                 HIALINO        MEDIO          SUBANGULAR            
+ 3035.00/(-3009.94) 3044.00/(-3018.94)  FOLHELHO            CINZA               CLARO                                               
+ 3044.00/(-3018.94) 3068.00/(-3042.94)  ARENITO                                 HIALINO        MEDIO          SUBANGULAR            
+ 3068.00/(-3042.94) 3072.00/(-3046.94)  FOLHELHO            CINZA               CLARO                                               
+ 3072.00/(-3046.94) 3073.00/(-3047.94)  ARENITO                                 HIALINO        MEDIO          SUBANGULAR            
+ 3073.00/(-3047.94) 3076.00/(-3050.94)  FOLHELHO            CINZA               CLARO                                               
+ 3076.00/(-3050.94) 3082.00/(-3056.94)  ARENITO                                 HIALINO        MEDIO          SUBANGULAR            
+ 3082.00/(-3056.94) 3083.00/(-3057.94)  FOLHELHO            CINZA               CLARO                                               
+ 3083.00/(-3057.94) 3088.00/(-3062.94)  ARENITO                                 HIALINO        MEDIO          SUBANGULAR            
+ 3088.00/(-3062.94) 3107.00/(-3081.94)  FOLHELHO            CINZA               CLARO                                               
+ 3107.00/(-3081.94) 3144.00/(-3118.94)  ARENITO                                 HIALINO        MEDIO          SUBARREDONDADO        
+ 3144.00/(-3118.94) 3145.00/(-3119.94)  FOLHELHO            CINZA               CLARO                                               
+ 3145.00/(-3119.94) 3146.00/(-3120.94)  ARENITO                                 HIALINO        MEDIO          SUBARREDONDADO        
+ 3146.00/(-3120.94) 3151.00/(-3125.94)  FOLHELHO            CINZA               CLARO                                               
+ 3151.00/(-3125.94) 3161.00/(-3135.94)  ARENITO                                 HIALINO        MEDIO          SUBARREDONDADO        
+ 3161.00/(-3135.94) 3162.00/(-3136.94)  FOLHELHO            CINZA               CLARO                                               
+ 3162.00/(-3136.94) 3168.00/(-3142.94)  ARENITO                                 HIALINO        MEDIO          SUBARREDONDADO        
+ 3168.00/(-3142.94) 3170.00/(-3144.94)  FOLHELHO            CINZA               CLARO                                               
+ 3170.00/(-3144.94) 3182.00/(-3156.94)  ARENITO                                 HIALINO        MEDIO          SUBARREDONDADO        
+ 3182.00/(-3156.94) 3188.00/(-3162.94)  FOLHELHO            CINZA               CLARO                                               
+ 3188.00/(-3162.94) 3204.00/(-3178.94)  ARENITO                                 HIALINO        MEDIO          SUBARREDONDADO        
+ 3204.00/(-3178.94) 3205.00/(-3179.94)  FOLHELHO            CINZA               CLARO                                               
+ 3205.00/(-3179.94) 3217.00/(-3191.94)  ARENITO                                 HIALINO        MEDIO          SUBARREDONDADO        
+ 3217.00/(-3191.94) 3376.00/(-3350.92)  FOLHELHO            CINZA               CLARO                                               
+ 3376.00/(-3350.92) 3382.00/(-3356.91)  MARGA               CINZA               CLARO                                               
+ 3382.00/(-3356.91) 3543.00/(-3517.82)  FOLHELHO            CINZA               CLARO                                               
+ 3543.00/(-3517.82) 3547.00/(-3521.81)  ARENITO                                 HIALINO        MEDIO          SUBARREDONDADO        
+ 3547.00/(-3521.81) 3574.00/(-3548.78)  FOLHELHO            CINZA               ESVERDEADO                                          
+ 3574.00/(-3548.78) 3582.00/(-3556.77)  MARGA               CINZA               CLARO                                               
+ 3582.00/(-3556.77) 3586.00/(-3560.77)  FOLHELHO            CINZA               ESVERDEADO                                          
+ 3586.00/(-3560.77) 3598.00/(-3572.75)  ARENITO                                 HIALINO        MUITO FINO     SUBARREDONDADO        
+ 3598.00/(-3572.75) 3611.00/(-3585.73)  FOLHELHO            CINZA               ESVERDEADO                                          
+ 3611.00/(-3585.73) 3613.00/(-3587.73)  MARGA               CINZA               CLARO                                               
+ 3613.00/(-3587.73) 3628.00/(-3602.71)  FOLHELHO            CINZA               ESVERDEADO                                          
+ 3628.00/(-3602.71) 3632.00/(-3606.71)  MARGA               CINZA               CLARO                                               
+ 3632.00/(-3606.71) 3638.00/(-3612.70)  FOLHELHO            CINZA               ESVERDEADO                                          
+ 3638.00/(-3612.70) 3641.00/(-3615.69)  MARGA               CINZA               CLARO                                               
+ 3641.00/(-3615.69) 3642.00/(-3616.69)  FOLHELHO            CINZA               ESVERDEADO                                          
+ 3642.00/(-3616.69) 3645.00/(-3619.69)  MARGA               CINZA               CLARO                                               
+ 3645.00/(-3619.69) 3656.00/(-3630.67)  FOLHELHO            CINZA               ESVERDEADO                                          
+ 3656.00/(-3630.67) 3660.00/(-3634.66)  CALCILUTITO         CREME               CLARO                                               
+ 3660.00/(-3634.66) 3666.00/(-3640.65)  FOLHELHO            CINZA               ESVERDEADO                                          
+ 3666.00/(-3640.65) 3667.00/(-3641.65)  ARENITO                                 HIALINO        MUITO FINO     SUBARREDONDADO        
+ 3667.00/(-3641.65) 3684.00/(-3658.61)  FOLHELHO            CINZA               ESVERDEADO                                          
+ 3684.00/(-3658.61) 3685.00/(-3659.61)  MARGA               CINZA               CLARO                                               
+ 3685.00/(-3659.61) 3686.00/(-3660.61)  FOLHELHO            CINZA               ESVERDEADO                                          
+ 3686.00/(-3660.61) 3687.00/(-3661.60)  MARGA               CINZA               CLARO                                               
+ 3687.00/(-3661.60) 3689.00/(-3663.60)  FOLHELHO            CINZA               ESVERDEADO                                          
+ 3689.00/(-3663.60) 3690.00/(-3664.60)  MARGA               CINZA               CLARO                                               
+ 3690.00/(-3664.60) 3691.00/(-3665.60)  FOLHELHO            CINZA               ESVERDEADO                                          
+ 3691.00/(-3665.60) 3692.00/(-3666.59)  MARGA               CINZA               CLARO                                               
+ 3692.00/(-3666.59) 3694.00/(-3668.59)  FOLHELHO            CINZA               ESVERDEADO                                          
+ 3694.00/(-3668.59) 3697.00/(-3671.58)  MARGA               CINZA               CLARO                                               
+ 3697.00/(-3671.58) 3699.00/(-3673.58)  FOLHELHO            CINZA               ESVERDEADO                                          
+ 3699.00/(-3673.58) 3702.00/(-3676.57)  MARGA               CINZA               CLARO                                               
+ 3702.00/(-3676.57) 3713.00/(-3687.55)  FOLHELHO            CINZA               ESCURO                                              
+ 3713.00/(-3687.55) 3715.00/(-3689.54)  MARGA               CINZA               CLARO                                               
+ 3715.00/(-3689.54) 3720.00/(-3694.53)  FOLHELHO            CINZA               ESCURO                                              
+ 3720.00/(-3694.53) 3722.00/(-3696.52)  MARGA               CINZA               CLARO                                               
+ 3722.00/(-3696.52) 3724.00/(-3698.52)  ARENITO                                 HIALINO        MEDIO          SUBANGULAR            
+ 3724.00/(-3698.52) 3726.00/(-3700.52)  FOLHELHO            CINZA               ESCURO                                              
+ 3726.00/(-3700.52) 3728.00/(-3702.51)  MARGA               CINZA               CLARO                                               
+ 3728.00/(-3702.51) 3737.00/(-3711.49)  FOLHELHO            CINZA               ESCURO                                              
+ 3737.00/(-3711.49) 3738.00/(-3712.49)  MARGA               CINZA               CLARO                                               
+ 3738.00/(-3712.49) 3741.00/(-3715.48)  FOLHELHO            CINZA               ESCURO                                              
+ 3741.00/(-3715.48) 3742.00/(-3716.48)  MARGA               CINZA               CLARO                                               
+ 3742.00/(-3716.48) 3744.00/(-3718.47)  FOLHELHO            CINZA               ESCURO                                              
+ 3744.00/(-3718.47) 3747.00/(-3721.46)  MARGA               CINZA               CLARO                                               
+ 3747.00/(-3721.46) 3757.00/(-3731.44)  FOLHELHO            CINZA               ESCURO                                              
+ 3757.00/(-3731.44) 3758.00/(-3732.44)  CALCILUTITO         CREME               CLARO                                               
+ 3758.00/(-3732.44) 3761.00/(-3735.43)  FOLHELHO            CINZA               ESCURO                                              
+ 3761.00/(-3735.43) 3763.00/(-3737.42)  CALCILUTITO         CREME               CLARO                                               
+ 3763.00/(-3737.42) 3768.00/(-3742.41)  FOLHELHO            CINZA               ESCURO                                              
+ 3768.00/(-3742.41) 3772.00/(-3746.40)  ARENITO                                 HIALINO        MEDIO          SUBANGULAR            
+ 3772.00/(-3746.40) 3775.00/(-3749.39)  MARGA               CINZA               CLARO                                               
+ 3775.00/(-3749.39) 3784.00/(-3758.37)  FOLHELHO            CINZA               ESCURO                                              
+ 3784.00/(-3758.37) 3785.00/(-3759.37)  ARENITO                                 HIALINO        FINO           SUBANGULAR            
+ 3785.00/(-3759.37) 3790.00/(-3764.36)  FOLHELHO            CINZA               ESCURO                                              
+ 3790.00/(-3764.36) 3792.00/(-3766.35)  ARENITO                                 HIALINO        FINO           SUBANGULAR            
+ 3792.00/(-3766.35) 3807.00/(-3781.30)  FOLHELHO            CINZA               ESCURO                                              
+ 3807.00/(-3781.30) 3808.00/(-3782.30)  ARENITO                                 HIALINO        FINO           SUBANGULAR            
+ 3808.00/(-3782.30) 3810.00/(-3784.29)  FOLHELHO            CINZA               ESCURO                                              
+ 3810.00/(-3784.29) 3812.00/(-3786.28)  ARENITO                                 HIALINO        FINO           SUBANGULAR            
+ 3812.00/(-3786.28) 3815.00/(-3789.27)  FOLHELHO            CINZA               ESCURO                                              
+ 3815.00/(-3789.27) 3816.00/(-3790.27)  ARENITO                                 HIALINO        FINO           SUBANGULAR            
+ 3816.00/(-3790.27) 3821.00/(-3795.26)  FOLHELHO            CINZA               ESCURO                                              
+ 3821.00/(-3795.26) 3824.00/(-3798.25)  ARENITO                                 HIALINO        FINO           SUBANGULAR            
+ 3824.00/(-3798.25) 3825.00/(-3799.24)  FOLHELHO            CINZA               ESCURO                                              
+ 3825.00/(-3799.24) 3826.00/(-3800.24)  ARENITO                                 HIALINO        FINO           SUBANGULAR            
+ 3826.00/(-3800.24) 3829.00/(-3803.23)  FOLHELHO            CINZA               ESCURO                                              
+ 3829.00/(-3803.23) 3832.00/(-3806.22)  ARENITO                                 HIALINO        FINO           SUBANGULAR            
+ 3832.00/(-3806.22) 3834.00/(-3808.22)  FOLHELHO            CINZA               ESCURO                                              
+ 3834.00/(-3808.22) 3836.00/(-3810.21)  ARENITO                                 HIALINO        FINO           SUBANGULAR            
+ 3836.00/(-3810.21) 3838.00/(-3812.21)  FOLHELHO            CINZA               ESCURO                                              
+ 3838.00/(-3812.21) 3840.00/(-3814.20)  ARENITO                                 HIALINO        FINO           SUBARREDONDADO        
+ 3840.00/(-3814.20) 3842.00/(-3816.19)  FOLHELHO            CINZA               ESCURO                                              
+ 3842.00/(-3816.19) 3873.00/(-3847.10)  ARENITO                                 HIALINO        MEDIO          SUBANGULAR            
+ 3873.00/(-3847.10) 3893.00/(-3867.03)  CALCILUTITO         BRANCO                                                                  
+ 3893.00/(-3867.03) 3904.00/(-3877.99)  ARENITO                                 HIALINO        MEDIO          SUBANGULAR            
+ 3904.00/(-3877.99) 3910.00/(-3883.97)  CALCILUTITO         BRANCO                                                                  
+ 3910.00/(-3883.97) 3913.00/(-3886.96)  ARENITO                                 HIALINO        MEDIO          SUBANGULAR            
+ 3913.00/(-3886.96) 3917.00/(-3890.95)  CALCILUTITO         BRANCO                                                                  
+ 3917.00/(-3890.95) 3933.00/(-3906.89)  ARENITO                                 HIALINO        MEDIO          SUBANGULAR            
+ 3933.00/(-3906.89) 3936.00/(-3909.87)  FOLHELHO            PRETO                                                                   
+ 3936.00/(-3909.87) 3938.00/(-3911.86)  ARENITO                                 HIALINO        MEDIO          SUBANGULAR            
+ 3938.00/(-3911.86) 3940.00/(-3913.86)  FOLHELHO            PRETO                                                                   
+ 3940.00/(-3913.86) 3941.00/(-3914.85)  ARENITO                                 HIALINO        MEDIO          SUBANGULAR            
+ 3941.00/(-3914.85) 3943.00/(-3916.84)  FOLHELHO            PRETO                                                                   
+ 3943.00/(-3916.84) 4119.00/(-4091.75)  ARENITO                                 HIALINO        MEDIO          SUBANGULAR            
+ ____________________________                                                                                                       
+ DIAMETROS DAS FASES DO POCO                                                                                                        
+ ____________________________                                                                                                       
+ PROF./COTA          DIAMETRO                                                                                                       
+  1030.00(-1005.00)   36                                                                                                            
+  1515.00(-1489.98)   26                                                                                                            
+  2117.00(-2091.96)   17 1/2                                                                                                        
+  4119.00(-4091.75)   12 1/4                                                                                                        
+ _____________________                                                                                                              
+ DADOS DE TAMPONAMENTO                                                                                                              
+ _____________________                                                                                                              
+ TIPO      TOPO                BASE                                                                                                 
+ ABANDONO   960.00 ( -935.00)  1089.00 (-1064.00)                                                                                   
+ ABANDONO  1984.00 (-1958.96)  2220.00 (-2194.95)                                                                                   
+ ABANDONO  2540.00 (-2514.95)  2670.00 (-2644.95)                                                                                   
+ ABANDONO  2670.00 (-2644.95)  2880.00 (-2854.95)                                                                                   
+ ABANDONO  2900.00 (-2874.95)  3132.00 (-3106.94)                                                                                   
+ ABANDONO  3132.00 (-3106.94)  3550.00 (-3524.81)                                                                                   
+ ABANDONO  3550.00 (-3524.81)  3770.00 (-3744.41)                                                                                   
+ ABANDONO  3770.00 (-3744.41)  4119.00 (-4091.75)                                                                                   
+ ____________________                                                                                                               
+    REVESTIMENTOS                                                                                                                   
+ ____________________                                                                                                               
+ TIPO                PROFUNDIDADE        DIAMETRO           INDICADOR RECUPERACAO                                                   
+ REVESTIMENTO        1030.00 (-1005.00)  30                 NAO                                                                     
+ REVESTIMENTO        1508.00 (-1482.98)  20                 NAO                                                                     
+ REVESTIMENTO        2104.00 (-2078.96)  13 3/8             NAO                                                                     
+   ___________________                                                                                                                                                                                                                                         
+     Poco: 6-ESS-168                                                                                                                                                                                                                                           
+   ___________________                                                                                                                                                                                                                                         
+___________________________
+   DADOS GERAIS DE POCOS   
+___________________________
+PREFIXO           : 6-ESS-168
+SIGLA             : 6ESS 0168  ES
+DESIGNACAO        : ESPIRITO SANTO SUBMARINO.168                                                                                                                                                                                                               
+API               : 342710135600                                                                                                                                                                                                                               
+GEOMETRIA DO POCO : VERTICAL                                                                                                                                                                                                                                   
+CLASSIFICACAO     : JAZIDA MAIS PROFUNDA                                                                                                                                                                                                                       
+GEDOC             : 19028                                                                                                                                                                                                                                      
+AMBIENTE          : MAR                                                                                                                                                                                                                                        
+CODIGO            : 58434                                                                                                                                                                                                                                      
