@@ -1,5 +1,6 @@
 FOLHELHO                   FLH        #40ff00         57    
-ARENITO                    ARN        #ffff40         49       
+ARENITO                    ARN        #ffff40         49  
+MARGA                      MRG        #2f0eff         58     
 DIAMICTITO                 DMC        #10ef60         44
 CONGLOMERADO               CGL        #ffbf20         42
 CALCITIC_SANDSTONE         CDSD       #0080ef         8 
