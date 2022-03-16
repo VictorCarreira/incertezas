@@ -1,0 +1,9 @@
+                        Simulações                  Equação
+   Carbôno Orgânico Marinho (COₘₐ)      Definition Equation
+                  Fluxo de Carbono       ACHILLES.BR (2021)
+        Eficiência de Soterramento   Betts & Holland (1991)
+ Carbôno Orgânico Terrestre (COₜₑ)  Equação de COₜₑ (baixo)
+                    Anoxia(Mínimo)                     4905
+                    Anoxia(Máximo)                     5283
+              Fator de preservação                      0.2
+                          Variável         Profundidade [m]
